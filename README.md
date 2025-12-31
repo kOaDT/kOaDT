@@ -2,7 +2,7 @@
 
 ![](https://github.com/kOaDT/kOaDT/blob/main/github-metrics.svg)
 
-## 🔬 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -13,7 +13,7 @@
 | [hate-crimes-map](https://github.com/kOaDT/hate-crimes-map) | Hate crime data visualization |
 | [cyber-bot](https://github.com/kOaDT/cyber-bot) | Telegram bot for cybersecurity learning |
 
-## 🔗 Links
+## Links
 
 [![Root-Me](https://img.shields.io/badge/Root--Me-black?style=flat-square&logo=hackthebox&logoColor=white)](https://www.root-me.org/kOaDT)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kOaDT)

@@ -2,14 +2,14 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:  # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  github-metrics:
+  header:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -19,16 +19,92 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kOaDT
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header
           config_timezone: Europe/Paris
-          
-          # Isometric calendar
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          filename: header.svg
+
+  repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kOaDT
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+          plugin_repositories: yes
+          plugin_repositories_pinned: 6
+          filename: repositories.svg
+
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kOaDT
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          filename: achievements.svg
+
+  isocalendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kOaDT
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
-          # Lines of code
-          plugin_lines: yes
-          plugin_lines_sections: base
-          
-          # Output file
-          filename: github-metrics.svg
+          plugin_isocalendar_duration: full-year
+          filename: isocalendar.svg
+
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kOaDT
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          filename: habits.svg
+
+  languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kOaDT
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          filename: languages.svg

@@ -24,7 +24,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kOaDT/oss-oopssec-store</span>
-                                        <span>created 15 days ago</span>
+                                        <span>created 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deliberately vulnerable Next.js e-commerce for web security training and CTF use. Includes documented vulnerabilities with flags.</div>
@@ -77,7 +77,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kOaDT/poc-cve-2025-55182</span>
-                                        <span>created 27 days ago</span>
+                                        <span>created 28 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell.</div>

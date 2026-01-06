@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="606" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="622" class="">
     <defs>
         <style/>
     </defs>
@@ -27,7 +27,7 @@
                                         <span>created 19 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Run `npx create-oss-store` and start hunting for flags. Deliberately vulnerable Next.js e-commerce for web security training and CTF use.</div>
+                                <div class="field description">Run `npx create-oss-store`, open your browser, and start hunting flags. Deliberately vulnerable Next.js e-commerce for web security training and CTF use.</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">

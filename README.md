@@ -1,11 +1,14 @@
-<div align="center">
-
+<table style="border: 0;">
+<tr style="border: 0;">
+<td valign="top" style="border: 0;">
+  
 ![](https://github.com/kOaDT/kOaDT/blob/main/header.svg)
 
-</div>
-
-<div align="center">
-
+</td>
+<td valign="top" style="border: 0;">
+  
 ![](https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg)
 
-</div>
+</td>
+</tr>
+</table>

@@ -13,7 +13,7 @@ Full-stack developer transitioning into cybersecurity with a focus on vulnerabil
 | [**CVE-2025-29927 POC**](https://github.com/kOaDT/poc-cve-2025-29927) | Demonstrates authorization bypass vulnerability in Next.js middleware-based authentication. | Security Research | ![Stars](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-29927?style=flat-square&label=★&color=gray) |
 | [**Hash Cracker**](https://github.com/kOaDT/crack-hash) | Multi-threaded dictionary attack tool optimized for performance using Rust's concurrency features. | Rust, Cryptography | ![Stars](https://img.shields.io/github/stars/kOaDT/crack-hash?style=flat-square&label=★&color=gray) |
 | [**Hate Crimes Map**](https://github.com/kOaDT/hate-crimes-map) | Data visualization platform mapping hate crime statistics from public datasets. | TypeScript, Data Visualization | ![Stars](https://img.shields.io/github/stars/kOaDT/hate-crimes-map?style=flat-square&label=★&color=gray) |
-| [**Cyber Hub**](https://cyberhub.blog/) | Cybersecurity intelligence platform integrating RSS feeds, NVD API, and ENISA EUVD for CVE tracking and security news aggregation. | TypeScript, Security Intelligence | ![Stars](https://img.shields.io/github/stars/kOaDT/cyber-bot?style=flat-square&label=★&color=gray) |
+| [**Cyber Hub**](https://cyberhub.blog/) | Cybersecurity intelligence platform integrating RSS feeds for security news aggregation, NVD API for CVE tracking, and ENISA EUVD. | TypeScript, Security Intelligence | ![Stars](https://img.shields.io/github/stars/kOaDT/cyber-bot?style=flat-square&label=★&color=gray) |
 
 ## Technical Focus
 

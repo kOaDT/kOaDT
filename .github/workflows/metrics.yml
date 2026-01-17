@@ -75,7 +75,6 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_days: 14
           plugin_habits_from: 200
-          config_timezone: Europe/Paris
           filename: habits.svg
 
   isocalendar:

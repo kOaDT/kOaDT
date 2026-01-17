@@ -17,17 +17,17 @@ Full-stack developer transitioning into cybersecurity with a focus on vulnerabil
 
 ## Technical Focus
 
-![Topics](https://github.com/kOaDT/kOaDT/blob/main/topics.svg)
-
-## Activity & Metrics
-
-![Most Used Languages](https://github.com/kOaDT/kOaDT/blob/main/languages.svg)
-
-![Activity Calendar](https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg)
+<img src="https://github.com/kOaDT/kOaDT/blob/main/topics.svg" width="100%" alt="Topics">
 
 ## Stargazers
 
-![Stargazers](https://github.com/kOaDT/kOaDT/blob/main/stargazers.svg)
+<img src="https://github.com/kOaDT/kOaDT/blob/main/stargazers.svg" width="100%" alt="Stargazers">
+
+## Activity & Metrics
+
+<img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="100%" alt="Activity Calendar">
+
+<img src="https://github.com/kOaDT/kOaDT/blob/main/languages.svg" width="100%" alt="Most Used Languages">
 
 ---
 

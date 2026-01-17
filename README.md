@@ -1,4 +1,4 @@
-![Header](https://github.com/kOaDT/kOaDT/blob/main/header.svg)
+<img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="100%" alt="Header">
 
 ## About
 

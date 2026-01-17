@@ -1,4 +1,4 @@
-<img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="70%" alt="Header">
+<img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="60%" alt="Header">
 
 ## About
 
@@ -17,17 +17,17 @@ Full-stack developer transitioning into cybersecurity with a focus on vulnerabil
 
 ## Technical Focus
 
-<img src="https://github.com/kOaDT/kOaDT/blob/main/topics.svg" width="70%" alt="Topics">
+<img src="https://github.com/kOaDT/kOaDT/blob/main/topics.svg" width="60%" alt="Topics">
 
 ## Stargazers
 
-<img src="https://github.com/kOaDT/kOaDT/blob/main/stargazers.svg" width="70%" alt="Stargazers">
+<img src="https://github.com/kOaDT/kOaDT/blob/main/stargazers.svg" width="60%" alt="Stargazers">
 
 ## Activity & Metrics
 
-<img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="70%" alt="Activity Calendar">
+<img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="60%" alt="Activity Calendar">
 
-<img src="https://github.com/kOaDT/kOaDT/blob/main/languages.svg" width="70%" alt="Most Used Languages">
+<img src="https://github.com/kOaDT/kOaDT/blob/main/languages.svg" width="60%" alt="Most Used Languages">
 
 ---
 

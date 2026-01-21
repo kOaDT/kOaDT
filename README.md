@@ -16,7 +16,7 @@
 | [**Cyber Hub**](https://cyberhub.blog/) | Cybersecurity intelligence platform integrating RSS feeds for security news aggregation, NVD API for CVE tracking, and ENISA EUVD. | TypeScript, Security Intelligence | ![Stars](https://img.shields.io/github/stars/kOaDT/cyber-bot?style=flat&logo=github&color=gray&label=) |
 
 <p align="center">
-  <img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="70%" alt="Activity Calendar">
+  <img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="60%" alt="Activity Calendar">
 </p>
 
 ---

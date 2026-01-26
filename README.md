@@ -1,7 +1,9 @@
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2%;">
-  <img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="48%" alt="Header">
-  <img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="48%" alt="Activity Calendar">
-</div>
+<table align="center">
+  <tr>
+    <td width="50%"><img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="100%" alt="Header"></td>
+    <td width="50%"><img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="100%" alt="Activity Calendar"></td>
+  </tr>
+</table>
 
 ## Featured Projects
 

@@ -1,8 +1,7 @@
-<p align="center">
-  <img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="60%" alt="Header">
-  <br><br>
-  <img src="https://img.shields.io/github/stars/kOaDT?style=flat&logo=github&label=Total%20Stars&color=gray" alt="Total Stars">
-</p>
+<div align="center">
+  <img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="48%" alt="Header" style="display: inline-block; margin-right: 2%;">
+  <img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="48%" alt="Activity Calendar" style="display: inline-block;">
+</div>
 
 ## Featured Projects
 
@@ -14,10 +13,6 @@
 | [**Hash Cracker**](https://github.com/kOaDT/crack-hash) | Multi-threaded dictionary attack tool optimized for performance using Rust's concurrency features. | Rust, Cryptography | ![Stars](https://img.shields.io/github/stars/kOaDT/crack-hash?style=flat&logo=github&color=gray&label=) |
 | [**Hate Crimes Map**](https://github.com/kOaDT/hate-crimes-map) | Data visualization platform mapping hate crime statistics from public datasets. | TypeScript, Data Visualization | ![Stars](https://img.shields.io/github/stars/kOaDT/hate-crimes-map?style=flat&logo=github&color=gray&label=) |
 | [**Cyber Hub**](https://cyberhub.blog/) | Cybersecurity intelligence platform integrating RSS feeds for security news aggregation, NVD API for CVE tracking, and ENISA EUVD. | TypeScript, Security Intelligence | ![Stars](https://img.shields.io/github/stars/kOaDT/cyber-bot?style=flat&logo=github&color=gray&label=) |
-
-<p align="center">
-  <img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="60%" alt="Activity Calendar">
-</p>
 
 ---
 

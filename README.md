@@ -1,6 +1,6 @@
 <table align="center">
   <tr>
-    <td width="50%"><img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="100%" alt="Header"><img src="https://tryhackme-badges.s3.amazonaws.com/kOaDT.png" alt="Your Image Badge" /></td>
+    <td width="50%"><img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="100%" alt="Header"></td>
     <td width="50%"><img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="100%" alt="Activity Calendar"></td>
   </tr>
 </table>

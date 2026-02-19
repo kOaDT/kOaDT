@@ -3,7 +3,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=200&height=40&lines=kOaDT" alt="kOaDT" /></a>
 
-**AppSec & Software Developer**
+### AppSec & Software Developer
 
 <img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="49%" alt="Header">
 

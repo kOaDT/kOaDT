@@ -1,12 +1,9 @@
 
 <div align="center">
 
-```
- █ █ █▀█ █▀█ █▀▄ ▀█▀
- █▀▄ █▄█ █▀█ █▄▀  █
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&repeat=false&width=200&height=40&lines=kOaDT" alt="kOaDT" /></a>
 
-## AppSec & Software Developer
+**AppSec & Software Developer**
 
 <img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="49%" alt="Header">
 
@@ -22,10 +19,10 @@
 
 ### CVE Proof of Concepts
 
-| | CVE | Target | Severity | Description |
-|:----|:----|:-------|:--------:|:------------|
-| ![Stars](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182?style=flat&logo=github&color=gray&label=) | [CVE-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) | React Server Components | ![CVSS 10.0](https://img.shields.io/badge/10.0-critical?style=flat-square&color=d73a49) | A pre-authentication remote code execution vulnerability affecting RSC, also known as React2Shell |
-| ![Stars](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-29927?style=flat&logo=github&color=gray&label=) | [CVE-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927) | Next.js Middleware | ![CVSS 9.1](https://img.shields.io/badge/9.1-critical?style=flat-square&color=e36209) | An exploit script a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware |
+| | CVE | Severity | Description |
+|:----|:-------|:--------:|:------------|
+| ![Stars](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182?style=flat&logo=github&color=gray&label=) | [CVE-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) | ![CVSS 10.0](https://img.shields.io/badge/10.0-critical?style=flat-square&color=d73a49) | A pre-authentication remote code execution vulnerability affecting RSC, also known as React2Shell |
+| ![Stars](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-29927?style=flat&logo=github&color=gray&label=) | [CVE-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927) | ![CVSS 9.1](https://img.shields.io/badge/9.1-critical?style=flat-square&color=e36209) | An exploit script a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware |
 
 <br>
 

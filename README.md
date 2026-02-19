@@ -1,22 +1,55 @@
 
-| Project | Description | Tech | Stars |
-|---------|-------------|------|-------|
-| [**OopsSec Store**](https://github.com/kOaDT/oss-oopssec-store) | Deliberately vulnerable e-commerce application designed for security training and CTF challenges. Features documented vulnerabilities and educational flags. Run `npx create-oss-store`, open your browser, and start hunting flags! | Web Security, CTF | ![Stars](https://img.shields.io/github/stars/kOaDT/oss-oopssec-store?style=flat&logo=github&color=gray&label=) |
-| [**CVE-2025-55182 POC**](https://github.com/kOaDT/poc-cve-2025-55182) | Proof of concept for critical pre-authentication RCE in React Server Components (CVSS 10.0). | Vulnerability Research | ![Stars](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182?style=flat&logo=github&color=gray&label=) |
-| [**CVE-2025-29927 POC**](https://github.com/kOaDT/poc-cve-2025-29927) | Demonstrates authorization bypass vulnerability in Next.js middleware-based authentication. | Vulnerability Research | ![Stars](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-29927?style=flat&logo=github&color=gray&label=) |
-| [**Cyber Hub**](https://cyberhub.blog/) | Cybersecurity intelligence platform integrating RSS feeds for security news aggregation, NVD API for CVE tracking, and ENISA EUVD. | TypeScript, Security Intelligence | ![Stars](https://img.shields.io/github/stars/kOaDT/cyber-bot?style=flat&logo=github&color=gray&label=) |
-| [**Hash Cracker**](https://github.com/kOaDT/crack-hash) | Multi-threaded dictionary attack tool optimized for performance using Rust's concurrency features. | Rust, Cryptography | ![Stars](https://img.shields.io/github/stars/kOaDT/crack-hash?style=flat&logo=github&color=gray&label=) |
-| [**Hate Crimes Map**](https://github.com/kOaDT/hate-crimes-map) | Data visualization platform mapping hate crime statistics from public datasets. | TypeScript, Data Visualization | ![Stars](https://img.shields.io/github/stars/kOaDT/hate-crimes-map?style=flat&logo=github&color=gray&label=) |
+<div align="center">
 
----
+```
+$ whoami
+```
 
-<table align="center">
-  <tr>
-    <td width="50%"><img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="100%" alt="Header"></td>
-    <td width="50%"><img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="100%" alt="Activity Calendar"></td>
-  </tr>
-</table>
+**AppSec & Software Developer**
 
----
+<img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="49%" alt="Header">
 
-[lgra.netlify.app](https://lgra.netlify.app/) • [TryHackMe](https://tryhackme.com/p/kOaDT) • [RootMe](https://www.root-me.org/kOaDT) 
+<br>
+
+[![Website](https://img.shields.io/badge/lgra.netlify.app-0a0a0a?style=flat-square&logo=netlify&logoColor=white)](https://lgra.netlify.app/)&nbsp;&nbsp;
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0a0a?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kOaDT)&nbsp;&nbsp;
+[![Root-Me](https://img.shields.io/badge/Root--Me-0a0a0a?style=flat-square&logo=rootme&logoColor=white)](https://www.root-me.org/kOaDT)
+
+</div>
+
+<br>
+
+### CVE Proof of Concepts
+
+| CVE | Target | Severity | Description |
+|:----|:-------|:--------:|:------------|
+| [CVE-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) | React Server Components | ![CVSS 10.0](https://img.shields.io/badge/10.0-critical?style=flat-square&color=d73a49) | React2Shell RCE |
+| [CVE-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927) | Next.js Middleware | ![CVSS 9.1](https://img.shields.io/badge/9.1-critical?style=flat-square&color=e36209) | Authorization bypass |
+
+<br>
+
+### Projects
+
+| | Project | Description |
+|:-:|:--------|:------------|
+| ![Stars](https://img.shields.io/github/stars/kOaDT/oss-oopssec-store?style=flat-square&color=555&label=) | [**OopsSec Store**](https://github.com/kOaDT/oss-oopssec-store) | Deliberately vulnerable e-commerce for security training and CTF. Run `npx create-oss-store`, open your browser, and start hunting flags! |
+| ![Stars](https://img.shields.io/github/stars/kOaDT/cyber-bot?style=flat-square&color=555&label=) | [**Cyber Hub**](https://cyberhub.blog/) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... |
+| ![Stars](https://img.shields.io/github/stars/kOaDT/crack-hash?style=flat-square&color=555&label=) | [**Hash Cracker**](https://github.com/kOaDT/crack-hash) | Multi-threaded dictionary attack tool built with Rust |
+| ![Stars](https://img.shields.io/github/stars/kOaDT/hate-crimes-map?style=flat-square&color=555&label=) | [**Hate Crimes Map**](https://github.com/kOaDT/hate-crimes-map) | Data visualization platform mapping hate crime statistics |
+
+<br>
+
+<details>
+<summary><b>Metrics</b></summary>
+<br>
+
+<div align="center">
+
+<img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="49%" alt="Activity Calendar">
+
+<img src="https://github.com/kOaDT/kOaDT/blob/main/languages.svg" width="49%" alt="Languages">
+<img src="https://github.com/kOaDT/kOaDT/blob/main/stargazers.svg" width="49%" alt="Stargazers">
+
+</div>
+
+</details>

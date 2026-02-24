@@ -12,12 +12,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kOaDT
           config_timezone: Europe/Paris
-          committer_message: "chore: update metrics"
+          committer_message: "chore: update metrics [skip ci]"
           template: classic
           base: header, activity, community, repositories, metadata
           plugin_introduction: yes

@@ -43,8 +43,6 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!-- <img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="70%" alt="Activity Calendar"> -->
-
 ![kOaDT's github stats](https://github-readme-stats.vercel.app/api?username=kOaDT&show_icons=true&theme=radical&include_all_commits=true)
 
 <img src="https://streak-stats.demolab.com/?user=kOaDT"></img>

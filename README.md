@@ -15,15 +15,6 @@
 
 <br>
 
-### CVE Proof of Concepts
-
-| CVE | Severity | Description |
-|:-------|:--------:|:------------|
-| [CVE-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) | ![CVSS 10.0](https://img.shields.io/badge/10.0-critical?style=flat-square&color=d73a49) | A pre-authentication remote code execution vulnerability also known as React2Shell |
-| [CVE-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927) | ![CVSS 9.1](https://img.shields.io/badge/9.1-critical?style=flat-square&color=e36209) | A vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware |
-
-<br>
-
 ### Projects
 
 | Project | Description |
@@ -35,14 +26,32 @@
 
 <br>
 
+### CVE Proof of Concepts
+
+| CVE | Severity | Description |
+|:-------|:--------:|:------------|
+| [CVE-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) | ![CVSS 10.0](https://img.shields.io/badge/10.0-critical?style=flat-square&color=d73a49) | A pre-authentication remote code execution vulnerability also known as React2Shell |
+| [CVE-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927) | ![CVSS 9.1](https://img.shields.io/badge/9.1-critical?style=flat-square&color=e36209) | A vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware |
+
+<br>
+
 <details>
 <summary><b>Metrics</b></summary>
 <br>
 
 <div align="center">
 
-<img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="70%" alt="Activity Calendar">
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!-- <img src="https://github.com/kOaDT/kOaDT/blob/main/isocalendar.svg" width="70%" alt="Activity Calendar"> -->
+
+![kOaDT's github stats](https://github-readme-stats.vercel.app/api?username=kOaDT&show_icons=true&theme=radical&include_all_commits=true)
+
+<img src="https://streak-stats.demolab.com/?user=kOaDT"></img>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
+
 
 </details>

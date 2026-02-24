@@ -9,12 +9,18 @@ on:
       - main
 
 jobs:
-  header:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Generate header.svg
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kOaDT
@@ -25,12 +31,8 @@ jobs:
           plugin_introduction_title: yes
           filename: header.svg
 
-  stargazers:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate stargazers.svg
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kOaDT
@@ -41,12 +43,8 @@ jobs:
           plugin_stargazers_charts_type: classic
           filename: stargazers.svg
 
-  topics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate topics.svg
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kOaDT
@@ -58,12 +56,8 @@ jobs:
           plugin_topics_limit: 0
           filename: topics.svg
 
-  languages:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate languages.svg
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kOaDT
@@ -82,12 +76,8 @@ jobs:
           plugin_languages_threshold: 0%
           filename: languages.svg
 
-  isocalendar:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate isocalendar.svg
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: kOaDT
@@ -97,3 +87,37 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           filename: isocalendar.svg
+
+      - name: Generate github-metrics.svg (combined stats)
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kOaDT
+          template: classic
+          base: header
+          config_timezone: Europe/Paris
+          config_order: base.header, isocalendar, languages, topics
+          plugin_introduction: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_topics: yes
+          plugin_topics_mode: starred
+          plugin_topics_limit: 0
+          filename: github-metrics.svg
+
+      - name: Copy generated SVGs to workspace
+        run: |
+          if [ -d /metrics_renders ]; then
+            cp -v /metrics_renders/*.svg . 2>/dev/null || sudo cp -v /metrics_renders/*.svg .
+          fi
+          ls -la *.svg 2>/dev/null || echo "No SVG files found"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add *.svg
+          git diff --staged --quiet || (git commit -m "chore: update metrics [skip ci]" && git push)

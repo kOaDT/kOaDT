@@ -3,7 +3,7 @@
 
 ## AppSec & Software Developer
 
-<img src="https://github.com/kOaDT/kOaDT/blob/main/header.svg" width="49%" alt="Header">
+<img src="./header.svg" width="49%" alt="Header">
 
 <br>
 
@@ -47,7 +47,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=kOaDT"></img>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="./github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
 

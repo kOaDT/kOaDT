@@ -43,7 +43,7 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-![kOaDT's github stats](https://github-readme-stats.vercel.app/api?username=kOaDT&show_icons=true&theme=radical&include_all_commits=true)
+![kOaDT's github stats](./github-stats.svg)
 
 <img src="https://streak-stats.demolab.com/?user=kOaDT"></img>
 

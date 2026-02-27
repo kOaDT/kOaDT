@@ -31,6 +31,7 @@
                             <div class="label" title="">cybersecurity-projects</div>
                             <div class="label" title="The Common Vulnerabilities and Exposures (CVE) system provides a reference-method for publicly known vulnerabilities.">common vulnerabilities and exposures (cve)</div>
                             <div class="label" title="">cybersecurity-education</div>
+                            <div class="label" title="">appsec</div>
                             <div class="label" title="">cybersecurity-tools</div>
                             <div class="label" title="">capture-the-flag</div>
                             <div class="label" title="IoC can either mean &amp;quot;Inversion of Control&amp;quot; or &amp;quot;Indicator of Compromise&amp;quot;, depending on the context.">ioc (disambiguation)</div>

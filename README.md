@@ -53,11 +53,7 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![kOaDT's github stats](./github-stats.svg)
-
-<img src="https://streak-stats.demolab.com/?user=kOaDT"></img>
-
-<img src="./github-metrics.svg" alt="Metrics" width="100%">
+<img src="https://streak-stats.demolab.com/?user=kOaDT&theme=dark"></img>
 
 </div>
 

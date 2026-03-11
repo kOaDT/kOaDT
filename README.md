@@ -49,14 +49,6 @@
 | [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 3 | 1 | 152 | 346 |
 | [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 10 | 9 |
 | [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 9 | 5 |
-| [**encodr**](https://github.com/kOaDT/encodr) | A Chrome extension that provides a comprehensive suite of encoding, decoding, and hash analysis tools, all within your browser. | 1 | - | 11 | 2 |
-| [**ip-calculator**](https://github.com/kOaDT/ip-calculator) | A didactic web tool that converts IPv4 addresses to binary with a live step-by-step breakdown of the conversion process. | 1 | - | 3 | 9 |
-| [**skipr**](https://github.com/kOaDT/skipr) | Open-source marine navigation app | 1 | - | - | - |
-| [**PHP-blog**](https://github.com/kOaDT/PHP-blog) | Create a blog for a writer without framework or CMS. Built with PHP, Twig and MaterializeCSS. | - | - | 5 | 2 |
-| [**JS-mvp-ecommerce**](https://github.com/kOaDT/JS-mvp-ecommerce) | MVP for ecommerce frontend using Javascript without framework. Built with vanilla JavaScript and TailwindCSS. | - | - | 4 | 3 |
-| [**JS-christmas-gift**](https://github.com/kOaDT/JS-christmas-gift) | Angry Birds-style game built with JavaScript. | - | - | 3 | 2 |
-| [**SYMFONY-ecommerce**](https://github.com/kOaDT/SYMFONY-ecommerce) | E-commerce application built with Symfony PHP framework. | - | - | 1 | 1 |
-| [**ROR-smallAds**](https://github.com/kOaDT/ROR-smallAds) | Application built with Ruby on Rails. | - | - | 1 | - |
 <!-- PROJECTS_END -->
 
 <!-- OSS_START -->

@@ -191,9 +191,9 @@ def build_oss(data):
     items.sort(key=lambda x: (-x.get("isFeatured", 0), -x.get("stars", 0)))
 
     lines = [
+        "<details>",
+        f"<summary><b>OSS Contributions ({len(items)})</b></summary>",
         "<br>",
-        "",
-        "### OSS Contributions",
         "",
         "| Repository | Description | ⭐ | 🍴 |",
         "|:-----------|:------------|---:|---:|",
@@ -207,6 +207,8 @@ def build_oss(data):
         repo_url = f"https://github.com/{owner}/{name}"
         link = f"[**{owner}/{name}**]({repo_url})"
         lines.append(f"| {link} | {desc} | {stars} | {forks} |")
+    lines.append("")
+    lines.append("</details>")
     return "\n".join(lines)
 
 

@@ -132,15 +132,22 @@ def build_cve_discoveries(data):
         "",
         "### CVE Discoveries",
         "",
-        "| CVE | Description |",
-        "|:----|:------------|",
+        "| CVE | Score | Date | Description |",
+        "|:----|:------|:-----|:------------|",
     ]
     for item in items:
-        name = item.get("name", "")
+        cve_id = item.get("cveId", "")
         desc = item.get("description", "")
-        link = item.get("link", "")
-        cve_link = f"[{name}]({link})" if link else name
-        lines.append(f"| {cve_link} | {desc} |")
+        cvss = item.get("cvss")
+        published = item.get("published", "")
+        refs = item.get("references", [])
+        advisory = next((r["url"] for r in refs if "advisories" in r.get("url", "")), "")
+        if not advisory and refs:
+            advisory = refs[0].get("url", "")
+        cve_link = f"[{cve_id}]({advisory})" if advisory else cve_id
+        cvss_str = f"{cvss:.1f}" if isinstance(cvss, (int, float)) else str(cvss or "")
+        date_str = published[:10] if published else ""
+        lines.append(f"| {cve_link} | {cvss_str} | {date_str} | {desc} |")
     return "\n".join(lines)
 
 

@@ -79,9 +79,15 @@ def build_stats(profile):
     streak_str = f"{streak} days" if isinstance(streak, int) else str(streak)
 
     return "\n".join([
+        "<details>",
+        "<summary><b>TryHackMe Stats</b></summary>",
+        "<br>",
+        "",
         "| Global Rank | Top | Streak |",
         "|-------------|-----|--------|",
         f"| {rank_str} | {top_str} | {streak_str} |",
+        "",
+        "</details>",
     ])
 
 
@@ -98,9 +104,9 @@ def build_projects(data):
     ))
 
     lines = [
+        "<details>",
+        f"<summary><b>Projects ({len(repos)})</b></summary>",
         "<br>",
-        "",
-        "### Projects",
         "",
         "| Project | Description | ⭐ | 🍴 | 👁️ | 📥 |",
         "|:--------|:------------|---:|---:|----:|---:|",
@@ -117,6 +123,8 @@ def build_projects(data):
             f"| {fmt(r.get('views_total', 0))} "
             f"| {fmt(r.get('clones_total', 0))} |"
         )
+    lines.append("")
+    lines.append("</details>")
     return "\n".join(lines)
 
 
@@ -128,9 +136,9 @@ def build_cve_discoveries(data):
         return ""
 
     lines = [
+        "<details>",
+        f"<summary><b>CVE Discoveries ({len(items)})</b></summary>",
         "<br>",
-        "",
-        "### CVE Discoveries",
         "",
         "| CVE | Score | Date | Description |",
         "|:----|:------|:-----|:------------|",
@@ -148,6 +156,8 @@ def build_cve_discoveries(data):
         cvss_str = f"{cvss:.1f}" if isinstance(cvss, (int, float)) else str(cvss or "")
         date_str = published[:10] if published else ""
         lines.append(f"| {cve_link} | {cvss_str} | {date_str} | {desc} |")
+    lines.append("")
+    lines.append("</details>")
     return "\n".join(lines)
 
 
@@ -166,9 +176,9 @@ def build_poc_cve(data):
     repos.sort(key=lambda r: -r.get("stargazers_count", 0))
 
     lines = [
+        "<details>",
+        f"<summary><b>CVE Proof of Concepts ({len(repos)})</b></summary>",
         "<br>",
-        "",
-        "### CVE Proof of Concepts",
         "",
         "| CVE | Description | ⭐ | 🍴 | 👁️ | 📥 |",
         "|:----|:------------|---:|---:|----:|---:|",
@@ -185,6 +195,8 @@ def build_poc_cve(data):
             f"| {fmt(r.get('views_total', 0))} "
             f"| {fmt(r.get('clones_total', 0))} |"
         )
+    lines.append("")
+    lines.append("</details>")
     return "\n".join(lines)
 
 
@@ -227,9 +239,9 @@ def build_certifications(data):
         return ""
 
     lines = [
+        "<details>",
+        f"<summary><b>Certifications ({len(items)})</b></summary>",
         "<br>",
-        "",
-        "### Certifications",
         "",
         "| Certification | Date |",
         "|:--------------|:-----|",
@@ -240,6 +252,8 @@ def build_certifications(data):
         link = item.get("link", "")
         cert_link = f"[{name}]({link})" if link else name
         lines.append(f"| {cert_link} | {date} |")
+    lines.append("")
+    lines.append("</details>")
     return "\n".join(lines)
 
 

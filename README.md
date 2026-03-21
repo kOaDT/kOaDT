@@ -35,9 +35,9 @@
 
 | CVE | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:----|:------------|---:|---:|----:|---:|
-| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 12 | 3 | 3355 | 333 |
-| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 5 | 3 | 1022 | 176 |
-| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | - | - |
+| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 12 | 3 | 3377 | 335 |
+| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 5 | 3 | 1026 | 178 |
+| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | 86 | 49 |
 
 </details>
 <!-- POC_CVE_END -->
@@ -49,10 +49,10 @@
 
 | Project | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:--------|:------------|---:|---:|----:|---:|
-| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | The first security CTF lab built with React and Next.js. Open you browser and start hacking. | 11 | 27 | 2224 | 8843 |
-| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 3 | 1 | 177 | 353 |
-| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 18 | 15 |
-| [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 17 | 8 |
+| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | The first security CTF lab built with React and Next.js. Open you browser and start hacking. | 11 | 27 | 2268 | 9537 |
+| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 3 | 1 | 143431 | 353 |
+| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 19 | 15 |
+| [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 18 | 8 |
 
 </details>
 <!-- PROJECTS_END -->
@@ -64,14 +64,14 @@
 
 | Repository | Description | ⭐ | 🍴 |
 |:-----------|:------------|---:|---:|
-| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 41988 | 2220 |
-| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 6818 | 1277 |
-| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 4540 | 294 |
+| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 42027 | 2221 |
+| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 6822 | 1277 |
+| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 4545 | 293 |
 | [**OWASP/www-project-vulnerable-web-applications-directory**](https://github.com/OWASP/www-project-vulnerable-web-applications-directory) | The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available. | 82 | 45 |
-| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 1919 | 1187 |
-| [**fabionoth/awesome-cyber-security**](https://github.com/fabionoth/awesome-cyber-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. | 1825 | 248 |
-| [**vavkamil/awesome-vulnerable-apps**](https://github.com/vavkamil/awesome-vulnerable-apps) | Awesome Vulnerable Applications | 1376 | 211 |
-| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1271 | 209 |
+| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 1930 | 1199 |
+| [**fabionoth/awesome-cyber-security**](https://github.com/fabionoth/awesome-cyber-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. | 1827 | 248 |
+| [**vavkamil/awesome-vulnerable-apps**](https://github.com/vavkamil/awesome-vulnerable-apps) | Awesome Vulnerable Applications | 1377 | 211 |
+| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1272 | 209 |
 | [**okhosting/awesome-cyber-security**](https://github.com/okhosting/awesome-cyber-security) | A curated list of cyber security resources and tools. | 478 | 68 |
 | [**secnotes/awesome-cybersecurity**](https://github.com/secnotes/awesome-cybersecurity) | A collection of awesome github repositories about security | 71 | 6 |
 
@@ -100,7 +100,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #15510 | 1% | 584 days |
+| #15495 | 1% | 585 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -162,7 +162,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (298)</b></summary>
+<summary><b>TryHackMe Completed Rooms (299)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -212,259 +212,260 @@
 | 43 | [HTTP in Detail](https://tryhackme.com/room/httpindetail) | easy |
 | 44 | [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx) | info |
 | 45 | [Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x) | info |
-| 46 | [What is Networking?](https://tryhackme.com/room/whatisnetworking) | info |
-| 47 | [Intro to LAN](https://tryhackme.com/room/introtolan) | info |
-| 48 | [OSI Model](https://tryhackme.com/room/osimodelzi) | info |
-| 49 | [Packets & Frames](https://tryhackme.com/room/packetsframes) | info |
-| 50 | [Extending Your Network](https://tryhackme.com/room/extendingyournetwork) | info |
-| 51 | [Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro) | easy |
-| 52 | [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx) | info |
-| 53 | [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc) | medium |
-| 54 | [Walking An Application](https://tryhackme.com/room/walkinganapplication) | easy |
-| 55 | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) | easy |
-| 56 | [Principles of Security](https://tryhackme.com/room/principlesofsecurity) | info |
-| 57 | [Metasploit: Exploitation](https://tryhackme.com/room/metasploitexploitation) | easy |
-| 58 | [Content Discovery](https://tryhackme.com/room/contentdiscovery) | easy |
-| 59 | [Subdomain Enumeration](https://tryhackme.com/room/subdomainenumeration) | easy |
-| 60 | [Authentication Bypass](https://tryhackme.com/room/authenticationbypass) | easy |
-| 61 | [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) | easy |
-| 62 | [Passive Reconnaissance](https://tryhackme.com/room/passiverecon) | easy |
-| 63 | [Active Reconnaissance](https://tryhackme.com/room/activerecon) | easy |
-| 64 | [Nmap Live Host Discovery](https://tryhackme.com/room/nmap01) | medium |
-| 65 | [Nmap Basic Port Scans](https://tryhackme.com/room/nmap02) | easy |
-| 66 | [Nmap Advanced Port Scans](https://tryhackme.com/room/nmap03) | medium |
-| 67 | [Metasploit: Introduction ](https://tryhackme.com/room/metasploitintro) | easy |
-| 68 | [IDOR](https://tryhackme.com/room/idor) | easy |
-| 69 | [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) | easy |
-| 70 | [Metasploit: Meterpreter](https://tryhackme.com/room/meterpreter) | easy |
-| 71 | [Intro to SSRF](https://tryhackme.com/room/ssrfqi) | easy |
-| 72 | [Pyramid Of Pain ](https://tryhackme.com/room/pyramidofpainax) | easy |
-| 73 | [Intro to Cross-site Scripting](https://tryhackme.com/room/xss) | easy |
-| 74 | [Nmap Post Port Scans](https://tryhackme.com/room/nmap04) | medium |
-| 75 | [Cyber Kill Chain ](https://tryhackme.com/room/cyberkillchainzmt) | easy |
-| 76 | [Diamond Model](https://tryhackme.com/room/diamondmodelrmuwwg42) | easy |
-| 77 | [Vulnerability Capstone](https://tryhackme.com/room/vulnerabilitycapstone) | easy |
-| 78 | [Exploit Vulnerabilities](https://tryhackme.com/room/exploitingavulnerabilityv2) | easy |
-| 79 | [Protocols and Servers](https://tryhackme.com/room/protocolsandservers) | easy |
-| 80 | [SQL Injection](https://tryhackme.com/room/sqlinjectionlm) | medium |
-| 81 | [Command Injection](https://tryhackme.com/room/oscommandinjection) | easy |
-| 82 | [Net Sec Challenge](https://tryhackme.com/room/netsecchallenge) | medium |
-| 83 | [File Inclusion](https://tryhackme.com/room/fileinc) | medium |
-| 84 | [Protocols and Servers 2](https://tryhackme.com/room/protocolsandservers2) | medium |
-| 85 | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) | easy |
-| 86 | [Pwnkit: CVE-2021-4034](https://tryhackme.com/room/pwnkit) | info |
-| 87 | [Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools) | easy |
-| 88 | [Intro to Digital Forensics](https://tryhackme.com/room/introdigitalforensics) | easy |
-| 89 | [Introduction to DevSecOps](https://tryhackme.com/room/introductiontodevsecops) | medium |
-| 90 | [Operating System Security](https://tryhackme.com/room/operatingsystemsecurity) | easy |
-| 91 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | easy |
-| 92 | [Lo-Fi](https://tryhackme.com/room/lofi) | easy |
-| 93 | [Network Security](https://tryhackme.com/room/intronetworksecurity) | easy |
-| 94 | [Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity) | easy |
-| 95 | [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain) | easy |
-| 96 | [Spring4Shell: CVE-2022-22965](https://tryhackme.com/room/spring4shell) | info |
-| 97 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) | easy |
-| 98 | [SSDLC](https://tryhackme.com/room/securesdlc) | medium |
-| 99 | [Security Operations](https://tryhackme.com/room/securityoperations) | easy |
-| 100 | [Careers in Cyber](https://tryhackme.com/room/careersincyber) | info |
-| 101 | [Windows Privilege Escalation](https://tryhackme.com/room/windowsprivesc20) | medium |
-| 102 | [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) | easy |
-| 103 | [Intro to Cyber Threat Intel](https://tryhackme.com/room/cyberthreatintel) | easy |
-| 104 | [Introduction to SIEM](https://tryhackme.com/room/introtosiem) | easy |
-| 105 | [Active Directory Basics](https://tryhackme.com/room/winadbasics) | easy |
-| 106 | [Microsoft Windows Hardening](https://tryhackme.com/room/microsoftwindowshardening) | easy |
-| 107 | [Security Principles](https://tryhackme.com/room/securityprinciples) | easy |
-| 108 | [Atlassian CVE-2022-26134](https://tryhackme.com/room/cve202226134) | easy |
-| 109 | [Secure Network Architecture](https://tryhackme.com/room/introtosecurityarchitecture) | medium |
-| 110 | [Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening) | medium |
-| 111 | [Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro) | medium |
-| 112 | [Network Security Protocols](https://tryhackme.com/room/networksecurityprotocols) | medium |
-| 113 | [OWASP API Security Top 10 - 2](https://tryhackme.com/room/owaspapisecuritytop10d0) | medium |
-| 114 | [OWASP API Security Top 10 - 1](https://tryhackme.com/room/owaspapisecuritytop105w) | medium |
-| 115 | [Intro to Cloud Security](https://tryhackme.com/room/introductiontocloudsecurityc6) | easy |
-| 116 | [Linux System Hardening](https://tryhackme.com/room/linuxsystemhardening) | medium |
-| 117 | [Virtualization and Containers](https://tryhackme.com/room/virtualizationandcontainers) | easy |
-| 118 | [Vulnerability Management](https://tryhackme.com/room/vulnerabilitymanagementkj) | medium |
-| 119 | [DAST](https://tryhackme.com/room/dastzap) | medium |
-| 120 | [Weaponizing Vulnerabilities](https://tryhackme.com/room/weaponizingvulnerabilities) | medium |
-| 121 | [Identity and Access Management](https://tryhackme.com/room/iaaaidm) | easy |
-| 122 | [Network Device Hardening](https://tryhackme.com/room/networkdevicehardening) | medium |
-| 123 | [Threat Modelling](https://tryhackme.com/room/threatmodelling) | medium |
-| 124 | [Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation) | easy |
-| 125 | [Mother's Secret](https://tryhackme.com/room/codeanalysis) | easy |
-| 126 | [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro) | easy |
-| 127 | [SAST](https://tryhackme.com/room/sast) | medium |
-| 128 | [Risk Management](https://tryhackme.com/room/seriskmanagement) | easy |
-| 129 | [Logging for Accountability](https://tryhackme.com/room/loggingforaccountability) | easy |
-| 130 | [Traverse](https://tryhackme.com/room/traverse) | easy |
-| 131 | [Auditing and Monitoring](https://tryhackme.com/room/auditingandmonitoringse) | easy |
-| 132 | [Intro to IR and IM](https://tryhackme.com/room/introtoirandim) | easy |
-| 133 | [Becoming a First Responder](https://tryhackme.com/room/becomingafirstresponder) | info |
-| 134 | [Cyber Crisis Management](https://tryhackme.com/room/cybercrisismanagement) | easy |
-| 135 | [W1seGuy](https://tryhackme.com/room/w1seguy) | easy |
-| 136 | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics) | info |
-| 137 | [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater) | info |
-| 138 | [Burp Suite: Intruder](https://tryhackme.com/room/burpsuiteintruder) | medium |
-| 139 | [Burp Suite: Other Modules](https://tryhackme.com/room/burpsuiteom) | easy |
-| 140 | [Burp Suite: Extensions](https://tryhackme.com/room/burpsuiteextensions) | easy |
-| 141 | [Eviction](https://tryhackme.com/room/eviction) | easy |
-| 142 | [Summit](https://tryhackme.com/room/summit) | easy |
-| 143 | [Light](https://tryhackme.com/room/lightroom) | easy |
-| 144 | [HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling) | easy |
-| 145 | [The Witch's Cauldron](https://tryhackme.com/room/cauldron) | easy |
-| 146 | [Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515) | easy |
-| 147 | [SSRF](https://tryhackme.com/room/ssrfhr) | medium |
-| 148 | [Become a Hacker](https://tryhackme.com/room/becomeahackeroa) | easy |
-| 149 | [The Sticker Shop](https://tryhackme.com/room/thestickershop) | easy |
-| 150 | [File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal) | medium |
-| 151 | [CSRF](https://tryhackme.com/room/csrfV2) | medium |
-| 152 | [XSS](https://tryhackme.com/room/axss) | easy |
-| 153 | [CORS & SOP](https://tryhackme.com/room/corsandsop) | easy |
-| 154 | [Prototype Pollution](https://tryhackme.com/room/prototypepollution) | medium |
-| 155 | [Snyk Open Source](https://tryhackme.com/room/snykopensource) | easy |
-| 156 | [Include](https://tryhackme.com/room/include) | medium |
-| 157 | [Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink) | easy |
-| 158 | [Snyk Code](https://tryhackme.com/room/snykcode) | easy |
-| 159 | [Race Conditions](https://tryhackme.com/room/raceconditionsattacks) | medium |
-| 160 | [LDAP Injection](https://tryhackme.com/room/ldapinjection) | easy |
-| 161 | [Whats Your Name?](https://tryhackme.com/room/whatsyourname) | medium |
-| 162 | [DOM-Based Attacks](https://tryhackme.com/room/dombasedattacks) | easy |
-| 163 | [XXE Injection](https://tryhackme.com/room/xxeinjection) | medium |
-| 164 | [Insecure Deserialisation](https://tryhackme.com/room/insecuredeserialisation) | medium |
-| 165 | [Windows Command Line](https://tryhackme.com/room/windowscommandline) | easy |
-| 166 | [Search Skills](https://tryhackme.com/room/searchskills) | easy |
-| 167 | [Server-side Template Injection](https://tryhackme.com/room/serversidetemplateinjection) | medium |
-| 168 | [JWT Security](https://tryhackme.com/room/jwtsecurity) | easy |
-| 169 | [Nmap: The Basics](https://tryhackme.com/room/nmap) | easy |
-| 170 | [Networking Concepts](https://tryhackme.com/room/networkingconcepts) | easy |
-| 171 | [Tcpdump: The Basics](https://tryhackme.com/room/tcpdump) | easy |
-| 172 | [Networking Essentials](https://tryhackme.com/room/networkingessentials) | easy |
-| 173 | [Networking Core Protocols](https://tryhackme.com/room/networkingcoreprotocols) | easy |
-| 174 | [Networking Secure Protocols](https://tryhackme.com/room/networkingsecureprotocols) | easy |
-| 175 | [Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection) | medium |
-| 176 | [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals) | easy |
-| 177 | [ORM Injection](https://tryhackme.com/room/orminjection) | medium |
-| 178 | [NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial) | easy |
-| 179 | [Logs Fundamentals](https://tryhackme.com/room/logsfundamentals) | easy |
-| 180 | [Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce) | easy |
-| 181 | [SOC Fundamentals](https://tryhackme.com/room/socfundamentals) | easy |
-| 182 | [Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals) | easy |
-| 183 | [Session Management](https://tryhackme.com/room/sessionmanagement) | easy |
-| 184 | [Injectics](https://tryhackme.com/room/injectics) | medium |
-| 185 | [Firewall Fundamentals](https://tryhackme.com/room/firewallfundamentals) | easy |
-| 186 | [OAuth Vulnerabilities](https://tryhackme.com/room/oauthvulnerabilities) | medium |
-| 187 | [IDS Fundamentals](https://tryhackme.com/room/idsfundamentals) | easy |
-| 188 | [Multi-Factor Authentication](https://tryhackme.com/room/multifactorauthentications) | easy |
-| 189 | [Vulnerability Scanner Overview](https://tryhackme.com/room/vulnerabilityscanneroverview) | easy |
-| 190 | [Hammer](https://tryhackme.com/room/hammer) | medium |
-| 191 | [CyberChef: The Basics](https://tryhackme.com/room/cyberchefbasics) | easy |
-| 192 | [Public Key Cryptography Basics](https://tryhackme.com/room/publickeycrypto) | easy |
-| 193 | [Cryptography Basics](https://tryhackme.com/room/cryptographybasics) | easy |
-| 194 | [Hashing Basics](https://tryhackme.com/room/hashingbasics) | easy |
-| 195 | [CAPA: The Basics](https://tryhackme.com/room/capabasics) | easy |
-| 196 | [Windows PowerShell](https://tryhackme.com/room/windowspowershell) | easy |
-| 197 | [FlareVM: Arsenal of Tools](https://tryhackme.com/room/flarevmarsenaloftools) | easy |
-| 198 | [REMnux: Getting Started](https://tryhackme.com/room/remnuxgettingstarted) | easy |
-| 199 | [Linux Shells](https://tryhackme.com/room/linuxshells) | easy |
-| 200 | [Length Extension Attacks](https://tryhackme.com/room/lengthextensionattacks) | medium |
-| 201 | [Insecure Randomness](https://tryhackme.com/room/insecurerandomness) | easy |
-| 202 | [Gobuster: The Basics](https://tryhackme.com/room/gobusterthebasics) | easy |
-| 203 | [Training Impact on Teams](https://tryhackme.com/room/training) | info |
-| 204 | [SQLMap: The Basics](https://tryhackme.com/room/sqlmapthebasics) | easy |
-| 205 | [Advent of Cyber 2024](https://tryhackme.com/room/adventofcyber2024) | easy |
-| 206 | [JavaScript Essentials](https://tryhackme.com/room/javascriptessentials) | easy |
-| 207 | [Web Application Basics](https://tryhackme.com/room/webapplicationbasics) | easy |
-| 208 | [SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals) | easy |
-| 209 | [Shells Overview](https://tryhackme.com/room/shellsoverview) | easy |
-| 210 | [Padding Oracles](https://tryhackme.com/room/paddingoracles) | medium |
-| 211 | [Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway) | easy |
-| 212 | [Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython) | easy |
-| 213 | [Custom Tooling using Burp](https://tryhackme.com/room/customtoolingviaburp) | hard |
-| 214 | [Tooling via Browser Automation](https://tryhackme.com/room/customtoolingviabrowserautomation) | easy |
-| 215 | [SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage) | easy |
-| 216 | [SOC L1 Alert Reporting](https://tryhackme.com/room/socl1alertreporting) | easy |
-| 217 | [SOC Workbooks and Lookups](https://tryhackme.com/room/socworkbookslookups) | easy |
-| 218 | [Attacking ECB Oracles](https://tryhackme.com/room/attackingecboracles) | hard |
-| 219 | [Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927) | easy |
-| 220 | [SOC Metrics and Objectives](https://tryhackme.com/room/socmetricsobjectives) | easy |
-| 221 | [CAPTCHApocalypse](https://tryhackme.com/room/captchapocalypse) | medium |
-| 222 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) | easy |
-| 223 | [Erlang/OTP SSH: CVE-2025-32433](https://tryhackme.com/room/erlangotpsshcve202532433) | easy |
-| 224 | [Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports) | easy |
-| 225 | [Extract](https://tryhackme.com/room/extract) | hard |
-| 226 | [Cipher's Secret Message](https://tryhackme.com/room/hfb1cipherssecretmessage) | easy |
-| 227 | [Evil-GPT](https://tryhackme.com/room/hfb1evilgpt) | easy |
-| 228 | [Evil-GPT v2](https://tryhackme.com/room/hfb1evilgptv2) | easy |
-| 229 | [Sequence](https://tryhackme.com/room/sequence) | medium |
-| 230 | [Roundcube: CVE-2025-49113](https://tryhackme.com/room/roundcubecve202549113) | easy |
-| 231 | [Chaining Vulnerabilities](https://tryhackme.com/room/chainingvulnerabilitiesZp) | easy |
-| 232 | [Voyage](https://tryhackme.com/room/voyage) | medium |
-| 233 | [Humans as Attack Vectors](https://tryhackme.com/room/humansattackvectors) | easy |
-| 234 | [Systems as Attack Vectors](https://tryhackme.com/room/systemsattackvectors) | easy |
-| 235 | [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam) | easy |
-| 236 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroQR) | easy |
-| 237 | [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win) | info |
-| 238 | [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs) | easy |
-| 239 | [Input Manipulation & Prompt Injection](https://tryhackme.com/room/inputmanipulationpromptinjection) | easy |
-| 240 | [Data Integrity & Model Poisoning](https://tryhackme.com/room/modelpoisoning) | medium |
-| 241 | [LLM Output Handling and Privacy Risks](https://tryhackme.com/room/outputhandlingandprivacyrisks) | easy |
-| 242 | [IDOR - Santa’s Little IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9) | medium |
-| 243 | [Obfuscation - The Egg Shell File](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9) | medium |
-| 244 | [XSS - Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6) | easy |
-| 245 | [Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123) | easy |
-| 246 | [SOC Alert Triaging - Tinsel Triage](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2) | medium |
-| 247 | [Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp) | medium |
-| 248 | [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU) | easy |
-| 249 | [Prompt Injection - Sched-yule conflict](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO) | easy |
-| 250 | [Linux CLI - Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti) | easy |
-| 251 | [YARA Rules - YARA mean one!](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7) | medium |
-| 252 | [Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8) | medium |
-| 253 | [Exploitation with cURL - Hoperation Eggsploit](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0) | easy |
-| 254 | [ICS/Modbus - Claus for Concern](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4) | medium |
-| 255 | [Race Conditions - Toy to The World](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9) | easy |
-| 256 | [Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky) | easy |
-| 257 | [Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2) | medium |
-| 258 | [CyberChef - Hoperation Save McSkidy](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3) | medium |
-| 259 | [Phishing - Phishmas Greetings](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0) | medium |
-| 260 | [AI in Security - old sAInt nick](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB) | easy |
-| 261 | [Malware Analysis - Malhare.exe](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4) | easy |
-| 262 | [C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1) | medium |
-| 263 | [AWS Security - S3cret Santa](https://tryhackme.com/room/cloudenum-aoc2025-y4u7i0o3p6) | easy |
-| 264 | [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt) | medium |
-| 265 | [Web Attack Forensics - Drone Alone](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8) | medium |
-| 266 | [Cloud Security Pitfalls](https://tryhackme.com/room/cloudsecuritypitfalls) | easy |
-| 267 | [Juicy](https://tryhackme.com/room/juicy) | medium |
-| 268 | [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack) | easy |
-| 269 | [OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025three) | easy |
-| 270 | [Django: CVE-2025-64459](https://tryhackme.com/room/djangocve202564459) | easy |
-| 271 | [WAF: Introduction](https://tryhackme.com/room/wafintroduction) | easy |
-| 272 | [BankGPT](https://tryhackme.com/room/bankgpt) | easy |
-| 273 | [HealthGPT](https://tryhackme.com/room/healthgpt) | easy |
-| 274 | [React2Shell: CVE-2025-55182](https://tryhackme.com/room/react2shellcve202555182) | easy |
-| 275 | [Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics) | easy |
-| 276 | [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction) | easy |
-| 277 | [Linux CLI Basics](https://tryhackme.com/room/linuxclibasics) | easy |
-| 278 | [Data Representation](https://tryhackme.com/room/datarepresentation) | easy |
-| 279 | [Data Encoding](https://tryhackme.com/room/dataencoding) | easy |
-| 280 | [JavaScript: Simple Demo](https://tryhackme.com/room/javascriptsimpledemo) | medium |
-| 281 | [Python: Simple Demo](https://tryhackme.com/room/pythonsimpledemo) | easy |
-| 282 | [Windows Basics](https://tryhackme.com/room/windowsbasics) | easy |
-| 283 | [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals) | easy |
-| 284 | [Windows CLI Basics](https://tryhackme.com/room/windowsclibasics) | easy |
-| 285 | [The CIA Triad](https://tryhackme.com/room/theciatriad) | easy |
-| 286 | [Database SQL Basics](https://tryhackme.com/room/databasesqlbasics) | easy |
-| 287 | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | easy |
-| 288 | [Client-Server Basics](https://tryhackme.com/room/clientserverbasics) | easy |
-| 289 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
-| 290 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
-| 291 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
-| 292 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
-| 293 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
-| 294 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
-| 295 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12l39) | easy |
-| 296 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroez) | info |
-| 297 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
-| 298 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
+| 46 | [Learn and win prizes](https://tryhackme.com/room/tickets1) | info |
+| 47 | [What is Networking?](https://tryhackme.com/room/whatisnetworking) | info |
+| 48 | [Intro to LAN](https://tryhackme.com/room/introtolan) | info |
+| 49 | [OSI Model](https://tryhackme.com/room/osimodelzi) | info |
+| 50 | [Packets & Frames](https://tryhackme.com/room/packetsframes) | info |
+| 51 | [Extending Your Network](https://tryhackme.com/room/extendingyournetwork) | info |
+| 52 | [Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro) | easy |
+| 53 | [Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx) | info |
+| 54 | [Linux Privilege Escalation](https://tryhackme.com/room/linprivesc) | medium |
+| 55 | [Walking An Application](https://tryhackme.com/room/walkinganapplication) | easy |
+| 56 | [Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals) | easy |
+| 57 | [Principles of Security](https://tryhackme.com/room/principlesofsecurity) | info |
+| 58 | [Metasploit: Exploitation](https://tryhackme.com/room/metasploitexploitation) | easy |
+| 59 | [Content Discovery](https://tryhackme.com/room/contentdiscovery) | easy |
+| 60 | [Subdomain Enumeration](https://tryhackme.com/room/subdomainenumeration) | easy |
+| 61 | [Authentication Bypass](https://tryhackme.com/room/authenticationbypass) | easy |
+| 62 | [Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo) | easy |
+| 63 | [Passive Reconnaissance](https://tryhackme.com/room/passiverecon) | easy |
+| 64 | [Active Reconnaissance](https://tryhackme.com/room/activerecon) | easy |
+| 65 | [Nmap Live Host Discovery](https://tryhackme.com/room/nmap01) | medium |
+| 66 | [Nmap Basic Port Scans](https://tryhackme.com/room/nmap02) | easy |
+| 67 | [Nmap Advanced Port Scans](https://tryhackme.com/room/nmap03) | medium |
+| 68 | [Metasploit: Introduction ](https://tryhackme.com/room/metasploitintro) | easy |
+| 69 | [IDOR](https://tryhackme.com/room/idor) | easy |
+| 70 | [Vulnerabilities 101](https://tryhackme.com/room/vulnerabilities101) | easy |
+| 71 | [Metasploit: Meterpreter](https://tryhackme.com/room/meterpreter) | easy |
+| 72 | [Intro to SSRF](https://tryhackme.com/room/ssrfqi) | easy |
+| 73 | [Pyramid Of Pain ](https://tryhackme.com/room/pyramidofpainax) | easy |
+| 74 | [Intro to Cross-site Scripting](https://tryhackme.com/room/xss) | easy |
+| 75 | [Nmap Post Port Scans](https://tryhackme.com/room/nmap04) | medium |
+| 76 | [Cyber Kill Chain ](https://tryhackme.com/room/cyberkillchainzmt) | easy |
+| 77 | [Diamond Model](https://tryhackme.com/room/diamondmodelrmuwwg42) | easy |
+| 78 | [Vulnerability Capstone](https://tryhackme.com/room/vulnerabilitycapstone) | easy |
+| 79 | [Exploit Vulnerabilities](https://tryhackme.com/room/exploitingavulnerabilityv2) | easy |
+| 80 | [Protocols and Servers](https://tryhackme.com/room/protocolsandservers) | easy |
+| 81 | [SQL Injection](https://tryhackme.com/room/sqlinjectionlm) | medium |
+| 82 | [Command Injection](https://tryhackme.com/room/oscommandinjection) | easy |
+| 83 | [Net Sec Challenge](https://tryhackme.com/room/netsecchallenge) | medium |
+| 84 | [File Inclusion](https://tryhackme.com/room/fileinc) | medium |
+| 85 | [Protocols and Servers 2](https://tryhackme.com/room/protocolsandservers2) | medium |
+| 86 | [Red Team Fundamentals](https://tryhackme.com/room/redteamfundamentals) | easy |
+| 87 | [Pwnkit: CVE-2021-4034](https://tryhackme.com/room/pwnkit) | info |
+| 88 | [Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools) | easy |
+| 89 | [Intro to Digital Forensics](https://tryhackme.com/room/introdigitalforensics) | easy |
+| 90 | [Introduction to DevSecOps](https://tryhackme.com/room/introductiontodevsecops) | medium |
+| 91 | [Operating System Security](https://tryhackme.com/room/operatingsystemsecurity) | easy |
+| 92 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintro) | easy |
+| 93 | [Lo-Fi](https://tryhackme.com/room/lofi) | easy |
+| 94 | [Network Security](https://tryhackme.com/room/intronetworksecurity) | easy |
+| 95 | [Web Application Security](https://tryhackme.com/room/introwebapplicationsecurity) | easy |
+| 96 | [Unified Kill Chain](https://tryhackme.com/room/unifiedkillchain) | easy |
+| 97 | [Spring4Shell: CVE-2022-22965](https://tryhackme.com/room/spring4shell) | info |
+| 98 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintro) | easy |
+| 99 | [SSDLC](https://tryhackme.com/room/securesdlc) | medium |
+| 100 | [Security Operations](https://tryhackme.com/room/securityoperations) | easy |
+| 101 | [Careers in Cyber](https://tryhackme.com/room/careersincyber) | info |
+| 102 | [Windows Privilege Escalation](https://tryhackme.com/room/windowsprivesc20) | medium |
+| 103 | [Wireshark: The Basics](https://tryhackme.com/room/wiresharkthebasics) | easy |
+| 104 | [Intro to Cyber Threat Intel](https://tryhackme.com/room/cyberthreatintel) | easy |
+| 105 | [Introduction to SIEM](https://tryhackme.com/room/introtosiem) | easy |
+| 106 | [Active Directory Basics](https://tryhackme.com/room/winadbasics) | easy |
+| 107 | [Microsoft Windows Hardening](https://tryhackme.com/room/microsoftwindowshardening) | easy |
+| 108 | [Security Principles](https://tryhackme.com/room/securityprinciples) | easy |
+| 109 | [Atlassian CVE-2022-26134](https://tryhackme.com/room/cve202226134) | easy |
+| 110 | [Secure Network Architecture](https://tryhackme.com/room/introtosecurityarchitecture) | medium |
+| 111 | [Active Directory Hardening](https://tryhackme.com/room/activedirectoryhardening) | medium |
+| 112 | [Introduction to Cryptography](https://tryhackme.com/room/cryptographyintro) | medium |
+| 113 | [Network Security Protocols](https://tryhackme.com/room/networksecurityprotocols) | medium |
+| 114 | [OWASP API Security Top 10 - 2](https://tryhackme.com/room/owaspapisecuritytop10d0) | medium |
+| 115 | [OWASP API Security Top 10 - 1](https://tryhackme.com/room/owaspapisecuritytop105w) | medium |
+| 116 | [Intro to Cloud Security](https://tryhackme.com/room/introductiontocloudsecurityc6) | easy |
+| 117 | [Linux System Hardening](https://tryhackme.com/room/linuxsystemhardening) | medium |
+| 118 | [Virtualization and Containers](https://tryhackme.com/room/virtualizationandcontainers) | easy |
+| 119 | [Vulnerability Management](https://tryhackme.com/room/vulnerabilitymanagementkj) | medium |
+| 120 | [DAST](https://tryhackme.com/room/dastzap) | medium |
+| 121 | [Weaponizing Vulnerabilities](https://tryhackme.com/room/weaponizingvulnerabilities) | medium |
+| 122 | [Identity and Access Management](https://tryhackme.com/room/iaaaidm) | easy |
+| 123 | [Network Device Hardening](https://tryhackme.com/room/networkdevicehardening) | medium |
+| 124 | [Threat Modelling](https://tryhackme.com/room/threatmodelling) | medium |
+| 125 | [Governance & Regulation](https://tryhackme.com/room/cybergovernanceregulation) | easy |
+| 126 | [Mother's Secret](https://tryhackme.com/room/codeanalysis) | easy |
+| 127 | [Security Engineer Intro](https://tryhackme.com/room/securityengineerintro) | easy |
+| 128 | [SAST](https://tryhackme.com/room/sast) | medium |
+| 129 | [Risk Management](https://tryhackme.com/room/seriskmanagement) | easy |
+| 130 | [Logging for Accountability](https://tryhackme.com/room/loggingforaccountability) | easy |
+| 131 | [Traverse](https://tryhackme.com/room/traverse) | easy |
+| 132 | [Auditing and Monitoring](https://tryhackme.com/room/auditingandmonitoringse) | easy |
+| 133 | [Intro to IR and IM](https://tryhackme.com/room/introtoirandim) | easy |
+| 134 | [Becoming a First Responder](https://tryhackme.com/room/becomingafirstresponder) | info |
+| 135 | [Cyber Crisis Management](https://tryhackme.com/room/cybercrisismanagement) | easy |
+| 136 | [W1seGuy](https://tryhackme.com/room/w1seguy) | easy |
+| 137 | [Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics) | info |
+| 138 | [Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater) | info |
+| 139 | [Burp Suite: Intruder](https://tryhackme.com/room/burpsuiteintruder) | medium |
+| 140 | [Burp Suite: Other Modules](https://tryhackme.com/room/burpsuiteom) | easy |
+| 141 | [Burp Suite: Extensions](https://tryhackme.com/room/burpsuiteextensions) | easy |
+| 142 | [Eviction](https://tryhackme.com/room/eviction) | easy |
+| 143 | [Summit](https://tryhackme.com/room/summit) | easy |
+| 144 | [Light](https://tryhackme.com/room/lightroom) | easy |
+| 145 | [HTTP Request Smuggling](https://tryhackme.com/room/httprequestsmuggling) | easy |
+| 146 | [The Witch's Cauldron](https://tryhackme.com/room/cauldron) | easy |
+| 147 | [Confluence CVE-2023-22515](https://tryhackme.com/room/confluence202322515) | easy |
+| 148 | [SSRF](https://tryhackme.com/room/ssrfhr) | medium |
+| 149 | [Become a Hacker](https://tryhackme.com/room/becomeahackeroa) | easy |
+| 150 | [The Sticker Shop](https://tryhackme.com/room/thestickershop) | easy |
+| 151 | [File Inclusion, Path Traversal](https://tryhackme.com/room/filepathtraversal) | medium |
+| 152 | [CSRF](https://tryhackme.com/room/csrfV2) | medium |
+| 153 | [XSS](https://tryhackme.com/room/axss) | easy |
+| 154 | [CORS & SOP](https://tryhackme.com/room/corsandsop) | easy |
+| 155 | [Prototype Pollution](https://tryhackme.com/room/prototypepollution) | medium |
+| 156 | [Snyk Open Source](https://tryhackme.com/room/snykopensource) | easy |
+| 157 | [Include](https://tryhackme.com/room/include) | medium |
+| 158 | [Moniker Link (CVE-2024-21413)](https://tryhackme.com/room/monikerlink) | easy |
+| 159 | [Snyk Code](https://tryhackme.com/room/snykcode) | easy |
+| 160 | [Race Conditions](https://tryhackme.com/room/raceconditionsattacks) | medium |
+| 161 | [LDAP Injection](https://tryhackme.com/room/ldapinjection) | easy |
+| 162 | [Whats Your Name?](https://tryhackme.com/room/whatsyourname) | medium |
+| 163 | [DOM-Based Attacks](https://tryhackme.com/room/dombasedattacks) | easy |
+| 164 | [XXE Injection](https://tryhackme.com/room/xxeinjection) | medium |
+| 165 | [Insecure Deserialisation](https://tryhackme.com/room/insecuredeserialisation) | medium |
+| 166 | [Windows Command Line](https://tryhackme.com/room/windowscommandline) | easy |
+| 167 | [Search Skills](https://tryhackme.com/room/searchskills) | easy |
+| 168 | [Server-side Template Injection](https://tryhackme.com/room/serversidetemplateinjection) | medium |
+| 169 | [JWT Security](https://tryhackme.com/room/jwtsecurity) | easy |
+| 170 | [Nmap: The Basics](https://tryhackme.com/room/nmap) | easy |
+| 171 | [Networking Concepts](https://tryhackme.com/room/networkingconcepts) | easy |
+| 172 | [Tcpdump: The Basics](https://tryhackme.com/room/tcpdump) | easy |
+| 173 | [Networking Essentials](https://tryhackme.com/room/networkingessentials) | easy |
+| 174 | [Networking Core Protocols](https://tryhackme.com/room/networkingcoreprotocols) | easy |
+| 175 | [Networking Secure Protocols](https://tryhackme.com/room/networkingsecureprotocols) | easy |
+| 176 | [Advanced SQL Injection](https://tryhackme.com/room/advancedsqlinjection) | medium |
+| 177 | [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals) | easy |
+| 178 | [ORM Injection](https://tryhackme.com/room/orminjection) | medium |
+| 179 | [NoSQL Injection](https://tryhackme.com/room/nosqlinjectiontutorial) | easy |
+| 180 | [Logs Fundamentals](https://tryhackme.com/room/logsfundamentals) | easy |
+| 181 | [Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce) | easy |
+| 182 | [SOC Fundamentals](https://tryhackme.com/room/socfundamentals) | easy |
+| 183 | [Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals) | easy |
+| 184 | [Session Management](https://tryhackme.com/room/sessionmanagement) | easy |
+| 185 | [Injectics](https://tryhackme.com/room/injectics) | medium |
+| 186 | [Firewall Fundamentals](https://tryhackme.com/room/firewallfundamentals) | easy |
+| 187 | [OAuth Vulnerabilities](https://tryhackme.com/room/oauthvulnerabilities) | medium |
+| 188 | [IDS Fundamentals](https://tryhackme.com/room/idsfundamentals) | easy |
+| 189 | [Multi-Factor Authentication](https://tryhackme.com/room/multifactorauthentications) | easy |
+| 190 | [Vulnerability Scanner Overview](https://tryhackme.com/room/vulnerabilityscanneroverview) | easy |
+| 191 | [Hammer](https://tryhackme.com/room/hammer) | medium |
+| 192 | [CyberChef: The Basics](https://tryhackme.com/room/cyberchefbasics) | easy |
+| 193 | [Public Key Cryptography Basics](https://tryhackme.com/room/publickeycrypto) | easy |
+| 194 | [Cryptography Basics](https://tryhackme.com/room/cryptographybasics) | easy |
+| 195 | [Hashing Basics](https://tryhackme.com/room/hashingbasics) | easy |
+| 196 | [CAPA: The Basics](https://tryhackme.com/room/capabasics) | easy |
+| 197 | [Windows PowerShell](https://tryhackme.com/room/windowspowershell) | easy |
+| 198 | [FlareVM: Arsenal of Tools](https://tryhackme.com/room/flarevmarsenaloftools) | easy |
+| 199 | [REMnux: Getting Started](https://tryhackme.com/room/remnuxgettingstarted) | easy |
+| 200 | [Linux Shells](https://tryhackme.com/room/linuxshells) | easy |
+| 201 | [Length Extension Attacks](https://tryhackme.com/room/lengthextensionattacks) | medium |
+| 202 | [Insecure Randomness](https://tryhackme.com/room/insecurerandomness) | easy |
+| 203 | [Gobuster: The Basics](https://tryhackme.com/room/gobusterthebasics) | easy |
+| 204 | [Training Impact on Teams](https://tryhackme.com/room/training) | info |
+| 205 | [SQLMap: The Basics](https://tryhackme.com/room/sqlmapthebasics) | easy |
+| 206 | [Advent of Cyber 2024](https://tryhackme.com/room/adventofcyber2024) | easy |
+| 207 | [JavaScript Essentials](https://tryhackme.com/room/javascriptessentials) | easy |
+| 208 | [Web Application Basics](https://tryhackme.com/room/webapplicationbasics) | easy |
+| 209 | [SQL Fundamentals](https://tryhackme.com/room/sqlfundamentals) | easy |
+| 210 | [Shells Overview](https://tryhackme.com/room/shellsoverview) | easy |
+| 211 | [Padding Oracles](https://tryhackme.com/room/paddingoracles) | medium |
+| 212 | [Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway) | easy |
+| 213 | [Custom Tooling Using Python](https://tryhackme.com/room/customtoolingpython) | easy |
+| 214 | [Custom Tooling using Burp](https://tryhackme.com/room/customtoolingviaburp) | hard |
+| 215 | [Tooling via Browser Automation](https://tryhackme.com/room/customtoolingviabrowserautomation) | easy |
+| 216 | [SOC L1 Alert Triage](https://tryhackme.com/room/socl1alerttriage) | easy |
+| 217 | [SOC L1 Alert Reporting](https://tryhackme.com/room/socl1alertreporting) | easy |
+| 218 | [SOC Workbooks and Lookups](https://tryhackme.com/room/socworkbookslookups) | easy |
+| 219 | [Attacking ECB Oracles](https://tryhackme.com/room/attackingecboracles) | hard |
+| 220 | [Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927) | easy |
+| 221 | [SOC Metrics and Objectives](https://tryhackme.com/room/socmetricsobjectives) | easy |
+| 222 | [CAPTCHApocalypse](https://tryhackme.com/room/captchapocalypse) | medium |
+| 223 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) | easy |
+| 224 | [Erlang/OTP SSH: CVE-2025-32433](https://tryhackme.com/room/erlangotpsshcve202532433) | easy |
+| 225 | [Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports) | easy |
+| 226 | [Extract](https://tryhackme.com/room/extract) | hard |
+| 227 | [Cipher's Secret Message](https://tryhackme.com/room/hfb1cipherssecretmessage) | easy |
+| 228 | [Evil-GPT](https://tryhackme.com/room/hfb1evilgpt) | easy |
+| 229 | [Evil-GPT v2](https://tryhackme.com/room/hfb1evilgptv2) | easy |
+| 230 | [Sequence](https://tryhackme.com/room/sequence) | medium |
+| 231 | [Roundcube: CVE-2025-49113](https://tryhackme.com/room/roundcubecve202549113) | easy |
+| 232 | [Chaining Vulnerabilities](https://tryhackme.com/room/chainingvulnerabilitiesZp) | easy |
+| 233 | [Voyage](https://tryhackme.com/room/voyage) | medium |
+| 234 | [Humans as Attack Vectors](https://tryhackme.com/room/humansattackvectors) | easy |
+| 235 | [Systems as Attack Vectors](https://tryhackme.com/room/systemsattackvectors) | easy |
+| 236 | [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam) | easy |
+| 237 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroQR) | easy |
+| 238 | [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win) | info |
+| 239 | [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs) | easy |
+| 240 | [Input Manipulation & Prompt Injection](https://tryhackme.com/room/inputmanipulationpromptinjection) | easy |
+| 241 | [Data Integrity & Model Poisoning](https://tryhackme.com/room/modelpoisoning) | medium |
+| 242 | [LLM Output Handling and Privacy Risks](https://tryhackme.com/room/outputhandlingandprivacyrisks) | easy |
+| 243 | [IDOR - Santa’s Little IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9) | medium |
+| 244 | [Obfuscation - The Egg Shell File](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9) | medium |
+| 245 | [XSS - Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6) | easy |
+| 246 | [Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123) | easy |
+| 247 | [SOC Alert Triaging - Tinsel Triage](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2) | medium |
+| 248 | [Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp) | medium |
+| 249 | [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU) | easy |
+| 250 | [Prompt Injection - Sched-yule conflict](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO) | easy |
+| 251 | [Linux CLI - Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti) | easy |
+| 252 | [YARA Rules - YARA mean one!](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7) | medium |
+| 253 | [Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8) | medium |
+| 254 | [Exploitation with cURL - Hoperation Eggsploit](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0) | easy |
+| 255 | [ICS/Modbus - Claus for Concern](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4) | medium |
+| 256 | [Race Conditions - Toy to The World](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9) | easy |
+| 257 | [Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky) | easy |
+| 258 | [Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2) | medium |
+| 259 | [CyberChef - Hoperation Save McSkidy](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3) | medium |
+| 260 | [Phishing - Phishmas Greetings](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0) | medium |
+| 261 | [AI in Security - old sAInt nick](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB) | easy |
+| 262 | [Malware Analysis - Malhare.exe](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4) | easy |
+| 263 | [C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1) | medium |
+| 264 | [AWS Security - S3cret Santa](https://tryhackme.com/room/cloudenum-aoc2025-y4u7i0o3p6) | easy |
+| 265 | [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt) | medium |
+| 266 | [Web Attack Forensics - Drone Alone](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8) | medium |
+| 267 | [Cloud Security Pitfalls](https://tryhackme.com/room/cloudsecuritypitfalls) | easy |
+| 268 | [Juicy](https://tryhackme.com/room/juicy) | medium |
+| 269 | [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack) | easy |
+| 270 | [OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025three) | easy |
+| 271 | [Django: CVE-2025-64459](https://tryhackme.com/room/djangocve202564459) | easy |
+| 272 | [WAF: Introduction](https://tryhackme.com/room/wafintroduction) | easy |
+| 273 | [BankGPT](https://tryhackme.com/room/bankgpt) | easy |
+| 274 | [HealthGPT](https://tryhackme.com/room/healthgpt) | easy |
+| 275 | [React2Shell: CVE-2025-55182](https://tryhackme.com/room/react2shellcve202555182) | easy |
+| 276 | [Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics) | easy |
+| 277 | [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction) | easy |
+| 278 | [Linux CLI Basics](https://tryhackme.com/room/linuxclibasics) | easy |
+| 279 | [Data Representation](https://tryhackme.com/room/datarepresentation) | easy |
+| 280 | [Data Encoding](https://tryhackme.com/room/dataencoding) | easy |
+| 281 | [JavaScript: Simple Demo](https://tryhackme.com/room/javascriptsimpledemo) | medium |
+| 282 | [Python: Simple Demo](https://tryhackme.com/room/pythonsimpledemo) | easy |
+| 283 | [Windows Basics](https://tryhackme.com/room/windowsbasics) | easy |
+| 284 | [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals) | easy |
+| 285 | [Windows CLI Basics](https://tryhackme.com/room/windowsclibasics) | easy |
+| 286 | [The CIA Triad](https://tryhackme.com/room/theciatriad) | easy |
+| 287 | [Database SQL Basics](https://tryhackme.com/room/databasesqlbasics) | easy |
+| 288 | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | easy |
+| 289 | [Client-Server Basics](https://tryhackme.com/room/clientserverbasics) | easy |
+| 290 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
+| 291 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
+| 292 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
+| 293 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
+| 294 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
+| 295 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
+| 296 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12l39) | easy |
+| 297 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroez) | info |
+| 298 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
+| 299 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
 
 </details>
 <!-- THM_ROOMS_END -->

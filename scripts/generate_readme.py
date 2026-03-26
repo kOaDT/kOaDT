@@ -27,6 +27,7 @@ SECTIONS = {
     "cve_discoveries": ("<!-- CVE_DISCOVERIES_START -->", "<!-- CVE_DISCOVERIES_END -->"),
     "poc_cve": ("<!-- POC_CVE_START -->", "<!-- POC_CVE_END -->"),
     "oss": ("<!-- OSS_START -->", "<!-- OSS_END -->"),
+    "publications": ("<!-- PUBLICATIONS_START -->", "<!-- PUBLICATIONS_END -->"),
     "certifications": ("<!-- CERTIFICATIONS_START -->", "<!-- CERTIFICATIONS_END -->"),
     "certificates": ("<!-- CERTIFICATES_START -->", "<!-- CERTIFICATES_END -->"),
     "badges": ("<!-- THM_BADGES_START -->", "<!-- THM_BADGES_END -->"),
@@ -231,6 +232,36 @@ def build_oss(data):
     return "\n".join(lines)
 
 
+def build_publications(data):
+    if not data:
+        return ""
+    items = data.get("items", [])
+    if not items:
+        return ""
+
+    items.sort(key=lambda x: x.get("datePublished", ""), reverse=True)
+
+    lines = [
+        "<details>",
+        f"<summary><b>Publications ({len(items)})</b></summary>",
+        "<br>",
+        "",
+        "| Title | Platform | Category | Date |",
+        "|:------|:---------|:---------|:-----|",
+    ]
+    for item in items:
+        title = item.get("title", "")
+        link = item.get("link", "")
+        platform = item.get("platform", "")
+        category = item.get("category", "")
+        date = item.get("datePublished", "")
+        title_cell = f"[{title}]({link})" if link else title
+        lines.append(f"| {title_cell} | {platform} | {category} | {date} |")
+    lines.append("")
+    lines.append("</details>")
+    return "\n".join(lines)
+
+
 def build_certifications(data):
     if not data:
         return ""
@@ -353,6 +384,7 @@ def main():
     cve_discoveries = fetch_private_json("cve-discoveries.json")
     poc_cve = fetch_private_json("poc-cve-repos.json")
     oss_contributions = fetch_private_json("oss-contributions.json")
+    publications = fetch_private_json("publications.json")
     certifications = fetch_private_json("certifications.json")
     certificates = fetch_private_json("certificates.json")
 
@@ -362,6 +394,7 @@ def main():
         "cve_discoveries": build_cve_discoveries(cve_discoveries) if cve_discoveries is not None else None,
         "poc_cve": build_poc_cve(poc_cve) if poc_cve is not None else None,
         "oss": build_oss(oss_contributions) if oss_contributions is not None else None,
+        "publications": build_publications(publications) if publications is not None else None,
         "certifications": build_certifications(certifications) if certifications is not None else None,
         "certificates": build_certificates(certificates) if certificates is not None else None,
         "badges": build_badges(badges),

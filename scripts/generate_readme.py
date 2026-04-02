@@ -24,7 +24,7 @@ README_FILE = "README.md"
 SECTIONS = {
     "stats": ("<!-- THM_STATS_START -->", "<!-- THM_STATS_END -->"),
     "projects": ("<!-- PROJECTS_START -->", "<!-- PROJECTS_END -->"),
-    "cve_discoveries": ("<!-- CVE_DISCOVERIES_START -->", "<!-- CVE_DISCOVERIES_END -->"),
+    "cve_reported": ("<!-- CVE_REPORTED_START -->", "<!-- CVE_REPORTED_END -->"),
     "poc_cve": ("<!-- POC_CVE_START -->", "<!-- POC_CVE_END -->"),
     "oss": ("<!-- OSS_START -->", "<!-- OSS_END -->"),
     "publications": ("<!-- PUBLICATIONS_START -->", "<!-- PUBLICATIONS_END -->"),
@@ -129,7 +129,7 @@ def build_projects(data):
     return "\n".join(lines)
 
 
-def build_cve_discoveries(data):
+def build_cve_reported(data):
     if not data:
         return ""
     items = data.get("items", [])
@@ -138,7 +138,7 @@ def build_cve_discoveries(data):
 
     lines = [
         "<details>",
-        f"<summary><b>CVE Discoveries ({len(items)})</b></summary>",
+        f"<summary><b>CVE Reported ({len(items)})</b></summary>",
         "<br>",
         "",
         "| CVE | Score | Date | Description |",
@@ -381,7 +381,7 @@ def main():
 
     print("Fetching portfolio data...")
     github_repos = fetch_private_json("github-repos.json")
-    cve_discoveries = fetch_private_json("cve-discoveries.json")
+    cve_reported = fetch_private_json("cve-discoveries.json")
     poc_cve = fetch_private_json("poc-cve-repos.json")
     oss_contributions = fetch_private_json("oss-contributions.json")
     publications = fetch_private_json("publications.json")
@@ -391,7 +391,7 @@ def main():
     snippets = {
         "stats": build_stats(profile),
         "projects": build_projects(github_repos) if github_repos is not None else None,
-        "cve_discoveries": build_cve_discoveries(cve_discoveries) if cve_discoveries is not None else None,
+        "cve_reported": build_cve_reported(cve_reported) if cve_reported is not None else None,
         "poc_cve": build_poc_cve(poc_cve) if poc_cve is not None else None,
         "oss": build_oss(oss_contributions) if oss_contributions is not None else None,
         "publications": build_publications(publications) if publications is not None else None,

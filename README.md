@@ -35,9 +35,9 @@
 
 | CVE | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:----|:------------|---:|---:|----:|---:|
-| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 12 | 3 | 3988 | 1308 |
-| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 7 | 3 | 1383 | 370 |
-| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | 838 | 204 |
+| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 12 | 3 | 3993 | 1309 |
+| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 7 | 3 | 1400 | 371 |
+| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | 839 | 206 |
 
 </details>
 <!-- POC_CVE_END -->
@@ -49,10 +49,10 @@
 
 | Project | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:--------|:------------|---:|---:|----:|---:|
-| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | Security training for the apps you actually ship. Open your browser and start hacking. | 16 | 34 | 4023 | 46954 |
-| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 5 | 1 | 219517 | 1120 |
-| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 129 | 264 |
-| [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 66 | 37 |
+| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | Security training for the apps you actually ship. Open your browser and start hacking. | 16 | 34 | 4044 | 47688 |
+| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 5 | 1 | 219517 | 1127 |
+| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 130 | 267 |
+| [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 67 | 37 |
 
 </details>
 <!-- PROJECTS_END -->
@@ -64,18 +64,18 @@
 
 | Repository | Description | ⭐ | 🍴 |
 |:-----------|:------------|---:|---:|
-| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 43545 | 2385 |
-| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 6819 | 1282 |
-| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 4806 | 343 |
-| [**OWASP/www-community**](https://github.com/OWASP/www-community) | OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. | 1353 | 827 |
+| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 43576 | 2390 |
+| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 6820 | 1283 |
+| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 4809 | 343 |
+| [**OWASP/www-community**](https://github.com/OWASP/www-community) | OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. | 1355 | 827 |
 | [**OWASP/www-project-vulnerable-web-applications-directory**](https://github.com/OWASP/www-project-vulnerable-web-applications-directory) | The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available. | 86 | 46 |
-| [**husnainfareed/awesome-ethical-hacking-resources**](https://github.com/husnainfareed/awesome-ethical-hacking-resources) | 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing. | 3448 | 535 |
-| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 2264 | 1855 |
-| [**fabionoth/awesome-cyber-security**](https://github.com/fabionoth/awesome-cyber-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. | 1857 | 254 |
+| [**husnainfareed/awesome-ethical-hacking-resources**](https://github.com/husnainfareed/awesome-ethical-hacking-resources) | 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing. | 3449 | 537 |
+| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 2280 | 1869 |
+| [**fabionoth/awesome-cyber-security**](https://github.com/fabionoth/awesome-cyber-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. | 1859 | 255 |
 | [**vavkamil/awesome-vulnerable-apps**](https://github.com/vavkamil/awesome-vulnerable-apps) | Awesome Vulnerable Applications | 1392 | 212 |
-| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1306 | 211 |
-| [**Grafikart/Grafikart.fr**](https://github.com/Grafikart/Grafikart.fr) | Dépôt pour la nouvelle version de Grafikart.fr | 675 | 179 |
-| [**okhosting/awesome-cyber-security**](https://github.com/okhosting/awesome-cyber-security) | A curated list of cyber security resources and tools. | 517 | 77 |
+| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1307 | 211 |
+| [**Grafikart/Grafikart.fr**](https://github.com/Grafikart/Grafikart.fr) | Dépôt pour la nouvelle version de Grafikart.fr | 678 | 180 |
+| [**okhosting/awesome-cyber-security**](https://github.com/okhosting/awesome-cyber-security) | A curated list of cyber security resources and tools. | 519 | 77 |
 | [**noraj/rawsec-cybersecurity-inventory**](https://github.com/noraj/rawsec-cybersecurity-inventory) | An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity. | 335 | 70 |
 | [**secnotes/awesome-cybersecurity**](https://github.com/secnotes/awesome-cybersecurity) | A collection of awesome github repositories about security | 73 | 7 |
 
@@ -116,7 +116,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13771 | 1% | 632 days |
+| #13787 | 1% | 634 days |
 
 </details>
 <!-- THM_STATS_END -->

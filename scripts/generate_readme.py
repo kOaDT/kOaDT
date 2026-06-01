@@ -8,13 +8,10 @@ import sys
 from urllib.request import urlopen, Request
 from urllib.error import URLError, HTTPError
 
-USERNAME = "kOaDT"
-USER_MONGO_ID = "656836cbd2d9d3b0e689a7d1"
-
-BASE = "https://tryhackme.com/api/v2"
-PROFILE_URL = f"{BASE}/public-profile?username={USERNAME}"
-BADGES_URL = f"{BASE}/public-profile/badges?user={USER_MONGO_ID}&limit=100"
-ROOMS_URL = f"{BASE}/public-profile/completed-rooms?user={USER_MONGO_ID}&limit=500"
+# TryHackMe's API is behind Vercel's Attack Challenge Mode, which blocks CI
+# datacenter IPs (HTTP 429). The data is fetched from a residential IP by the
+# local tool in scripts/fetch-thm and committed as JSON; we just read it here.
+THM_DATA_FILE = os.path.join(os.path.dirname(__file__), "data", "thm.json")
 
 PRIVATE_REPO = "kOaDT/portfolio-cyber"
 DATA_PATH = "src/data"
@@ -35,16 +32,19 @@ SECTIONS = {
 }
 
 
-def fetch_thm_json(url):
+def load_thm_data():
+    """Read the committed TryHackMe data written by scripts/fetch-thm.
+
+    Returns (profile, badges, rooms); any may be None if the file is missing or
+    malformed, in which case the corresponding sections degrade gracefully.
+    """
     try:
-        req = Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read().decode())
-            if data.get("status") == "success":
-                return data.get("data", {})
-    except (URLError, HTTPError, json.JSONDecodeError, KeyError) as e:
-        print(f"Warning: failed to fetch {url}: {e}", file=sys.stderr)
-    return None
+        with open(THM_DATA_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        return data.get("profile"), data.get("badges"), data.get("rooms")
+    except (OSError, json.JSONDecodeError) as e:
+        print(f"Warning: could not read {THM_DATA_FILE}: {e}", file=sys.stderr)
+        return None, None, None
 
 
 def fetch_private_json(filename):
@@ -374,10 +374,8 @@ def inject_section(content, start_tag, end_tag, snippet):
 
 
 def main():
-    print("Fetching TryHackMe data...")
-    profile = fetch_thm_json(PROFILE_URL)
-    badges = fetch_thm_json(BADGES_URL)
-    rooms = fetch_thm_json(ROOMS_URL)
+    print("Loading TryHackMe data...")
+    profile, badges, rooms = load_thm_data()
 
     print("Fetching portfolio data...")
     github_repos = fetch_private_json("github-repos.json")

@@ -1,2 +1,4 @@
 .claude/
 output/
+__pycache__/
+scripts/fetch-thm/node_modules/

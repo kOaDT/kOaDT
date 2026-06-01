@@ -1,6 +1,9 @@
 name: Update README
 
 on:
+  push:
+    paths:
+      - 'scripts/data/thm.json'
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:

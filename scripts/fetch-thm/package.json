@@ -1,0 +1,13 @@
+{
+  "name": "fetch-thm",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Local-only tool: fetch TryHackMe data through a real browser (residential IP) and write scripts/data/thm.json. Run it from your machine, then commit the JSON. CI reads the committed file because TryHackMe's Vercel Attack Challenge Mode blocks datacenter IPs.",
+  "scripts": {
+    "fetch": "node fetch_thm.mjs"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}

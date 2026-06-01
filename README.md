@@ -7,7 +7,6 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/lgra.netlify.app-0a0a0a?style=flat-square&logo=netlify&logoColor=white)](https://lgra.netlify.app/)&nbsp;&nbsp;
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0a0a?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kOaDT)&nbsp;&nbsp;
 [![Root-Me](https://img.shields.io/badge/Root--Me-0a0a0a?style=flat-square&logo=rootme&logoColor=white)](https://www.root-me.org/kOaDT)
 

@@ -12,7 +12,7 @@ only from a **trusted residential IP**. GitHub Actions runners use datacenter
 Chromium returns `200` from a home connection and `429` from a runner. So the
 fetch must run on your machine; the result is committed and CI consumes it.
 
-## Morning routine
+## Process
 
 ```bash
 cd scripts/fetch-thm

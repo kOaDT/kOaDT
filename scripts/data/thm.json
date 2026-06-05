@@ -14,19 +14,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 29073,
+    "totalPoints": 29081,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
-    "completedRoomsNumber": 329,
-    "streak": 661,
-    "rank": 13791,
+    "completedRoomsNumber": 330,
+    "streak": 662,
+    "rank": 13794,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "silver",
     "capabilityScore": {
-      "value": 69.9,
+      "value": 68.89,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -4101,6 +4101,17 @@
         "tagDocsV2": []
       },
       {
+        "_id": "69b3b6ed1ddb43f8f434b187",
+        "type": "walkthrough",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "code": "guidedpentestinfrastructure",
+        "title": "Guided Pentest: Infrastructure",
+        "description": "Understand the steps involved in a real-life pentest and follow them to compromise your target.",
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6989b1062386d3517f652edd-1778494472489",
+        "tagDocsV2": []
+      },
+      {
         "_id": "69c2381f98005f8d89c1e7fe",
         "type": "walkthrough",
         "freeToUse": true,
@@ -4134,7 +4145,7 @@
         "tagDocsV2": []
       }
     ],
-    "totalDocs": 329,
+    "totalDocs": 330,
     "limit": 500,
     "page": 1,
     "totalPages": 1,
@@ -4144,5 +4155,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-06-04T14:59:48.983Z"
+  "_fetchedAt": "2026-06-05T14:44:53.971Z"
 }

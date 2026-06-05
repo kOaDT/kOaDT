@@ -118,7 +118,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13791 | 1% | 661 days |
+| #13794 | 1% | 662 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -183,7 +183,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (329)</b></summary>
+<summary><b>TryHackMe Completed Rooms (330)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -514,9 +514,10 @@
 | 324 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
 | 325 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
 | 326 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
-| 327 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 328 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 329 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 327 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
+| 328 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 329 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 330 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
 
 </details>
 <!-- THM_ROOMS_END -->

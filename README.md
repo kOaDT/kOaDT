@@ -119,7 +119,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13669 | 1% | 669 days |
+| #13539 | 1% | 671 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -184,7 +184,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (331)</b></summary>
+<summary><b>TryHackMe Completed Rooms (333)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -511,15 +511,17 @@
 | 320 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
 | 321 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
 | 322 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
-| 323 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
-| 324 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
-| 325 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
-| 326 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
-| 327 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
-| 328 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
-| 329 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 330 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 331 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 323 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
+| 324 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
+| 325 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
+| 326 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
+| 327 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
+| 328 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
+| 329 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
+| 330 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
+| 331 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 332 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 333 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
 
 </details>
 <!-- THM_ROOMS_END -->

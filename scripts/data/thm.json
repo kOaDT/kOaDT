@@ -14,19 +14,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 29417,
+    "totalPoints": 29670,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
-    "completedRoomsNumber": 333,
-    "streak": 671,
-    "rank": 13539,
+    "completedRoomsNumber": 336,
+    "streak": 677,
+    "rank": 13366,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
-    "leagueTier": "silver",
+    "leagueTier": "gold",
     "capabilityScore": {
-      "value": 70.8556,
+      "value": 69.8212,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -4156,6 +4156,17 @@
         "tagDocsV2": []
       },
       {
+        "_id": "69d00b20ae468a4bbeba28c8",
+        "type": "walkthrough",
+        "freeToUse": false,
+        "difficulty": "medium",
+        "code": "webserverattacks",
+        "title": "Web Server Attacks - I",
+        "description": "Enumerate and identify misconfigurations across Apache, Nginx, Node.js, and Python HTTP Server.",
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1777538452278",
+        "tagDocsV2": []
+      },
+      {
         "_id": "69d11794a4b37712cfb0bdc4",
         "type": "challenge",
         "freeToUse": true,
@@ -4176,9 +4187,31 @@
         "description": "Learn all you need to know about how to engage with the AI Security Path launch event!",
         "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1776095593200",
         "tagDocsV2": []
+      },
+      {
+        "_id": "69ea7065e887c835da690aca",
+        "type": "walkthrough",
+        "freeToUse": false,
+        "difficulty": "easy",
+        "code": "modernwebstacks",
+        "title": "Modern Web Stacks",
+        "description": "Four web stacks, four CVEs: fingerprint MERN, Next.js, Django, and LAMP, then exploit each one.",
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1778596912702",
+        "tagDocsV2": []
+      },
+      {
+        "_id": "69f9b8722dff1c053d60bbe2",
+        "type": "walkthrough",
+        "code": "contentdiscoveryx",
+        "title": "Content Discovery",
+        "description": "Discover hidden web content using manual techniques, OSINT, and Gobuster enumeration.",
+        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/691e303c8bb7e99b93a58132-1778746486881",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "tagDocsV2": []
       }
     ],
-    "totalDocs": 333,
+    "totalDocs": 336,
     "limit": 500,
     "page": 1,
     "totalPages": 1,
@@ -4188,5 +4221,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-06-14T20:54:25.532Z"
+  "_fetchedAt": "2026-06-20T19:13:57.252Z"
 }

@@ -119,7 +119,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13539 | 1% | 671 days |
+| #13366 | 1% | 677 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -184,7 +184,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (333)</b></summary>
+<summary><b>TryHackMe Completed Rooms (336)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -520,8 +520,11 @@
 | 329 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
 | 330 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
 | 331 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 332 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 333 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 332 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
+| 333 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 334 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 335 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 336 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
 
 </details>
 <!-- THM_ROOMS_END -->

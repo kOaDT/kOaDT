@@ -119,7 +119,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13366 | 1% | 677 days |
+| #13433 | 1% | 686 days |
 
 </details>
 <!-- THM_STATS_END -->

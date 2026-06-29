@@ -14,19 +14,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 29670,
+    "totalPoints": 29758,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
     "completedRoomsNumber": 336,
-    "streak": 677,
-    "rank": 13366,
+    "streak": 686,
+    "rank": 13433,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
-    "leagueTier": "gold",
+    "leagueTier": "platinum",
     "capabilityScore": {
-      "value": 69.8212,
+      "value": 69.52889671986294,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -1045,7 +1045,7 @@
       {
         "_id": "605cbd7de3e045775d2172f1",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "howwebsiteswork",
         "title": "How Websites Work",
@@ -1067,7 +1067,7 @@
       {
         "_id": "606d6c850562674d2e98c999",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "puttingitalltogether",
         "title": "Putting it all together",
@@ -3113,7 +3113,7 @@
       {
         "_id": "67e173384230a2f8ca20c812",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "nextjscve202529927",
         "title": "Next.js: CVE-2025-29927",
@@ -3168,7 +3168,7 @@
       {
         "_id": "6808a656322b23705313515c",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "erlangotpsshcve202532433",
         "title": "Erlang/OTP SSH: CVE-2025-32433",
@@ -3256,7 +3256,7 @@
       {
         "_id": "684adef42bf6634501dd06b6",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "roundcubecve202549113",
         "title": "Roundcube: CVE-2025-49113",
@@ -3718,7 +3718,7 @@
       {
         "_id": "691470d1489f094ee04af8a8",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "djangocve202564459",
         "title": "Django: CVE-2025-64459",
@@ -3751,7 +3751,7 @@
       {
         "_id": "6931423a01db5e52a77a7e1d",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "react2shellcve202555182",
         "title": "React2Shell: CVE-2025-55182",
@@ -3982,7 +3982,7 @@
       {
         "_id": "6967083fb94876121ab43d82",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "medium",
         "code": "geoservercve202558360",
         "title": "GeoServer: CVE-2025-58360",
@@ -4221,5 +4221,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-06-20T19:13:57.252Z"
+  "_fetchedAt": "2026-06-29T17:12:02.091Z"
 }

@@ -1,6 +1,6 @@
 {
   "profile": {
-    "avatar": "https://tryhackme-images.s3.amazonaws.com/user-avatars/656836cbd2d9d3b0e689a7d1-1775305111475",
+    "avatar": "https://cdn-images.tryhackme.com/user-avatars/656836cbd2d9d3b0e689a7d1-1775305111475",
     "username": "kOaDT",
     "level": 13,
     "country": "fr",
@@ -14,19 +14,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 29990,
+    "totalPoints": 30090,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
-    "completedRoomsNumber": 339,
-    "streak": 692,
-    "rank": 13299,
+    "completedRoomsNumber": 340,
+    "streak": 697,
+    "rank": 13257,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
-    "leagueTier": "platinum",
+    "leagueTier": "gold",
     "capabilityScore": {
-      "value": 70.74,
+      "value": 69.59,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -516,509 +516,463 @@
     "docs": [
       {
         "_id": "5bf1cf81f745217dc7c1caf5",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/fafc074a97207f99929f2ee28bea87ac.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/fafc074a97207f99929f2ee28bea87ac.jpeg",
         "description": "Cracking hashes challenges",
         "title": "Crack the hash",
         "code": "crackthehash",
         "type": "challenge",
         "difficulty": "easy",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5c7d676b90238128a41bb61a",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/194d2fdda55101f739058127aac2976c.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/194d2fdda55101f739058127aac2976c.png",
         "description": "Access your own Kali Machine",
         "title": "Kali Machine",
         "code": "kali",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": false,
-        "tagDocsV2": []
+        "freeToUse": false
       },
       {
         "_id": "5c85078bf4bde85b94d830f5",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/47d2d3ade1795f81a155d0aca6e4da96.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/47d2d3ade1795f81a155d0aca6e4da96.jpeg",
         "description": "A Rick and Morty CTF. Help turn Rick back into a human!",
         "title": "Pickle Rick",
         "code": "picklerick",
         "difficulty": "easy",
         "type": "challenge",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5c8edaab94a5767fa67f70ab",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339260886-blue.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339260886-blue.png",
         "description": "Deploy & hack into a Windows machine, leveraging common misconfigurations issues.",
         "title": "Blue",
         "code": "blue",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5cb0b1b8779909395702c6d5",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/9c6bc7e6db746ea68ecaa99e328923f1.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/9c6bc7e6db746ea68ecaa99e328923f1.png",
         "description": "Are you able to use open source intelligence to solve this challenge?",
         "title": "OhSINT",
         "code": "ohsint",
         "difficulty": "easy",
         "type": "challenge",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5d3f3faabe83462671c59eb7",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/99c72676aab814b94e3bc350ba627b71.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/99c72676aab814b94e3bc350ba627b71.png",
         "description": "This is a machine that allows you to practise web app hacking and privilege escalation ",
         "title": "Basic Pentesting",
         "code": "basicpentestingjt",
         "difficulty": "easy",
         "type": "challenge",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5d4316a22007b6126fa2ca28",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/85dee7ce633f5668b104d329da2769c3.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/85dee7ce633f5668b104d329da2769c3.png",
         "description": "Learn about active recon, web app attacks and privilege escalation.",
         "title": "Vulnversity",
         "code": "vulnversity",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5d5a29456986bf350804765d",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/f28ade2b51eb7aeeac91002d41f29c47.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/f28ade2b51eb7aeeac91002d41f29c47.png",
         "description": "Beginner level ctf",
         "title": "Simple CTF",
         "code": "easyctf",
         "difficulty": "easy",
         "type": "challenge",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5d6fc9ff89f67e1b3cca26b5",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/46f437a95b1de43238c290a9c416c8d4.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/46f437a95b1de43238c290a9c416c8d4.png",
         "description": "Walkthrough on exploiting a Linux machine. Enumerate Samba for shares, manipulate a vulnerable version of proftpd and escalate your privileges with path variable manipulation. ",
         "title": "Kenobi",
         "code": "kenobi",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5d879c62ec940d1f47b769ba",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/0268d3412331f7802108c84007985d0d.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/0268d3412331f7802108c84007985d0d.png",
         "description": "Learn to use tmux, one of the most powerful multi-tasking tools on linux!",
         "title": "tmux",
         "code": "rptmux",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5d90db6f1457d878928a1e01",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/c9030a2b60bb7d1cf4fcb6e5032526d3.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/c9030a2b60bb7d1cf4fcb6e5032526d3.jpeg",
         "description": "Hack into a Mr. Robot themed Windows machine. Use metasploit for initial access, utilise powershell for Windows privilege escalation enumeration and learn a new technique to get Administrator access. ",
         "title": "Steel Mountain",
         "code": "steelmountain",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": false,
-        "tagDocsV2": []
+        "freeToUse": false
       },
       {
         "_id": "5d96649dd832c106398e283a",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/ca3da5aa8e312b0316f06a25a03028a5.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/ca3da5aa8e312b0316f06a25a03028a5.png",
         "description": "Learn the basics of PowerShell and PowerShell Scripting",
         "title": "Hacking with PowerShell",
         "code": "powershell",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": false,
-        "tagDocsV2": []
+        "freeToUse": false
       },
       {
         "_id": "5d99071f608f30242af8b960",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/19a06ee1eaa0c44ea3384f377105f66a.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/19a06ee1eaa0c44ea3384f377105f66a.jpeg",
         "description": "Who thought making a flying shell was a good idea?",
         "title": "Bebop",
         "code": "bebop",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": false,
-        "tagDocsV2": []
+        "freeToUse": false
       },
       {
         "_id": "5db08731278d520a986149ac",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/370ada1208acaa6444fce2cfac2be0a2.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/370ada1208acaa6444fce2cfac2be0a2.png",
         "description": "Basic room for testing exploits against the Damn Vulnerable Web Application box",
         "title": "DVWA",
         "code": "dvwa",
         "difficulty": "easy",
         "type": "walkthrough",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5db90856b7157b7c00bead00",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/aedc6b66c222e15ff740c282a0c3f44e.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/aedc6b66c222e15ff740c282a0c3f44e.png",
         "description": "You found a secret server located under the deep sea. Your task is to hack inside the server and reveal the truth. ",
         "title": "Agent Sudo",
         "code": "agentsudoctf",
         "difficulty": "easy",
         "type": "challenge",
-        "freeToUse": true,
-        "tagDocsV2": []
+        "freeToUse": true
       },
       {
         "_id": "5ddfed56aaea05681f32f6ce",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/efbb70493ba66dfbac4302c02ad8facf.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/efbb70493ba66dfbac4302c02ad8facf.jpeg",
         "description": "Easy linux machine to practice your skills",
         "title": "LazyAdmin",
         "code": "lazyadmin",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "challenge",
-        "tagDocsV2": []
+        "type": "challenge"
       },
       {
         "_id": "5e36129f10c4674ba9f8554b",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/59bb6a64228a88219c0a9de1928226b8.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/59bb6a64228a88219c0a9de1928226b8.jpeg",
         "description": "Room to understand how to geolocate images",
         "title": "Geolocating Images",
         "code": "geolocatingimages",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5e4009ed285d3a54044c21dd",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/79e82f49bdb7cb0090d5bad603866cd9.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/79e82f49bdb7cb0090d5bad603866cd9.png",
         "description": "A tutorial room exploring CVE-2019-14287 in the Unix Sudo Program. Room One in the SudoVulns Series",
         "title": "Sudo Security Bypass",
         "code": "sudovulnsbypass",
         "difficulty": "info",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5e43ca6a994cae0185e844a0",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/95164927092fe0fc3e9f142aea05267a.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/95164927092fe0fc3e9f142aea05267a.png",
         "description": "An introduction to networking theory and basic networking tools",
         "title": "Introductory Networking",
         "code": "introtonetworking",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5e5d312831717578c8ada47f",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/43522e07a54978ab307ad173fd585ab6.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/43522e07a54978ab307ad173fd585ab6.png",
         "description": "A room explaining common Linux privilege escalation",
         "title": "Common Linux Privesc",
         "code": "commonlinuxprivesc",
         "difficulty": "easy",
         "freeToUse": false,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5e715b8113049839ea7439d7",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/24de724519d5a2f65efc6ae06fc2bbd9.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/24de724519d5a2f65efc6ae06fc2bbd9.png",
         "description": "Explaining how Search Engines work and leveraging them into finding hidden content!",
         "title": "Google Dorking",
         "code": "googledorking",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5e722e6054eefa07d09ccfcc",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573889029",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573889029",
         "description": "Learn about, then enumerate and exploit a variety of network services and misconfigurations.",
         "title": "Network Services",
         "code": "networkservices",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5e74f549724bb30828b584c4",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/a3965d04160e266d168f5a0a9d4eb01a.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/a3965d04160e266d168f5a0a9d4eb01a.png",
         "description": "A brief introduction to research skills for pentesting.",
         "title": "Introductory Researching",
         "code": "introtoresearch",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5e7e92c60768b360f226800e",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/0741ea184b13423cdc35c13147cf930b.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/0741ea184b13423cdc35c13147cf930b.png",
         "description": "An introduction to sending and receiving (reverse/bind) shells when exploiting target machines.",
         "title": "What the Shell?",
         "code": "introtoshells",
         "difficulty": "easy",
         "freeToUse": false,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5eb82beb51e82c3ca6159588",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/95360a659831708b18fea654cc0c417c.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/95360a659831708b18fea654cc0c417c.png",
         "description": "An introduction to Hashing, as part of a series on crypto",
         "title": "Hashing - Crypto 101",
         "code": "hashingcrypto101",
         "difficulty": "medium",
         "freeToUse": false,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5ebeb34c1aedc11f6c3f2db4",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/d9ff4d8d845ecec00615d68b770e8d4b.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/d9ff4d8d845ecec00615d68b770e8d4b.jpeg",
         "description": "Practice your Linux Privilege Escalation skills on an intentionally misconfigured Debian VM with multiple ways to get root! SSH is available. Credentials: user:password321",
         "title": "Linux PrivEsc",
         "code": "linuxprivesc",
         "difficulty": "medium",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5ebefb066d6a6b06c3e8fd3e",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5ebaa42422d2cf0aa103b2c77d02e100.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5ebaa42422d2cf0aa103b2c77d02e100.png",
         "description": "Tutorial room exploring some basic file-upload vulnerabilities in websites",
         "title": "Upload Vulnerabilities",
         "code": "uploadvulns",
         "difficulty": "easy",
         "freeToUse": false,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5ecd23dec5b7e144c653d8f7",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/ca82a12b6aab343bc4689e6b7690457c.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/ca82a12b6aab343bc4689e6b7690457c.png",
         "description": "An introduction to encryption, as part of a series on crypto",
         "title": "Encryption - Crypto 101",
         "code": "encryptioncrypto101",
         "difficulty": "medium",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5ede355e00726f67292dd293",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/9ad38a2cc31d6ae0030c888aca7fe646.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/9ad38a2cc31d6ae0030c888aca7fe646.jpeg",
         "description": "You talked a big game about being the most elite hacker in the solar system. Prove it and claim your right to the status of Elite Bounty Hacker!",
         "title": "Bounty Hacker",
         "code": "cowboyhacker",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "challenge",
-        "tagDocsV2": []
+        "type": "challenge"
       },
       {
         "_id": "5ee05469dd9e641e61d67510",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/9a0c0a661ba218c0f9d533c8f41d8dd5.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/9a0c0a661ba218c0f9d533c8f41d8dd5.png",
         "description": "This room uses the Juice Shop vulnerable web application to learn how to identify and exploit common web application vulnerabilities.",
         "title": "OWASP Juice Shop",
         "code": "owaspjuiceshop",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5ee2139e8cd40f63c08e6060",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/a60460f94562420191b875ba8e7ddf5b.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/a60460f94562420191b875ba8e7ddf5b.png",
         "description": "Enhance your Linux knowledge with this beginner friendly room!",
         "title": "NIS - Linux Part I",
         "code": "nislinuxone",
         "difficulty": "easy",
         "freeToUse": false,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5ef3db5457209c66ea9aae94",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2048656e072dd7caffe455ae2d44b65f.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2048656e072dd7caffe455ae2d44b65f.png",
         "description": "What happens when some broke CompSci students make a password manager?",
         "title": "Overpass",
         "code": "overpass",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "challenge",
-        "tagDocsV2": []
+        "type": "challenge"
       },
       {
         "_id": "5f0c76f6e0a30d3d778db8bf",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573910730",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573910730",
         "description": "Enumerating and Exploiting More Common Network Services & Misconfigurations",
         "title": "Network Services 2",
         "code": "networkservices2",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5f1db6c6cf08ce29f63401e8",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573939706",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573939706",
         "description": "Using a web-based code editor, learn the basics of Python and put your knowledge into practice by eventually coding a short Bitcoin investment project. ",
         "title": "Python Basics",
         "code": "pythonbasics",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5f29b3c553cf804b584e17fc",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/11d59cb34397e986062eb515f4d32421.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/11d59cb34397e986062eb515f4d32421.png",
         "description": "A ctf for beginners, can you root me?",
         "title": "RootMe",
         "code": "rrootme",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "challenge",
-        "tagDocsV2": []
+        "type": "challenge"
       },
       {
         "_id": "5f4dd5a1a1014b7041c8876a",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/a6d38d1e588a012eaf692e923e0c8926.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/a6d38d1e588a012eaf692e923e0c8926.png",
         "description": "This room is an introduction to physical security methods to bypass locks, doors and other physical barriers.",
         "title": "Physical Security Intro",
         "code": "physicalsecurityintro",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5f5704e6adb06234ecee89d0",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/42bdeb37580f893369c19dc7250fe7d8.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/42bdeb37580f893369c19dc7250fe7d8.jpeg",
         "description": "Introduction to the Hacker Methodology",
         "title": "The Hacker Methodology",
         "code": "hackermethodology",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5f6f5f7317eed411eace7fe1",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/c916cc3206c2199f9b5e9db43d5a15e9.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/c916cc3206c2199f9b5e9db43d5a15e9.png",
         "description": "Learn how to use a TryHackMe room to start your upskilling in cyber security.",
         "title": "Tutorial",
         "code": "tutorial",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5f8cd29d228530375331adb3",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/923112c47e9e684ca2e4f077e7830da5.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/923112c47e9e684ca2e4f077e7830da5.jpeg",
         "description": "Get started with TryHackMe by hacking a fake social media website!",
         "title": "Getting Started",
         "code": "gettingstarted",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5f91f0b92fa3673dbfb18f95",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2aade89334d1b77f209834edba7853dc.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2aade89334d1b77f209834edba7853dc.png",
         "description": "Explore the various resources that MITRE has made available to the cyber security community.",
         "title": "MITRE",
         "code": "mitre",
         "difficulty": "medium",
         "freeToUse": false,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5f95b9e32fa3673dbfb2d2e9",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2872c789f749c4be44eb42f762181330.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2872c789f749c4be44eb42f762181330.jpeg",
         "description": "Learn about the different career paths in Cyber Security and how TryHackMe can help!",
         "title": "Starting Out In Cyber Sec",
         "code": "startingoutincybersec",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5fa04d44f0506c48b1fa0080",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5d653d7a4e8a1a6d98379168cfc30ac0.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5d653d7a4e8a1a6d98379168cfc30ac0.png",
         "description": "An in depth look at scanning with Nmap, a powerful network scanning tool.",
         "title": "Nmap",
         "code": "furthernmap",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5fa25e57f0506c48b1fab589",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/7189d9e0b1ec48e6e750491cf4dd10df.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/7189d9e0b1ec48e6e750491cf4dd10df.jpeg",
         "description": "How it works and how can I exploit it?",
         "title": "Introduction to Flask",
         "code": "flask",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "5fa730bf09051d48aa3bd904",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339187295-johntheripperbasics.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339187295-johntheripperbasics.png",
         "description": "Learn how to use John the Ripper, a powerful and adaptable hash-cracking tool.",
         "title": "John the Ripper: The Basics",
         "code": "johntheripperbasics",
         "difficulty": "easy",
         "freeToUse": false,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "60107aa3603d435b10828815",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/a75e1c495f6557ea55b0421f6ef3b722.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/a75e1c495f6557ea55b0421f6ef3b722.png",
         "description": "Become familiar with cryptography",
         "title": "Cryptography for Dummies",
         "code": "cryptographyfordummies",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "603ebe4e6d74786977dce317",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/87c81cfc892066064ae627c5521ad85c.jpeg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/87c81cfc892066064ae627c5521ad85c.jpeg",
         "description": "Start and access your first machine! ",
         "title": "How to use TryHackMe",
         "code": "howtousetryhackme",
         "difficulty": "easy",
         "freeToUse": true,
-        "type": "walkthrough",
-        "tagDocsV2": []
+        "type": "walkthrough"
       },
       {
         "_id": "605345a60988e711c0065e07",
@@ -1028,8 +982,7 @@
         "code": "linuxfundamentalspart1",
         "title": "Linux Fundamentals Part 1",
         "description": "Embark on the journey of learning the fundamentals of Linux.  Learn to run some of the first essential commands on an interactive terminal.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338653719-linuxfundamentalspart1.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338653719-linuxfundamentalspart1.png"
       },
       {
         "_id": "605c991a51a66f03a514770f",
@@ -1039,8 +992,7 @@
         "code": "linuxfundamentalspart2",
         "title": "Linux Fundamentals Part 2",
         "description": "Continue your learning Linux journey with part two. You will be learning how to log in to a Linux machine using SSH, how to advance your commands, file system interaction.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338657502-linuxfundamentalspart1.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338657502-linuxfundamentalspart1.png"
       },
       {
         "_id": "605cbd7de3e045775d2172f1",
@@ -1050,8 +1002,7 @@
         "code": "howwebsiteswork",
         "title": "How Websites Work",
         "description": "To exploit a website, you first need to know how they are created.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image11.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image11.png"
       },
       {
         "_id": "6065a8575a27121513f5bf1f",
@@ -1061,8 +1012,7 @@
         "code": "linuxfundamentalspart3",
         "title": "Linux Fundamentals Part 3",
         "description": "Power-up your Linux skills and get hands-on with some common utilities that you are likely to use day-to-day!",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338660579-linuxfundamentalspart1.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338660579-linuxfundamentalspart1.png"
       },
       {
         "_id": "606d6c850562674d2e98c999",
@@ -1072,8 +1022,7 @@
         "code": "puttingitalltogether",
         "title": "Putting it all together",
         "description": "Learn how all the individual components of the web work together to bring you access to your favourite web sites.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image12.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image12.png"
       },
       {
         "_id": "606d751bb5dea76d5e3d03b6",
@@ -1083,8 +1032,7 @@
         "code": "dnsindetail",
         "title": "DNS in Detail",
         "description": "Learn how DNS works and how it helps you access internet services.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image9.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image9.png"
       },
       {
         "_id": "606d755ba3918f6d3df0c89d",
@@ -1094,8 +1042,7 @@
         "code": "httpindetail",
         "title": "HTTP in Detail",
         "description": "Learn about how you request content from a web server using the HTTP protocol",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image10.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image10.png"
       },
       {
         "_id": "607ffcaa92e6443f8396591c",
@@ -1105,8 +1052,7 @@
         "code": "windowsfundamentals1xbx",
         "title": "Windows Fundamentals 1",
         "description": "In part 1 of the Windows Fundamentals module, we'll start our journey learning about the Windows desktop, the NTFS file system, UAC, the Control Panel, and more..",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338771062-windowsfundamentals1xbx.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338771062-windowsfundamentals1xbx.png"
       },
       {
         "_id": "6091e4ac2c5440004fa7ecd8",
@@ -1116,8 +1062,7 @@
         "code": "windowsfundamentals2x0x",
         "title": "Windows Fundamentals 2",
         "description": "In part 2 of the Windows Fundamentals module, discover more about System Configuration, UAC Settings, Resource Monitoring, the Windows Registry and more..",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338774698-windowsfundamentals2x0x.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338774698-windowsfundamentals2x0x.png"
       },
       {
         "_id": "6096aec7b2e4540048d583df",
@@ -1127,8 +1072,7 @@
         "code": "tickets1",
         "title": "Learn and win prizes",
         "description": "Complete rooms, win tickets. Get 3 of the same tickets and win a prize.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6cc1aa3b8181453d191d33233d0c12d9.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6cc1aa3b8181453d191d33233d0c12d9.png"
       },
       {
         "_id": "609d1a64f32ee90041a2b371",
@@ -1138,8 +1082,7 @@
         "code": "sqlmap",
         "title": "SQLMAP",
         "description": "Learn about and use Sqlmap to exploit the web application",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/523723e4d3b75b6439b8e2cd0fa6880b.png"
       },
       {
         "_id": "60ae443a4c7e1d004a677ce8",
@@ -1149,8 +1092,7 @@
         "code": "whatisnetworking",
         "title": "What is Networking?",
         "description": "Begin learning the fundamentals of computer networking in this bite-sized and interactive module.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image4.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image4.png"
       },
       {
         "_id": "60ae44e51358bc00489f1ef8",
@@ -1160,8 +1102,7 @@
         "code": "introtolan",
         "title": "Intro to LAN",
         "description": "Learn about some of the technologies and designs that power private networks",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image5.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image5.png"
       },
       {
         "_id": "60ae4535530c3c004f246c1d",
@@ -1171,8 +1112,7 @@
         "code": "osimodelzi",
         "title": "OSI Model",
         "description": "Learn about the fundamental networking framework that determines the various stages in which data is handled across a network",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image6.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image6.png"
       },
       {
         "_id": "60ae457149fbb00041e0e766",
@@ -1182,8 +1122,7 @@
         "code": "packetsframes",
         "title": "Packets & Frames",
         "description": "Understand how data is divided into smaller pieces and transmitted across a network to another device.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image7.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image7.png"
       },
       {
         "_id": "60ae459a1358bc00489f1f25",
@@ -1193,8 +1132,7 @@
         "code": "extendingyournetwork",
         "title": "Extending Your Network",
         "description": "Learn about some of the technologies used to extend networks out onto the Internet and the motivations for this.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/presec-room-image8.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/presec-room-image8.png"
       },
       {
         "_id": "60b0c1e03071e1005f9e3341",
@@ -1204,8 +1142,7 @@
         "code": "beginnerpathintro",
         "title": "Learning Cyber Security",
         "description": "Get a short introduction to a few of the security topics you'll be learning about.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/1616670bad7fd5b1b335edb119adae92.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1616670bad7fd5b1b335edb119adae92.png"
       },
       {
         "_id": "60ba3f01ad9ff1004266e1cb",
@@ -1215,8 +1152,7 @@
         "code": "windowsfundamentals3xzx",
         "title": "Windows Fundamentals 3",
         "description": "In part 3 of the Windows Fundamentals module, learn about the built-in Microsoft tools that help keep the device secure, such as Windows Updates, Windows Security, BitLocker, and more...",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338778881-windowsfundamentals3xzx_.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338778881-windowsfundamentals3xzx_.png"
       },
       {
         "_id": "60c5f40abbe2e9004736751f",
@@ -1226,8 +1162,7 @@
         "code": "linprivesc",
         "title": "Linux Privilege Escalation",
         "description": "Learn the fundamentals of Linux privilege escalation. From enumeration to exploitation, get hands-on with over 8 different privilege escalation techniques.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/7303ba648ef3f3f899a55c7b19195add.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/7303ba648ef3f3f899a55c7b19195add.png"
       },
       {
         "_id": "60d9c86638a1990050ae3675",
@@ -1237,8 +1172,7 @@
         "code": "walkinganapplication",
         "title": "Walking An Application",
         "description": "Manually review a web application for security issues using only your browsers developer tools. Hacking with just your browser, no tools or scripts.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6c8d2a41e835c68b049773bb4c30d5d6.svg",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6c8d2a41e835c68b049773bb4c30d5d6.svg"
       },
       {
         "_id": "60e747cc7618cb005368a58d",
@@ -1248,8 +1182,7 @@
         "code": "pentestingfundamentals",
         "title": "Pentesting Fundamentals",
         "description": "Learn the important ethics and methodologies behind every pentest.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574298438",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574298438"
       },
       {
         "_id": "60e7480c2b315a0041f7b86c",
@@ -1259,8 +1192,7 @@
         "code": "principlesofsecurity",
         "title": "Principles of Security",
         "description": "Learn the principles of information security that secures data and protects systems from abuse",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6c678e92fe6d0da58f691d94c4cacbe5.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6c678e92fe6d0da58f691d94c4cacbe5.png"
       },
       {
         "_id": "60ec0f784d0ed20042873f90",
@@ -1270,8 +1202,7 @@
         "code": "metasploitexploitation",
         "title": "Metasploit: Exploitation",
         "description": "Using Metasploit for scanning, vulnerability assessment and exploitation. ",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339253878-metasploitintro.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339253878-metasploitintro.png"
       },
       {
         "_id": "60f03e8568f23900490844c7",
@@ -1281,8 +1212,7 @@
         "code": "contentdiscovery",
         "title": "Content Discovery",
         "description": "Learn the various ways of discovering hidden or private content on a webserver that could lead to new vulnerabilities.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2f678b7457e828715a10b8bc02fd65b5.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2f678b7457e828715a10b8bc02fd65b5.png"
       },
       {
         "_id": "60f6804958358d005ffff930",
@@ -1292,8 +1222,7 @@
         "code": "subdomainenumeration",
         "title": "Subdomain Enumeration",
         "description": "Learn the various ways of discovering subdomains to expand your attack surface of a target.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/609f307f6fa5f1f7f39d50154d0d1db3.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/609f307f6fa5f1f7f39d50154d0d1db3.png"
       },
       {
         "_id": "60f68070e9f46a0042f3b076",
@@ -1303,8 +1232,7 @@
         "code": "authenticationbypass",
         "title": "Authentication Bypass",
         "description": "Learn how to defeat logins and other authentication mechanisms to allow you access to unpermitted areas.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/098ee61b8842b7e6fc27e9eea9d7e1dc.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/098ee61b8842b7e6fc27e9eea9d7e1dc.png"
       },
       {
         "_id": "60f713670db92000481e4ee5",
@@ -1314,8 +1242,7 @@
         "code": "jrsecanalystintrouxo",
         "title": "Junior Security Analyst Intro",
         "description": "Play through a day in the life of a Security Analyst and experience their everyday duties.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1762187304976",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1762187304976"
       },
       {
         "_id": "60f820a3cbada70055e07e47",
@@ -1325,8 +1252,7 @@
         "code": "passiverecon",
         "title": "Passive Reconnaissance",
         "description": "Learn about the essential tools for passive reconnaissance, such as whois, nslookup, and dig.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574284071",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574284071"
       },
       {
         "_id": "60f9529c58feb80049f89db4",
@@ -1336,8 +1262,7 @@
         "code": "activerecon",
         "title": "Active Reconnaissance",
         "description": "Learn how to use simple tools such as traceroute, ping, telnet, and a web browser to gather information.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574230785",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574230785"
       },
       {
         "_id": "60f952c158feb80049f89dc0",
@@ -1347,8 +1272,7 @@
         "code": "nmap01",
         "title": "Nmap Live Host Discovery",
         "description": "Learn how to use Nmap to discover live hosts using ARP, ICMP, and TCP/UDP ping scan.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1778939441152",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1778939441152"
       },
       {
         "_id": "60f9532d58feb80049f89e01",
@@ -1358,8 +1282,7 @@
         "code": "nmap02",
         "title": "Nmap Basic Port Scans",
         "description": "Learn in-depth how nmap TCP connect scan, TCP SYN port scan, and UDP port scan work.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1778940381346",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1778940381346"
       },
       {
         "_id": "60f953510bad50005b06ca78",
@@ -1369,8 +1292,7 @@
         "code": "nmap03",
         "title": "Nmap Advanced Port Scans",
         "description": "Learn advanced scanning and spoofing techniques covering null, FIN, Xmas, and idle scans.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1778952120935",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1778952120935"
       },
       {
         "_id": "60fd47daa0c4a9004968059b",
@@ -1380,8 +1302,7 @@
         "code": "metasploitintro",
         "title": "Metasploit: Introduction ",
         "description": "An introduction to the main components of the Metasploit Framework. ",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339246178-metasploitintro.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339246178-metasploitintro.png"
       },
       {
         "_id": "610291d9eede810048dd2d6b",
@@ -1391,8 +1312,7 @@
         "code": "idor",
         "title": "IDOR",
         "description": "Learn how to find and exploit IDOR vulnerabilities in a web application giving you access to data that you shouldn't have.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/92b349206a2901c187e32ad074eae45c.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/92b349206a2901c187e32ad074eae45c.png"
       },
       {
         "_id": "61030a2a7fc72b0052843d70",
@@ -1402,8 +1322,7 @@
         "code": "vulnerabilities101",
         "title": "Vulnerabilities 101",
         "description": "Understand the flaws of an application and  apply your researching skills on some vulnerability databases.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/d30e917f1945d3e25592ee34805bb900.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/d30e917f1945d3e25592ee34805bb900.png"
       },
       {
         "_id": "6103fa164ae75f005f557dd2",
@@ -1413,8 +1332,7 @@
         "code": "meterpreter",
         "title": "Metasploit: Meterpreter",
         "description": "Take a deep dive into Meterpreter, and see how in-memory payloads can be used for post-exploitation.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339257101-metasploitintro.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339257101-metasploitintro.png"
       },
       {
         "_id": "6107da24f571710060be5cac",
@@ -1424,8 +1342,7 @@
         "code": "ssrfqi",
         "title": "Intro to SSRF",
         "description": "Learn how to exploit Server-Side Request Forgery (SSRF) vulnerabilities, allowing you to access internal server resources.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/268e10b8ee0b53d1074b2a7fd5b1a789.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/268e10b8ee0b53d1074b2a7fd5b1a789.png"
       },
       {
         "_id": "610887ab27f40b0059ca6323",
@@ -1435,8 +1352,7 @@
         "code": "pyramidofpainax",
         "title": "Pyramid Of Pain ",
         "description": "Learn what the Pyramid of Pain is and how it ranks indicators by how painful they are for an adversary to change.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/ec7948465f169b0a00f13fda2711c909.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/ec7948465f169b0a00f13fda2711c909.png"
       },
       {
         "_id": "610d0258516bcd0055fc1806",
@@ -1446,8 +1362,7 @@
         "code": "xss",
         "title": "Intro to Cross-site Scripting",
         "description": "Learn how to detect and exploit XSS vulnerabilities, giving you control of other visitors' browsers.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/c1c509a263e7a42bece2f0b77fd1ba1b.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/c1c509a263e7a42bece2f0b77fd1ba1b.png"
       },
       {
         "_id": "6114faf3ee3b140048b84191",
@@ -1457,8 +1372,7 @@
         "code": "nmap04",
         "title": "Nmap Post Port Scans",
         "description": "Learn how to leverage Nmap for service and OS detection, use Nmap Scripting Engine (NSE), and save the results.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1778952644474",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1778952644474"
       },
       {
         "_id": "611aa163a20947004b42c6ee",
@@ -1468,8 +1382,7 @@
         "code": "cyberkillchainzmt",
         "title": "Cyber Kill Chain ",
         "description": "The Cyber Kill Chain framework is designed for identification and prevention of the network intrusions. You will learn what the adversaries need to do in order to achieve their goals.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573085552",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573085552"
       },
       {
         "_id": "6126e76405bbdf005e10ba10",
@@ -1479,8 +1392,7 @@
         "code": "diamondmodelrmuwwg42",
         "title": "Diamond Model",
         "description": "Learn about the four core features of the Diamond Model of Intrusion Analysis: adversary, infrastructure, capability, and victim.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6d6ef602b1284ab0505fae8b413413e0.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6d6ef602b1284ab0505fae8b413413e0.png"
       },
       {
         "_id": "612ce5b0d7a8ef00490c426a",
@@ -1490,8 +1402,7 @@
         "code": "securityawarenessintro",
         "title": "Security Awareness",
         "description": "An introduction to security awareness; why its important, the impact of being attacked, different threat actors and basic account security.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/d3d7881518d71dc929b4e84c2b47ed55.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/d3d7881518d71dc929b4e84c2b47ed55.png"
       },
       {
         "_id": "612f74c0247129004a6a4d9a",
@@ -1501,8 +1412,7 @@
         "code": "vulnerabilitycapstone",
         "title": "Vulnerability Capstone",
         "description": "Apply the knowledge gained throughout the Vulnerability Module in this challenge room.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/f746d44771571a662987e9499e18aece.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/f746d44771571a662987e9499e18aece.png"
       },
       {
         "_id": "61386018b6498f0041d5f11f",
@@ -1512,8 +1422,7 @@
         "code": "exploitingavulnerabilityv2",
         "title": "Exploit Vulnerabilities",
         "description": "Learn about some of the tools, techniques and resources to exploit vulnerabilities",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5fda25317f800a25f8cbc7320bbd83b2.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5fda25317f800a25f8cbc7320bbd83b2.png"
       },
       {
         "_id": "6141d0ac8fa7a30049b12b1f",
@@ -1523,8 +1432,7 @@
         "code": "protocolsandservers",
         "title": "Protocols and Servers",
         "description": "Learn about common protocols such as HTTP, FTP, POP3, SMTP and IMAP, along with related insecurities.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/97a29d81bac4063c11b392347214e741.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/97a29d81bac4063c11b392347214e741.png"
       },
       {
         "_id": "61434ee0727e780b394dba31",
@@ -1534,8 +1442,7 @@
         "code": "sqlinjectionlm",
         "title": "SQL Injection",
         "description": "Learn how to detect and exploit SQL Injection vulnerabilities",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/86d8d3b6995ddad46f5d9142354b65b1.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/86d8d3b6995ddad46f5d9142354b65b1.png"
       },
       {
         "_id": "614451e350ff67005b13fb47",
@@ -1545,8 +1452,7 @@
         "code": "oscommandinjection",
         "title": "Command Injection",
         "description": "Learn about a vulnerability allowing you to execute commands through a vulnerable app, and its remediations.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/a72f3f1c0445bac396659c36a1e8c355.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/a72f3f1c0445bac396659c36a1e8c355.png"
       },
       {
         "_id": "6148416e405805005fe6bda4",
@@ -1556,8 +1462,7 @@
         "code": "netsecchallenge",
         "title": "Net Sec Challenge",
         "description": "Practice the skills you have learned in the Network Security module.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5a1f33f79fce3569a2bc247468713c93.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5a1f33f79fce3569a2bc247468713c93.png"
       },
       {
         "_id": "614880809163240048d965e4",
@@ -1567,8 +1472,7 @@
         "code": "fileinc",
         "title": "File Inclusion",
         "description": "This room introduces file inclusion vulnerabilities, including Local File Inclusion (LFI), Remote File Inclusion (RFI), and directory traversal.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5e2656cb5a909ddf63395dd7e7a377ad.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5e2656cb5a909ddf63395dd7e7a377ad.png"
       },
       {
         "_id": "614aed8a6c320f005fd79be1",
@@ -1578,8 +1482,7 @@
         "code": "protocolsandservers2",
         "title": "Protocols and Servers 2",
         "description": "Learn about attacks against passwords and cleartext traffic; explore options for mitigation via SSH and SSL/TLS.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/87d4f9a61d3f92a761d4824b062d115e.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/87d4f9a61d3f92a761d4824b062d115e.png"
       },
       {
         "_id": "61683e87761294005ebd2a02",
@@ -1589,8 +1492,7 @@
         "code": "commonattacks",
         "title": "Common Attacks",
         "description": "With practical exercises see how common attacks occur, and improve your cyber hygiene to stay safer online.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573649376",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573649376"
       },
       {
         "_id": "61e6e51029c5b3004ab82955",
@@ -1600,19 +1502,17 @@
         "code": "redteamfundamentals",
         "title": "Red Team Fundamentals",
         "description": "Learn about the basics of a red engagement, the main components and stakeholders involved, and how red teaming differs from other cyber security engagements.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574324705",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574324705"
       },
       {
         "_id": "61f19a72253213005300ba33",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "info",
         "code": "pwnkit",
         "title": "Pwnkit: CVE-2021-4034",
         "description": "Interactive lab for exploiting and remediating Pwnkit (CVE-2021-4034) in the Polkit package",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/74e0f54fbdb415de32d590fe9af9816c.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/74e0f54fbdb415de32d590fe9af9816c.png"
       },
       {
         "_id": "620130a70ce89a00424cf2eb",
@@ -1622,8 +1522,7 @@
         "code": "threatinteltools",
         "title": "Threat Intelligence Tools",
         "description": "Explore different OSINT tools used to conduct security threat assessments and investigations.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575413195",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575413195"
       },
       {
         "_id": "620d139f6d58c3004b8faa2a",
@@ -1633,8 +1532,7 @@
         "code": "introdigitalforensics",
         "title": "Intro to Digital Forensics",
         "description": "Learn about digital forensics and related processes and experiment with a practical example.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/f054e83e6b7c61f643222f8141105daf.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/f054e83e6b7c61f643222f8141105daf.png"
       },
       {
         "_id": "620ecf2123c68400505cfd05",
@@ -1644,8 +1542,7 @@
         "code": "introductiontodevsecops",
         "title": "Introduction to DevSecOps",
         "description": "Learn about the story of DevSecOps, Software Development Models & Shifting Left.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/00050c31a2b84443dcc58d4513939515.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/00050c31a2b84443dcc58d4513939515.png"
       },
       {
         "_id": "621f396b4fee0d0044ef9d43",
@@ -1655,8 +1552,7 @@
         "code": "operatingsystemsecurity",
         "title": "Operating System Security",
         "description": "This room introduces users to operating system security and demonstrates SSH authentication on Linux.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400267726-Room_Image-9.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400267726-Room_Image-9.png"
       },
       {
         "_id": "6226a23a0cde4b0054f256c6",
@@ -1666,8 +1562,7 @@
         "code": "offensivesecurityintro",
         "title": "Offensive Security Intro",
         "description": "Hack your first website (legally in a safe environment) and experience an ethical hacker's job.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338590067-offensivesecurityintro.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338590067-offensivesecurityintro.png"
       },
       {
         "_id": "622bacc144211102a293ac4e",
@@ -1677,8 +1572,7 @@
         "code": "lofi",
         "title": "Lo-Fi",
         "description": "Want to hear some lo-fi beats, to relax or study to? We've got you covered!",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1737110160739",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5de96d9ca744773ea7ef8c00-1737110160739"
       },
       {
         "_id": "622f24e34cabe4005fb016de",
@@ -1688,8 +1582,7 @@
         "code": "intronetworksecurity",
         "title": "Network Security",
         "description": "Learn about network security, understand attack methodology, and practice hacking into a target server.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/01d0111f4aa4a8dce8143903e99eefd4.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/01d0111f4aa4a8dce8143903e99eefd4.png"
       },
       {
         "_id": "622f79f0b207590062b5109d",
@@ -1699,8 +1592,7 @@
         "code": "introwebapplicationsecurity",
         "title": "Web Application Security",
         "description": "Learn about web applications and explore some of their common security issues.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574741077",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574741077"
       },
       {
         "_id": "6238eeee29449b0048d98000",
@@ -1710,19 +1602,17 @@
         "code": "unifiedkillchain",
         "title": "Unified Kill Chain",
         "description": "The Unified Kill Chain is a framework which establishes the phases of an attack, and a means of identifying and mitigating risk to IT assets.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/f41ca18ac58ffaae35cc78ba615f238d.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/f41ca18ac58ffaae35cc78ba615f238d.png"
       },
       {
         "_id": "6247df790e24e0004acb12fc",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "info",
         "code": "spring4shell",
         "title": "Spring4Shell: CVE-2022-22965",
         "description": "Interactive lab for exploiting Spring4Shell (CVE-2022-22965) in the Java Spring Framework",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/45b3fa32cb65b9475a47f3a3d6857e49.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/45b3fa32cb65b9475a47f3a3d6857e49.png"
       },
       {
         "_id": "624ee2179653750048ac4902",
@@ -1732,8 +1622,7 @@
         "code": "defensivesecurityintro",
         "title": "Defensive Security Intro",
         "description": "Introducing defensive security and related topics, such as Threat Intelligence, SOC, DFIR, Malware Analysis, and SIEM.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338611844-defensivesecurityintro.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338611844-defensivesecurityintro.png"
       },
       {
         "_id": "6262a5c7664e8e004361bf27",
@@ -1743,8 +1632,7 @@
         "code": "securesdlc",
         "title": "SSDLC",
         "description": "This room focuses on the Secure Software Development Lifecycle (S-SDLC), its processes, and methodologies.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/dc3dd894bab489096b17750748245e2d.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/dc3dd894bab489096b17750748245e2d.png"
       },
       {
         "_id": "6266855c803f01005478d86d",
@@ -1754,8 +1642,7 @@
         "code": "securityoperations",
         "title": "Security Operations",
         "description": "Learn about Security Operations Center (SOC): its responsibilities, services, and data sources.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/87ea09805b118aa8c7d23d07ed06595d.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/87ea09805b118aa8c7d23d07ed06595d.png"
       },
       {
         "_id": "626a44aa3a0b75005d415ece",
@@ -1765,8 +1652,7 @@
         "code": "careersincyber",
         "title": "Careers in Cyber",
         "description": "Learn about the different careers in cyber security.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339767672-careersincyber.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339767672-careersincyber.png"
       },
       {
         "_id": "627367a038c78d004b0fb8b8",
@@ -1776,19 +1662,17 @@
         "code": "windowsprivesc20",
         "title": "Windows Privilege Escalation",
         "description": "Learn the fundamentals of Windows privilege escalation techniques.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5c3530e1fb732e4a93dd4d6b7cb8373d.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5c3530e1fb732e4a93dd4d6b7cb8373d.png"
       },
       {
         "_id": "627bcc1fa0959a004b8b7187",
         "type": "walkthrough",
         "freeToUse": false,
         "difficulty": "easy",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339068622-wiresharkthebasics.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339068622-wiresharkthebasics.png",
         "description": "Learn the basics of Wireshark and how to analyse protocols and PCAPs.",
         "title": "Wireshark: The Basics",
-        "code": "wiresharkthebasics",
-        "tagDocsV2": []
+        "code": "wiresharkthebasics"
       },
       {
         "_id": "6285fe0ae37cce0049afc8bf",
@@ -1798,8 +1682,7 @@
         "code": "cyberthreatintel",
         "title": "Intro to Cyber Threat Intel",
         "description": "Introducing cyber threat intelligence and related topics, such as relevant standards and frameworks.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575216267",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575216267"
       },
       {
         "_id": "6295b9bd99cd7b004ae9be0b",
@@ -1809,8 +1692,7 @@
         "code": "introtosiem",
         "title": "Introduction to SIEM",
         "description": "Learn the fundamentals of SIEM and explore its features and functionality.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339621952-introtosiem.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339621952-introtosiem.png"
       },
       {
         "_id": "629f4f5dfa34d0005e191588",
@@ -1820,8 +1702,7 @@
         "code": "introtocontainerisation",
         "title": "Intro to Containerisation",
         "description": "Learn about the technologies and benefits of containerisation.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/54c8b0434d00d19e6e5c301f4c7bad5f.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/54c8b0434d00d19e6e5c301f4c7bad5f.png"
       },
       {
         "_id": "62a79f64126bc700560fd452",
@@ -1831,8 +1712,7 @@
         "code": "winadbasics",
         "title": "Active Directory Basics",
         "description": "This room will introduce the basic concepts and functionality provided by Active Directory.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338782693-winadbasics.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338782693-winadbasics.png"
       },
       {
         "_id": "62b2bde1eae2100054c46fe9",
@@ -1842,8 +1722,7 @@
         "code": "microsoftwindowshardening",
         "title": "Microsoft Windows Hardening",
         "description": "To learn key attack vectors used by hackers and how to protect yourself using different hardening techniques.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/efef926dddd6aa1e30d6558cfa5968e6.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/efef926dddd6aa1e30d6558cfa5968e6.png"
       },
       {
         "_id": "62bae2b9dc6a500060047287",
@@ -1853,19 +1732,17 @@
         "code": "securityprinciples",
         "title": "Security Principles",
         "description": "Learn about the security triad and common security models and principles.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339763473-securityprinciples.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339763473-securityprinciples.png"
       },
       {
         "_id": "62bd78ba21035e0049401173",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "cve202226134",
         "title": "Atlassian CVE-2022-26134",
         "description": "An interactive lab showcasing the Confluence Server and Data Center un-authenticated RCE vulnerability.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/24abefb51d5df78a4baa58fa49e979eb.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/24abefb51d5df78a4baa58fa49e979eb.png"
       },
       {
         "_id": "62c586f4b9055c0041b3c333",
@@ -1875,8 +1752,7 @@
         "code": "introtosecurityarchitecture",
         "title": "Secure Network Architecture",
         "description": "Learn about and implement security best practices for network environments.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/586c197ba07f9caf94b6ef056632f831.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/586c197ba07f9caf94b6ef056632f831.png"
       },
       {
         "_id": "62cd7a7c92622d00636d0a02",
@@ -1886,8 +1762,7 @@
         "code": "activedirectoryhardening",
         "title": "Active Directory Hardening",
         "description": "To learn basic concepts regarding Active Directory attacks and mitigation measures.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/d434ef148eb66deb7fd91f25a685b9ec.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/d434ef148eb66deb7fd91f25a685b9ec.png"
       },
       {
         "_id": "62da99a627a3c4004bc65a70",
@@ -1897,8 +1772,7 @@
         "code": "cryptographyintro",
         "title": "Introduction to Cryptography",
         "description": "Learn about encryption algorithms such as AES, Diffie-Hellman key exchange, hashing, PKI, and TLS.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2140d4d554b437c7fb2e7816c259b4fc.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2140d4d554b437c7fb2e7816c259b4fc.png"
       },
       {
         "_id": "62f4cdb8a821400054ba49cf",
@@ -1908,8 +1782,7 @@
         "code": "networksecurityprotocols",
         "title": "Network Security Protocols",
         "description": "Learn about secure network protocols at the different layers of the OSI model.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/847a4406931cf36d675800e1a95eb08f.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/847a4406931cf36d675800e1a95eb08f.png"
       },
       {
         "_id": "62f929809e4baa004af74375",
@@ -1919,8 +1792,7 @@
         "code": "owaspapisecuritytop10d0",
         "title": "OWASP API Security Top 10 - 2",
         "description": "Learn the basic concepts for secure API development (Part 2).",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/7a45f6ff36f59b4874143d01faa98e41.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/7a45f6ff36f59b4874143d01faa98e41.png"
       },
       {
         "_id": "62f92997cd01ea004342495a",
@@ -1930,8 +1802,7 @@
         "code": "owaspapisecuritytop105w",
         "title": "OWASP API Security Top 10 - 1",
         "description": "Learn the basic concepts for secure API development (Part 1).",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/74be0ffb2200053145ccadac85dd24c5.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/74be0ffb2200053145ccadac85dd24c5.png"
       },
       {
         "_id": "632d67e04c2ae700421ea975",
@@ -1941,8 +1812,7 @@
         "code": "introductiontocloudsecurityc6",
         "title": "Intro to Cloud Security",
         "description": "Learn fundamental concepts regarding securing a cloud environment.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2d08277a6c26c5d0976de96d0448ea28.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2d08277a6c26c5d0976de96d0448ea28.png"
       },
       {
         "_id": "6343cb8dcb7fa60055de8c64",
@@ -1952,8 +1822,7 @@
         "code": "linuxsystemhardening",
         "title": "Linux System Hardening",
         "description": "Learn how to improve the security posture of your Linux systems.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/68ab00dd034f022f110e1b2ed098bf7d.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/68ab00dd034f022f110e1b2ed098bf7d.png"
       },
       {
         "_id": "639c351349abbe3b52274337",
@@ -1963,8 +1832,7 @@
         "code": "virtualizationandcontainers",
         "title": "Virtualization and Containers",
         "description": "Introduction to common virtualization technologies and applications.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/ad84791e77907798bf92424b643d0023.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/ad84791e77907798bf92424b643d0023.png"
       },
       {
         "_id": "63b53ba4442771004f3431ae",
@@ -1974,8 +1842,7 @@
         "code": "vulnerabilitymanagementkj",
         "title": "Vulnerability Management",
         "description": "Learn how to identify, detect, mitigate and report a vulnerability effectively.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/92a8d86d38b51d49b38e8acc4cfa4f1a.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/92a8d86d38b51d49b38e8acc4cfa4f1a.png"
       },
       {
         "_id": "63c63669fba7d9005ecbb0cc",
@@ -1985,8 +1852,7 @@
         "code": "dastzap",
         "title": "DAST",
         "description": "Learn about Dynamic Application Security Testing.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/0899da92c1cb051bd69fdd0d6a2b1c61.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/0899da92c1cb051bd69fdd0d6a2b1c61.png"
       },
       {
         "_id": "63e774d241387d00434117c5",
@@ -1996,8 +1862,7 @@
         "code": "weaponizingvulnerabilities",
         "title": "Weaponizing Vulnerabilities",
         "description": "Learn how a vulnerability evolves and methods to weaponize multiple vulnerabilities leading to RCE.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/1f60416e9819c99a9ccd7256153e8278.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1f60416e9819c99a9ccd7256153e8278.png"
       },
       {
         "_id": "6409e348dc7dc5005f5fec29",
@@ -2007,8 +1872,7 @@
         "code": "iaaaidm",
         "title": "Identity and Access Management",
         "description": "Learn about identification, authentication, authorisation, accounting, and identity management.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/81b9e0e4d6507342d44ef87af5e3d480.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/81b9e0e4d6507342d44ef87af5e3d480.png"
       },
       {
         "_id": "64100cf35bd26700490d9a92",
@@ -2018,8 +1882,7 @@
         "code": "networkdevicehardening",
         "title": "Network Device Hardening",
         "description": "Learn techniques for securing and protecting network devices from potential threats and attacks.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5c89b6e357a2d77e2327ba5d1a0175af.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5c89b6e357a2d77e2327ba5d1a0175af.png"
       },
       {
         "_id": "6421c5db5abf39004ae62284",
@@ -2029,8 +1892,7 @@
         "code": "threatmodelling",
         "title": "Threat Modelling",
         "description": "Building cyber resiliency and emulation capabilities through threat modelling.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/46ad1a67e52a27e679bc0b65f9d6ed8c.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/46ad1a67e52a27e679bc0b65f9d6ed8c.png"
       },
       {
         "_id": "643d5f981274e40046d5b3ef",
@@ -2040,8 +1902,7 @@
         "code": "cybergovernanceregulation",
         "title": "Governance & Regulation",
         "description": "Explore policies and frameworks vital for regulating cyber security in an organisation.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573241625",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735573241625"
       },
       {
         "_id": "64517a57eea78c004a7925ae",
@@ -2051,8 +1912,7 @@
         "code": "codeanalysis",
         "title": "Mother's Secret",
         "description": "Exploit flaws found in Mother's code to reveal its secrets.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2e9eabce2b052b3da2df535ff2636225.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2e9eabce2b052b3da2df535ff2636225.png"
       },
       {
         "_id": "64529e2850c76d0211c97c34",
@@ -2062,8 +1922,7 @@
         "code": "securityengineerintro",
         "title": "Security Engineer Intro",
         "description": "What does a day in the life of a security engineer look like?",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574726440",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735574726440"
       },
       {
         "_id": "6454c1d1a0194e00432e0dfa",
@@ -2073,8 +1932,7 @@
         "code": "sast",
         "title": "SAST",
         "description": "Learn about Static Application Security Testing.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/9b89e67fb13cc41756d0e82146dc557c.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/9b89e67fb13cc41756d0e82146dc557c.png"
       },
       {
         "_id": "645a1bcc56549d004bee436e",
@@ -2084,8 +1942,7 @@
         "code": "seriskmanagement",
         "title": "Risk Management",
         "description": "Learn about framing, assessing, responding, and monitoring risk.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/1a302ea6dd9e7f4caf267505fe243746.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1a302ea6dd9e7f4caf267505fe243746.png"
       },
       {
         "_id": "6465f1ed5c090e005644cfbb",
@@ -2095,8 +1952,7 @@
         "code": "owaspbrokenaccesscontrol",
         "title": "Broken Access Control",
         "description": "Exploit Broken Access Control: Number 1 of the Top 10 web security risks.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/b60af5cb376e62ee1a7af132cc134588.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/b60af5cb376e62ee1a7af132cc134588.png"
       },
       {
         "_id": "646ecafb1bb50a0061336d1c",
@@ -2106,8 +1962,7 @@
         "code": "loggingforaccountability",
         "title": "Logging for Accountability",
         "description": "Learn about the role accountability plays in logging and incident response.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/1e07bbed004efd8d5c601ebf74f989fa.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1e07bbed004efd8d5c601ebf74f989fa.png"
       },
       {
         "_id": "646f0d51b2868818baedfac1",
@@ -2117,8 +1972,7 @@
         "code": "traverse",
         "title": "Traverse",
         "description": "Challenge your secure coding skills to restore a compromised website.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/d2c1e819d8409b3bee8e15c688a3f088.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/d2c1e819d8409b3bee8e15c688a3f088.png"
       },
       {
         "_id": "649009769cf1050ba307cd4f",
@@ -2128,8 +1982,7 @@
         "code": "auditingandmonitoringse",
         "title": "Auditing and Monitoring",
         "description": "Learn about auditing, monitoring, logging, and SIEM.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/ca550911acf37ebb20e32c68b39d00da.svg",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/ca550911acf37ebb20e32c68b39d00da.svg"
       },
       {
         "_id": "649490e600534e03430f0f9c",
@@ -2139,8 +1992,7 @@
         "code": "introtoirandim",
         "title": "Intro to IR and IM",
         "description": "An introduction to Incident Response and Incident Management.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575356329",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575356329"
       },
       {
         "_id": "6494911ad76deb0337580705",
@@ -2150,8 +2002,7 @@
         "code": "becomingafirstresponder",
         "title": "Becoming a First Responder",
         "description": "Explaining how first responders work and what to do if you are a first responder to a cyber incident.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/50af11745cfcedd8e37ab1cf1e1cb6b2.svg",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/50af11745cfcedd8e37ab1cf1e1cb6b2.svg"
       },
       {
         "_id": "6494915000534e03430f13b3",
@@ -2161,8 +2012,7 @@
         "code": "cybercrisismanagement",
         "title": "Cyber Crisis Management",
         "description": "An introduction into cyber crisis management and how a CMT works.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/d6cf7fbc786f9b4b32863e1fcba28fc4.svg",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/d6cf7fbc786f9b4b32863e1fcba28fc4.svg"
       },
       {
         "_id": "649caba75b61780062e77cf1",
@@ -2172,8 +2022,7 @@
         "code": "w1seguy",
         "title": "W1seGuy",
         "description": "A w1se guy 0nce said, the answer is usually as plain as day.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/9a13d8dcbd8940d14352ba2edbf66735.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/9a13d8dcbd8940d14352ba2edbf66735.png"
       },
       {
         "_id": "64a56cb67ed98d005580a096",
@@ -2183,8 +2032,7 @@
         "code": "burpsuitebasics",
         "title": "Burp Suite: The Basics",
         "description": "An introduction to using Burp Suite for web application pentesting.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/b6ca1936746a8f3057f0d082d7886689.svg",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/b6ca1936746a8f3057f0d082d7886689.svg"
       },
       {
         "_id": "64a56cc71d917a00602eecf0",
@@ -2194,8 +2042,7 @@
         "code": "burpsuiterepeater",
         "title": "Burp Suite: Repeater",
         "description": "Learn how to use Repeater to duplicate requests in Burp Suite.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/003f622eb51e1399dde189ddbc9804a3.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/003f622eb51e1399dde189ddbc9804a3.png"
       },
       {
         "_id": "64a56ccf1d917a00602eed58",
@@ -2205,8 +2052,7 @@
         "code": "burpsuiteintruder",
         "title": "Burp Suite: Intruder",
         "description": "Learn how to use Intruder to automate requests in Burp Suite.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/c01ea73a311730afb4385eb220503e15.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/c01ea73a311730afb4385eb220503e15.png"
       },
       {
         "_id": "64a56cd87ed98d005580a19f",
@@ -2216,8 +2062,7 @@
         "code": "burpsuiteom",
         "title": "Burp Suite: Other Modules",
         "description": "Take a dive into some of Burp Suite's lesser-known modules.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/fe6673d2115ceddf7f8070e793f1d4cb.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/fe6673d2115ceddf7f8070e793f1d4cb.png"
       },
       {
         "_id": "64a56ce57ed98d005580a352",
@@ -2227,8 +2072,7 @@
         "code": "burpsuiteextensions",
         "title": "Burp Suite: Extensions",
         "description": "Learn how to use Extensions to broaden the functionality of Burp Suite.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/0833ade6662f0e32128057b9e1f80ddd.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/0833ade6662f0e32128057b9e1f80ddd.png"
       },
       {
         "_id": "64d1f002904ace24bcff021f",
@@ -2238,8 +2082,7 @@
         "code": "eviction",
         "title": "Eviction",
         "description": "Unearth the monster from under your bed.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/3876cf0f59c5cf8a0b2aca32aef074da.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/3876cf0f59c5cf8a0b2aca32aef074da.png"
       },
       {
         "_id": "64dbd5250826d3d9ff348764",
@@ -2249,8 +2092,7 @@
         "code": "summit",
         "title": "Summit",
         "description": "Can you chase a simulated adversary up the Pyramid of Pain until they finally back down?",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/fb90373dc2178d4f9488137963e64dab.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/fb90373dc2178d4f9488137963e64dab.png"
       },
       {
         "_id": "64e421f98a5edefa8f3c8e42",
@@ -2260,8 +2102,7 @@
         "code": "lightroom",
         "title": "Light",
         "description": "Welcome to the Light database application!",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/618b3fa52f0acc0061fb0172-1737140605838",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/618b3fa52f0acc0061fb0172-1737140605838"
       },
       {
         "_id": "65083cca987f636ff69afb08",
@@ -2271,8 +2112,7 @@
         "code": "httprequestsmuggling",
         "title": "HTTP Request Smuggling",
         "description": "Learn about HTTP Request Smuggling and its different techniques.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/02c75078a8759443f0b565ce48b89589.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/02c75078a8759443f0b565ce48b89589.png"
       },
       {
         "_id": "651e009e7214e1753b7c510b",
@@ -2282,19 +2122,17 @@
         "code": "cauldron",
         "title": "The Witch's Cauldron",
         "description": "Can you share Bob's secret recipe with Alice without Eve finding out?",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/68ddaa1cb335b491b591ad1b08e234fb.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/68ddaa1cb335b491b591ad1b08e234fb.png"
       },
       {
         "_id": "6529b16b1512c6716fc656e6",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "confluence202322515",
         "title": "Confluence CVE-2023-22515",
         "description": "Exploit CVE-2023-22515 to get admin access to Confluence Server and Data Center editions.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/b487fd948edf68a8200421f272759fed.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/b487fd948edf68a8200421f272759fed.png"
       },
       {
         "_id": "653618bd6740c6124d4b5736",
@@ -2304,8 +2142,7 @@
         "code": "ssrfhr",
         "title": "SSRF",
         "description": "Discover the inner workings of SSRF and explore multiple exploitation techniques.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2c96a7dbf8b1499dfbfc7d6518c1d49d.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2c96a7dbf8b1499dfbfc7d6518c1d49d.png"
       },
       {
         "_id": "653a98292a6702c7d288f15f",
@@ -2313,10 +2150,9 @@
         "code": "becomeahackeroa",
         "title": "Become a Hacker",
         "description": "Learn how TryHackMe can help you become a hacker.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/1e86f53cbe40b305b17e1e61a8cf0e74.svg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1e86f53cbe40b305b17e1e61a8cf0e74.svg",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "654b931aaa4879cba4d30cff",
@@ -2326,8 +2162,7 @@
         "code": "thestickershop",
         "title": "The Sticker Shop",
         "description": "Can you exploit the sticker shop in order to capture the flag?",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/618b3fa52f0acc0061fb0172-1718377390091",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/618b3fa52f0acc0061fb0172-1718377390091"
       },
       {
         "_id": "65520bc059b69a97059ae4f4",
@@ -2337,8 +2172,7 @@
         "code": "filepathtraversal",
         "title": "File Inclusion, Path Traversal",
         "description": "Exploit File Inclusion and Path Traversal vulnerabilities.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/fa8d519b76b29da0c7abb5afa1e7185f.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/fa8d519b76b29da0c7abb5afa1e7185f.png"
       },
       {
         "_id": "655dae854bec4be00c0e5983",
@@ -2348,8 +2182,7 @@
         "code": "csrfV2",
         "title": "CSRF",
         "description": "Learn how a CSRF vulnerability works and methods to exploit and defend against CSRF vulnerabilities.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/862c9666786e7d2c3cb9fe893fe3acd5.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/862c9666786e7d2c3cb9fe893fe3acd5.png"
       },
       {
         "_id": "656de8430120c62f8f41913f",
@@ -2359,8 +2192,7 @@
         "code": "axss",
         "title": "XSS",
         "description": "Explore in-depth the different types of XSS and their root causes.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1718366341885",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1718366341885"
       },
       {
         "_id": "657c5bca69b641fdaf35f031",
@@ -2370,8 +2202,7 @@
         "code": "corsandsop",
         "title": "CORS & SOP",
         "description": "Cross-Origin Resource Sharing and Same-Origin Policy.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/849545245a951c2487387940e3638033.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/849545245a951c2487387940e3638033.png"
       },
       {
         "_id": "659b88d544d95bb28c9ad0e1",
@@ -2381,8 +2212,7 @@
         "code": "prototypepollution",
         "title": "Prototype Pollution",
         "description": "Explore the concept of prototype pollution and its implications during pentesting. ",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/671b4a330d8f749a90b0d79aaf07a9ac.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/671b4a330d8f749a90b0d79aaf07a9ac.png"
       },
       {
         "_id": "65b8fd60e6bee6b4d86c9b3e",
@@ -2392,8 +2222,7 @@
         "code": "snykopensource",
         "title": "Snyk Open Source",
         "description": "Securing open-source dependencies with Snyk - a junior application security engineer's journey.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f9c7574e201fe31dad228fc-1718201056256",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f9c7574e201fe31dad228fc-1718201056256"
       },
       {
         "_id": "65d3094573b37327aad7d292",
@@ -2403,19 +2232,17 @@
         "code": "include",
         "title": "Include",
         "description": "Use your server exploitation skills to take control of a web app.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f9c7574e201fe31dad228fc-1718365394351",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f9c7574e201fe31dad228fc-1718365394351"
       },
       {
         "_id": "65d34e8775488d8b700b19a0",
         "type": "walkthrough",
-        "freeToUse": true,
+        "freeToUse": false,
         "difficulty": "easy",
         "code": "monikerlink",
         "title": "Moniker Link (CVE-2024-21413)",
         "description": "Leak user's credentials using CVE-2024-21413 to bypass Outlook's Protected View.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339241811-monikerlink.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339241811-monikerlink.png"
       },
       {
         "_id": "65d67214b8d2fc1dee10749c",
@@ -2425,8 +2252,7 @@
         "code": "snykcode",
         "title": "Snyk Code",
         "description": "Securing code with Snyk - a junior application security engineer's journey.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f9c7574e201fe31dad228fc-1718265595550",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f9c7574e201fe31dad228fc-1718265595550"
       },
       {
         "_id": "65de6bda4d888ffe6c99b463",
@@ -2436,8 +2262,7 @@
         "code": "raceconditionsattacks",
         "title": "Race Conditions",
         "description": "Learn about race conditions and how they affect web application security.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1718366372363",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1718366372363"
       },
       {
         "_id": "65df3f8ad136f97d230a120e",
@@ -2445,10 +2270,9 @@
         "code": "ldapinjection",
         "title": "LDAP Injection",
         "description": "Exploiting Lightweight Directory Access Protocol.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/1673da2794045c46bfd27b0e0fc8f123.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1673da2794045c46bfd27b0e0fc8f123.png",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "660263fec29ed7c1e0965207",
@@ -2458,8 +2282,7 @@
         "code": "whatsyourname",
         "title": "Whats Your Name?",
         "description": "Utilise your client-side exploitation skills to take control of a web app.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463471016",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463471016"
       },
       {
         "_id": "661766e5612ca338cee27eb3",
@@ -2469,8 +2292,7 @@
         "code": "dombasedattacks",
         "title": "DOM-Based Attacks",
         "description": "Learn about DOM-based vulnerabilities that can be leveraged to stage client-side attacks!",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/8839242bd1155a4e9b4b9bd7f0355f99.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/8839242bd1155a4e9b4b9bd7f0355f99.png"
       },
       {
         "_id": "66193581a233d29a3ddda9a6",
@@ -2480,8 +2302,7 @@
         "code": "xxeinjection",
         "title": "XXE Injection",
         "description": "Exploiting XML External Entities.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1718412174374",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1718412174374"
       },
       {
         "_id": "662170178ef6c66af77e1340",
@@ -2491,8 +2312,7 @@
         "code": "insecuredeserialisation",
         "title": "Insecure Deserialisation",
         "description": "Get in-depth knowledge of the deserialisation process and how it poses a vulnerability in a web app.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463423804",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463423804"
       },
       {
         "_id": "6627c55f624376abfd0d86d2",
@@ -2502,8 +2322,7 @@
         "code": "windowscommandline",
         "title": "Windows Command Line",
         "description": "Learn the essential Windows commands.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338846698-windowscommandline.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338846698-windowscommandline.png"
       },
       {
         "_id": "6627c853bdb090891ef4369b",
@@ -2513,8 +2332,7 @@
         "code": "searchskills",
         "title": "Search Skills",
         "description": "Learn to efficiently search the Internet and use specialized search engines and technical docs.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338615305-searchskills.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338615305-searchskills.png"
       },
       {
         "_id": "6638db26e8b3e92c6e73846f",
@@ -2524,8 +2342,7 @@
         "code": "serversidetemplateinjection",
         "title": "Server-side Template Injection",
         "description": "Exploit various templating engines that lead to SSTI vulnerability.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1716690622951",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1716690622951"
       },
       {
         "_id": "6639286d0d6d5b6cf90255fe",
@@ -2535,8 +2352,7 @@
         "code": "jwtsecurity",
         "title": "JWT Security",
         "description": "Learn about JWTs, where they are used, and how they need to be secured.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6093e17fa004d20049b6933e-1725877138785",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6093e17fa004d20049b6933e-1725877138785"
       },
       {
         "_id": "663c94aac1a38d3c66aeb123",
@@ -2546,8 +2362,7 @@
         "code": "nmap",
         "title": "Nmap: The Basics",
         "description": "Learn how to use Nmap to discover live hosts, find open ports, and detect service versions.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339099903-nmap.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339099903-nmap.png"
       },
       {
         "_id": "663e40d9e9ae81db98f61fd5",
@@ -2557,8 +2372,7 @@
         "code": "networkingconcepts",
         "title": "Networking Concepts",
         "description": "Learn about the ISO OSI model and the TCP/IP protocol suite.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773341473209-networkingconcepts.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773341473209-networkingconcepts.png"
       },
       {
         "_id": "6641c29fc10ce20fbe5665e1",
@@ -2568,8 +2382,7 @@
         "code": "tcpdump",
         "title": "Tcpdump: The Basics",
         "description": "Learn how to use Tcpdump to save, filter, and display packets.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773341151390-tcpdump.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773341151390-tcpdump.png"
       },
       {
         "_id": "6641c4b9d27a2b5b965a5793",
@@ -2579,8 +2392,7 @@
         "code": "networkingessentials",
         "title": "Networking Essentials",
         "description": "Explore networking protocols from automatic configuration to routing packets to the destination.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773341245234-networkingessentials.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773341245234-networkingessentials.png"
       },
       {
         "_id": "6641c5eec4714a051f56a8b4",
@@ -2590,8 +2402,7 @@
         "code": "networkingcoreprotocols",
         "title": "Networking Core Protocols",
         "description": "Learn about the core TCP/IP protocols.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773341376458-networkingcoreprotocols.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773341376458-networkingcoreprotocols.png"
       },
       {
         "_id": "6641c65eb66abb32b6603ee5",
@@ -2601,8 +2412,7 @@
         "code": "networkingsecureprotocols",
         "title": "Networking Secure Protocols",
         "description": "Learn how TLS, SSH, and VPN can secure your network traffic.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773341382571-networkingcoreprotocols.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773341382571-networkingcoreprotocols.png"
       },
       {
         "_id": "6641d4d1bd8762b3837f461f",
@@ -2612,8 +2422,7 @@
         "code": "advancedsqlinjection",
         "title": "Advanced SQL Injection",
         "description": "Learn advanced injection techniques to exploit a web app.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463358022",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463358022"
       },
       {
         "_id": "665595131cd4c024d1f2ab9a",
@@ -2623,8 +2432,7 @@
         "code": "incidentresponsefundamentals",
         "title": "Incident Response Fundamentals",
         "description": "Learn how to perform Incident Response in cyber security.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773340307883-incidentresponsefundamentals.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773340307883-incidentresponsefundamentals.png"
       },
       {
         "_id": "6656ee42cf89bd6f8890d206",
@@ -2634,8 +2442,7 @@
         "code": "orminjection",
         "title": "ORM Injection",
         "description": "Learn how to exploit injection vulnerabilities in an ORM-based web app.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463270604",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1718463270604"
       },
       {
         "_id": "6658b8ba7dc8524fb5880fd9",
@@ -2643,10 +2450,9 @@
         "code": "nosqlinjectiontutorial",
         "title": "NoSQL Injection",
         "description": "A walkthrough depicting basic NoSQL injections on MongoDB.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6093e17fa004d20049b6933e-1720003412048",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6093e17fa004d20049b6933e-1720003412048",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "665ebe6227fa216d232ab8f4",
@@ -2656,8 +2462,7 @@
         "code": "logsfundamentals",
         "title": "Logs Fundamentals",
         "description": "Learn what logs are and how to analyze them for effective investigation.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339548843-logsfundamentals.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339548843-logsfundamentals.png"
       },
       {
         "_id": "6666b1cd526cb7163dcd72e6",
@@ -2667,8 +2472,7 @@
         "code": "enumerationbruteforce",
         "title": "Enumeration & Brute Force",
         "description": "Enumerate and brute force authentication mechanisms.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1719928599415",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1719928599415"
       },
       {
         "_id": "66684daedde4de46303b2a96",
@@ -2678,8 +2482,7 @@
         "code": "socfundamentals",
         "title": "SOC Fundamentals",
         "description": "Learn about the SOC team and their processes.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339521292-socfundamentals.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339521292-socfundamentals.png"
       },
       {
         "_id": "667ab454d341e88c8d1f6f7e",
@@ -2689,8 +2492,7 @@
         "code": "digitalforensicsfundamentals",
         "title": "Digital Forensics Fundamentals",
         "description": "Learn about digital forensics and related processes and experiment with a practical example.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339531380-digitalforensicsfundamentals.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339531380-digitalforensicsfundamentals.png"
       },
       {
         "_id": "66850e6f2f8b42a62b285926",
@@ -2700,8 +2502,7 @@
         "code": "sessionmanagement",
         "title": "Session Management",
         "description": "Learn about session management and the different attacks that can be performed against insecure implementations.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6093e17fa004d20049b6933e-1722528947776",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6093e17fa004d20049b6933e-1722528947776"
       },
       {
         "_id": "668cf190b53f9b5a98dfdb92",
@@ -2711,8 +2512,7 @@
         "code": "injectics",
         "title": "Injectics",
         "description": "Use your injection skills to take control of a web app.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1721317107138",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1721317107138"
       },
       {
         "_id": "668fd39c3d46ef00ecb70c01",
@@ -2722,8 +2522,7 @@
         "code": "firewallfundamentals",
         "title": "Firewall Fundamentals",
         "description": "Learn about firewalls and get hands-on with Windows and Linux built-in firewalls.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339624753-firewallfundamentals.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339624753-firewallfundamentals.png"
       },
       {
         "_id": "669cb30b5eac35f8628fe52f",
@@ -2731,10 +2530,9 @@
         "code": "oauthvulnerabilities",
         "title": "OAuth Vulnerabilities",
         "description": "Learn how the OAuth protocol works and master techniques to exploit it.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1721736252781",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1721736252781",
         "freeToUse": false,
-        "difficulty": "medium",
-        "tagDocsV2": []
+        "difficulty": "medium"
       },
       {
         "_id": "66a0d44ac3dc65c4113ea5f2",
@@ -2744,8 +2542,7 @@
         "code": "idsfundamentals",
         "title": "IDS Fundamentals",
         "description": "Learn the fundamentals of IDS, along with the experience of working with Snort.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773417036283-idsfundamentals.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773417036283-idsfundamentals.png"
       },
       {
         "_id": "66a0f4eef9dd2903c6f6fc4d",
@@ -2755,8 +2552,7 @@
         "code": "multifactorauthentications",
         "title": "Multi-Factor Authentication",
         "description": "Exploiting Multi-Factor Authentication.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1722597662791",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1722597662791"
       },
       {
         "_id": "66aa071c4fe9e3df24f97ce9",
@@ -2766,8 +2562,7 @@
         "code": "vulnerabilityscanneroverview",
         "title": "Vulnerability Scanner Overview",
         "description": "Learn about vulnerability scanners and how they work in a practical scenario.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339641038-vulnerabilityscanneroverview.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339641038-vulnerabilityscanneroverview.png"
       },
       {
         "_id": "66b9e17dbd74e1f26111818a",
@@ -2777,8 +2572,7 @@
         "code": "hammer",
         "title": "Hammer",
         "description": "Use your exploitation skills to bypass authentication mechanisms on a website and get RCE.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1723567516578",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1723567516578"
       },
       {
         "_id": "66b9fcdbfc8f00e1ae048983",
@@ -2788,8 +2582,7 @@
         "code": "cyberchefbasics",
         "title": "CyberChef: The Basics",
         "description": "This room is an introduction to CyberChef, the Swiss Army knife for cyber security professionals.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339692582-cyberchefbasics.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339692582-cyberchefbasics.png"
       },
       {
         "_id": "66c378c0fa5a6c25ee0cb649",
@@ -2799,8 +2592,7 @@
         "code": "publickeycrypto",
         "title": "Public Key Cryptography Basics",
         "description": "Discover how public key ciphers such as RSA work and explore their role in applications such as SSH.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1779873705990",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1779873705990"
       },
       {
         "_id": "66c379a1a5a29465fcae366e",
@@ -2810,8 +2602,7 @@
         "code": "cryptographybasics",
         "title": "Cryptography Basics",
         "description": "Learn the basics of cryptography and symmetric encryption.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1779873722777",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1779873722777"
       },
       {
         "_id": "66c45809c32192c8bbaeecff",
@@ -2821,8 +2612,7 @@
         "code": "hashingbasics",
         "title": "Hashing Basics",
         "description": "Learn about hashing functions and their uses in password verification and file integrity checking.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339183873-hashingbasics.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339183873-hashingbasics.png"
       },
       {
         "_id": "66d072bdbfe6a374dec77b45",
@@ -2832,8 +2622,7 @@
         "code": "capabasics",
         "title": "CAPA: The Basics",
         "description": "Learn to use CAPA to identify malicious capabilities.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339700660-capabasics.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339700660-capabasics.png"
       },
       {
         "_id": "66d1a2d041da803e3ebecd23",
@@ -2843,8 +2632,7 @@
         "code": "windowspowershell",
         "title": "Windows PowerShell",
         "description": "Discover the \"Power\" in PowerShell and learn the basics.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338852204-windowspowershell.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338852204-windowspowershell.png"
       },
       {
         "_id": "66d47c1fec25139641ddc806",
@@ -2854,8 +2642,7 @@
         "code": "flarevmarsenaloftools",
         "title": "FlareVM: Arsenal of Tools",
         "description": "Learn the arsenal of investigative tools in FlareVM.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339715702-flarevmarsenaloftools.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339715702-flarevmarsenaloftools.png"
       },
       {
         "_id": "66d47c4361586bcfba27bd08",
@@ -2865,8 +2652,7 @@
         "code": "remnuxgettingstarted",
         "title": "REMnux: Getting Started",
         "description": "Learn how you can use the tools inside the REMnux VM.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339707192-remnuxgettingstarted.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339707192-remnuxgettingstarted.png"
       },
       {
         "_id": "66d6ae5b117a88d51820bdc6",
@@ -2876,8 +2662,7 @@
         "code": "linuxshells",
         "title": "Linux Shells",
         "description": "Learn about scripting and the different types of Linux shells.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773338856713-linuxshells.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773338856713-linuxshells.png"
       },
       {
         "_id": "66d90b19071c05fbd8f5a34f",
@@ -2887,8 +2672,7 @@
         "code": "lengthextensionattacks",
         "title": "Length Extension Attacks",
         "description": "Learn how hash functions enable attackers to extend and manipulate data using length extension attacks.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1730384887772",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1730384887772"
       },
       {
         "_id": "66deb5530288f675f0e2d33d",
@@ -2898,8 +2682,7 @@
         "code": "insecurerandomness",
         "title": "Insecure Randomness",
         "description": "Learn how incorrectly configured randomness can lead to application compromise.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1726641550999",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1726641550999"
       },
       {
         "_id": "66e199d05a908dbb489e75b4",
@@ -2909,8 +2692,7 @@
         "code": "gobusterthebasics",
         "title": "Gobuster: The Basics",
         "description": "This room focuses on an introduction to Gobuster, an offensive security tool used for enumeration.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339394962-gobusterthebasics.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339394962-gobusterthebasics.png"
       },
       {
         "_id": "66e44382fd6ce645435979e3",
@@ -2920,8 +2702,7 @@
         "code": "training",
         "title": "Training Impact on Teams",
         "description": "Discover the impact of training on teams and organisations.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339777763-training.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339777763-training.png"
       },
       {
         "_id": "66e7d19fb65d945175291044",
@@ -2931,8 +2712,7 @@
         "code": "sqlmapthebasics",
         "title": "SQLMap: The Basics",
         "description": "Learn about SQL injection and exploit this vulnerability through the SQLMap tool.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339422564-sqlmapthebasics.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339422564-sqlmapthebasics.png"
       },
       {
         "_id": "66e93674a67ced129971b82a",
@@ -2942,8 +2722,7 @@
         "code": "adventofcyber2024",
         "title": "Advent of Cyber 2024",
         "description": "Dive into the wonderful world of cyber security by engaging in festive beginner-friendly exercises every day in the lead-up to Christmas!",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62c435d1f4d84a005f5df811-1728982657816",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62c435d1f4d84a005f5df811-1728982657816"
       },
       {
         "_id": "670915f4514e358f4510691a",
@@ -2951,10 +2730,9 @@
         "code": "javascriptessentials",
         "title": "JavaScript Essentials",
         "description": "Learn how to use JavaScript to add interactivity to a website and understand associated vulnerabilities.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339326784-javascriptessentials.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339326784-javascriptessentials.png",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "6709166f408e675d7a01a237",
@@ -2962,10 +2740,9 @@
         "code": "webapplicationbasics",
         "title": "Web Application Basics",
         "description": "Learn the basics of web applications: HTTP, URLs, request methods, response codes, and headers.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339319960-webapplicationbasics.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339319960-webapplicationbasics.png",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "670916a209bf783baffdd6eb",
@@ -2973,10 +2750,9 @@
         "code": "sqlfundamentals",
         "title": "SQL Fundamentals",
         "description": "Learn how to perform basic SQL queries to retrieve and manage data in a database.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/b488ee019e3688fa91a35ceed697c0eb53c6521ef9e13fa071cc085318b78781.66c513e4445cb5649e636a36-1727686664670",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/b488ee019e3688fa91a35ceed697c0eb53c6521ef9e13fa071cc085318b78781.66c513e4445cb5649e636a36-1727686664670",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "670918dc09bf783bafff346a",
@@ -2984,10 +2760,9 @@
         "code": "shellsoverview",
         "title": "Shells Overview",
         "description": "Learn about the different types of shells.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339417530-shellsoverview.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339417530-shellsoverview.png",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "6745846cce564ee3a288d466",
@@ -2995,10 +2770,9 @@
         "code": "paddingoracles",
         "title": "Padding Oracles",
         "description": "Learn how the padding works during encryption and master techniques to exploit it.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1734329183684",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1734329183684",
         "freeToUse": false,
-        "difficulty": "medium",
-        "tagDocsV2": []
+        "difficulty": "medium"
       },
       {
         "_id": "678a54a860fc560256d845f8",
@@ -3008,8 +2782,7 @@
         "code": "breakingcryptothesimpleway",
         "title": "Breaking Crypto the Simple Way",
         "description": "Exploiting common cryptographic mistakes.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1739180133439",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1739180133439"
       },
       {
         "_id": "679a6052b410bbce25fc16df",
@@ -3019,8 +2792,7 @@
         "code": "phishingbasics",
         "title": "Phishing Basics",
         "description": "Explore phishing techniques and tools for penetration testing.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62ff64c3c859dc0042b2b9f6-1775735976220",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62ff64c3c859dc0042b2b9f6-1775735976220"
       },
       {
         "_id": "67ab0602f70442e3ddda0561",
@@ -3030,8 +2802,7 @@
         "code": "customtoolingpython",
         "title": "Custom Tooling Using Python",
         "description": "Creating custom tooling for application testing using Python.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1743656880330",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1743656880330"
       },
       {
         "_id": "67ab061cd2a96574f8ef6cb8",
@@ -3041,8 +2812,7 @@
         "code": "customtoolingviaburp",
         "title": "Custom Tooling using Burp",
         "description": "Creating custom tooling for application testing using Burp Plugins.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1743754283057",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1743754283057"
       },
       {
         "_id": "67ab063a0adc39e8f325f8e7",
@@ -3052,8 +2822,7 @@
         "code": "customtoolingviabrowserautomation",
         "title": "Tooling via Browser Automation",
         "description": "Creating custom tooling for application testing using Selenium and Playwright.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1743754227992",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1743754227992"
       },
       {
         "_id": "67c8d8fda2ab8c1c3e1f10a9",
@@ -3063,8 +2832,7 @@
         "code": "socl1alerttriage",
         "title": "SOC L1 Alert Triage",
         "description": "Learn more about SOC alerts and build a systematic approach to efficiently triaging them.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1744124438599",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1744124438599"
       },
       {
         "_id": "67d0b511c69ec3023ddaa3d5",
@@ -3074,8 +2842,7 @@
         "code": "socl1alertreporting",
         "title": "SOC L1 Alert Reporting",
         "description": "Learn how to properly report, escalate, and communicate about high-risk SOC alerts.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1743518414935",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1743518414935"
       },
       {
         "_id": "67d172043b13d50faa66fd76",
@@ -3085,8 +2852,7 @@
         "code": "cyberkillchain",
         "title": "Cyber Kill Chain",
         "description": "Explore the Cyber Kill Chain by Lockheed Martin.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1748005316630",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1748005316630"
       },
       {
         "_id": "67d30102161d5e8bd1899cd0",
@@ -3096,8 +2862,7 @@
         "code": "socworkbookslookups",
         "title": "SOC Workbooks and Lookups",
         "description": "Discover useful corporate resources to help you structure and simplify L1 alert triage.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1743518808955",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1743518808955"
       },
       {
         "_id": "67db01acd4d32d70d083f1af",
@@ -3107,8 +2872,7 @@
         "code": "attackingecboracles",
         "title": "Attacking ECB Oracles",
         "description": "Learn about the electronic codebook (ECB) cipher mode and how to exploit its weaknesses.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6093e17fa004d20049b6933e-1743186246407",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6093e17fa004d20049b6933e-1743186246407"
       },
       {
         "_id": "67e173384230a2f8ca20c812",
@@ -3118,8 +2882,7 @@
         "code": "nextjscve202529927",
         "title": "Next.js: CVE-2025-29927",
         "description": "Explore an authorisation bypass vulnerability in Next.js.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1742831379313",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1742831379313"
       },
       {
         "_id": "67e1b93d386755aaa96e321b",
@@ -3129,8 +2892,7 @@
         "code": "socmetricsobjectives",
         "title": "SOC Metrics and Objectives",
         "description": "Explore key metrics driving SOC effectiveness and discover ways to improve them.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1743519663017",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1743519663017"
       },
       {
         "_id": "67e2b406050ea4e0a69bd5e4",
@@ -3138,10 +2900,9 @@
         "freeToUse": true,
         "difficulty": "easy",
         "code": "aimlsecuritythreats",
-        "title": "AI/ML Security Threats",
-        "description": "Learn AI basics, key terms, and how it's used by both attackers and defenders.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775812180696",
-        "tagDocsV2": []
+        "title": "The Building Blocks of AI",
+        "description": "Learn how AI, ML, neural networks, and LLMs actually work, from the ground up.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775812180696"
       },
       {
         "_id": "67ed4cb3a94e4489c1a9c799",
@@ -3151,8 +2912,7 @@
         "code": "captchapocalypse",
         "title": "CAPTCHApocalypse",
         "description": "When crypto interferes, automate.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1744630842770",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1744630842770"
       },
       {
         "_id": "67fda3a9138bee168f3c3efb",
@@ -3160,10 +2920,9 @@
         "code": "offensivesecurityintrokK",
         "title": "Offensive Security Intro",
         "description": "Hack your first website (legally in a safe environment) and experience an ethical hacker's job.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/85c37a8504a5db86f501beb204d2b78e8e7270d05ee0b036a4324cf48e04fecf.66704dd0e54a1f39bff7b1a1-1735573222714",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/85c37a8504a5db86f501beb204d2b78e8e7270d05ee0b036a4324cf48e04fecf.66704dd0e54a1f39bff7b1a1-1735573222714",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "6808a656322b23705313515c",
@@ -3173,8 +2932,7 @@
         "code": "erlangotpsshcve202532433",
         "title": "Erlang/OTP SSH: CVE-2025-32433",
         "description": "Learn about and exploit Erlang/OTP SSH CVE-2025-32433 in a lab setup.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1745418138356",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1745418138356"
       },
       {
         "_id": "68126ccc243043eb516d5745",
@@ -3184,8 +2942,7 @@
         "code": "writingpentestreports",
         "title": "Writing Pentest Reports",
         "description": "Learn how to write professional pentesting reports that communicate risk to business stakeholders.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6093e17fa004d20049b6933e-1746290313524",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6093e17fa004d20049b6933e-1746290313524"
       },
       {
         "_id": "682b04c789a411b8e894d051",
@@ -3195,8 +2952,7 @@
         "code": "aiforensics",
         "title": "AI Forensics",
         "description": "Explore AI DFIR and learn how it boosts your investigation capabilities.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775756737657",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775756737657"
       },
       {
         "_id": "682b29571feacaf821a1c5c2",
@@ -3206,8 +2962,7 @@
         "code": "extract",
         "title": "Extract",
         "description": "Can you extract the secrets from the library?",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1750729396083",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1750729396083"
       },
       {
         "_id": "683e0a963fc53bac1a02d0cc",
@@ -3215,10 +2970,9 @@
         "code": "hfb1cipherssecretmessage",
         "title": "Cipher's Secret Message",
         "description": "Sharpen your cryptography skills by analyzing code to get the flag.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66264cef7bba67a6bbbe7179-1751552736733",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66264cef7bba67a6bbbe7179-1751552736733",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "683e105aaabe4300792b3338",
@@ -3226,10 +2980,9 @@
         "code": "hfb1evilgpt",
         "title": "Evil-GPT",
         "description": "Practice your LLM hacking skills.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/618b3fa52f0acc0061fb0172-1751553922228",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/618b3fa52f0acc0061fb0172-1751553922228",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "683e143c661f9b46fb085e94",
@@ -3237,10 +2990,9 @@
         "code": "hfb1evilgptv2",
         "title": "Evil-GPT v2",
         "description": "Put your LLM hacking skills to the test one more time.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/618b3fa52f0acc0061fb0172-1751553729067",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/618b3fa52f0acc0061fb0172-1751553729067",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "6840318859aa5985857018c3",
@@ -3250,8 +3002,7 @@
         "code": "sequence",
         "title": "Sequence",
         "description": "Chain multiple vulnerabilities to take control of a system.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1749644537852",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1749644537852"
       },
       {
         "_id": "684adef42bf6634501dd06b6",
@@ -3261,8 +3012,7 @@
         "code": "roundcubecve202549113",
         "title": "Roundcube: CVE-2025-49113",
         "description": "Exploit CVE-2025-49113 in a lab environment.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1750061875034",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1750061875034"
       },
       {
         "_id": "684c5d0d0234b84dc701472e",
@@ -3272,8 +3022,7 @@
         "code": "containment",
         "title": "ContAInment",
         "description": "Can you help contain the ransomware threat with the help of AI?",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775756760371",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775756760371"
       },
       {
         "_id": "68515928d4c468f7db6cc15e",
@@ -3283,8 +3032,7 @@
         "code": "chainingvulnerabilitiesZp",
         "title": "Chaining Vulnerabilities",
         "description": "Learn how to chain vulnerabilities! From Low to High!",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1752206689409",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1752206689409"
       },
       {
         "_id": "685ac1792a6b271be95698fe",
@@ -3294,8 +3042,7 @@
         "code": "voyage",
         "title": "Voyage",
         "description": "Chain multiple vulnerabilities to gain control of a system.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1751032179203",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1751032179203"
       },
       {
         "_id": "68780e8b28c472d7c030cf07",
@@ -3305,8 +3052,7 @@
         "code": "humansattackvectors",
         "title": "Humans as Attack Vectors",
         "description": "Understand why and how people are targeted in cyber attacks and how the SOC helps defend them.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1753199356963",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1753199356963"
       },
       {
         "_id": "687d382b05c389c3cb2c6b2f",
@@ -3314,10 +3060,9 @@
         "code": "systemsattackvectors",
         "title": "Systems as Attack Vectors",
         "description": "Learn how attackers exploit vulnerable and misconfigured systems, and how you can protect them.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1753706422658",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1753706422658",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "6884f450ae4e3f5d16455b87",
@@ -3327,8 +3072,7 @@
         "code": "socroleinblueteam",
         "title": "SOC Role in Blue Team",
         "description": "Discover security roles and learn how to advance your SOC career, starting from the L1 analyst.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1756302396554",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1756302396554"
       },
       {
         "_id": "68884d2852ae0ddd8d787b0e",
@@ -3338,8 +3082,7 @@
         "code": "websecurityessentials",
         "title": "Web Security Essentials",
         "description": "Learn how the web works, common website security risks, and protections for a safer internet.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/616945d482ef350052080da1-1754137091145",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/616945d482ef350052080da1-1754137091145"
       },
       {
         "_id": "688873b4bbdbff705146293d",
@@ -3349,8 +3092,7 @@
         "code": "defensivesecurityintroQR",
         "title": "Defensive Security Intro",
         "description": "Introducing defensive security, what it involves and looks like within the real-world, as well as the technologies involved.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1753773085547",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5de96d9ca744773ea7ef8c00-1753773085547"
       },
       {
         "_id": "68a8463f0f60016219118f89",
@@ -3358,10 +3100,9 @@
         "code": "hack2win",
         "title": "Hack2Win: How you can grab extra tickets",
         "description": "Hack and win! Complete rooms, earn tickets, fill stamp cards, and enter raffles for $40,000+ prizes.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/d0a58ca1d013f9613b13b01e5eb7b86a9c2543effa8703a7f2d139a8663d9928.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/d0a58ca1d013f9613b13b01e5eb7b86a9c2543effa8703a7f2d139a8663d9928.png",
         "freeToUse": true,
-        "difficulty": "info",
-        "tagDocsV2": []
+        "difficulty": "info"
       },
       {
         "_id": "68aef11763cadeddca4f758a",
@@ -3369,10 +3110,9 @@
         "code": "introductiontoedrs",
         "title": "Introduction to EDR",
         "description": "Learn the fundamentals of EDR and explore its features and working.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/f90bca871d79eae64a3ebebc4e68ab62989c77d93523f3871dc893a1d5706792.6645aa8c024f7893371eb7ac-1753204708163",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/f90bca871d79eae64a3ebebc4e68ab62989c77d93523f3871dc893a1d5706792.6645aa8c024f7893371eb7ac-1753204708163",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "68b85673688546044b52cf5a",
@@ -3382,8 +3122,7 @@
         "code": "inputmanipulationpromptinjection",
         "title": "Input Manipulation & Prompt Injection",
         "description": "Understand the basics of LLM Prompt Injection attacks.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1759491275677",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1759491275677"
       },
       {
         "_id": "68c127ddc47c2f62a18413fb",
@@ -3393,8 +3132,7 @@
         "code": "modelpoisoning",
         "title": "Data Integrity & Model Poisoning",
         "description": "Understand how supply chain and model poisoning attacks can corrupt the underlying LLM.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1759310564695",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1759310564695"
       },
       {
         "_id": "68d884a22ad49e9c362f1d5e",
@@ -3404,8 +3142,7 @@
         "code": "outputhandlingandprivacyrisks",
         "title": "LLM Output Handling and Privacy Risks",
         "description": "Learn how LLMs handle their output and the privacy risks behind it.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1759929001815",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1759929001815"
       },
       {
         "_id": "68db9f76810325d62268550f",
@@ -3415,8 +3152,7 @@
         "code": "idor-aoc2025-zl6MywQid9",
         "title": "IDOR - Santa’s Little IDOR",
         "description": "Learn about IDOR while helping pentest the TrypresentMe website.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66c44fd9733427ea1181ad58-1761823903831",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66c44fd9733427ea1181ad58-1761823903831"
       },
       {
         "_id": "68dbd4fc01c50f5c660dc8c5",
@@ -3426,8 +3162,7 @@
         "code": "obfuscation-aoc2025-e5r8t2y6u9",
         "title": "Obfuscation - The Egg Shell File",
         "description": "McSkidy keeps her focus on a particular alert that caught her interest: an email posing as northpole-hr.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f9c7574e201fe31dad228fc-1763962163689",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f9c7574e201fe31dad228fc-1763962163689"
       },
       {
         "_id": "68dbe4331339e40ee345d327",
@@ -3437,8 +3172,7 @@
         "code": "xss-aoc2025-c5j8b1m4t6",
         "title": "XSS - Merry XSSMas",
         "description": "Learn about types of XSS vulnerabilities and how to prevent them.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f9c7574e201fe31dad228fc-1763405859947",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f9c7574e201fe31dad228fc-1763405859947"
       },
       {
         "_id": "68dd330c5758d2d1e428ec00",
@@ -3448,8 +3182,7 @@
         "code": "attacks-on-ecrypted-files-aoc2025-asdfghj123",
         "title": "Passwords - A Cracking Christmas",
         "description": "Learn how to crack password-based encrypted files.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5fc2847e1bbebc03aa89fbf2-1763007383191",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5fc2847e1bbebc03aa89fbf2-1763007383191"
       },
       {
         "_id": "68dec40cf58369f4ac824447",
@@ -3457,10 +3190,9 @@
         "code": "azuresentinel-aoc2025-a7d3h9k0p2",
         "title": "SOC Alert Triaging - Tinsel Triage",
         "description": "Investigate and triage alerts through Microsoft Sentinel.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5dbea226085ab6182a2ee0f7-1761751325593",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1761751325593",
         "freeToUse": true,
-        "difficulty": "medium",
-        "tagDocsV2": []
+        "difficulty": "medium"
       },
       {
         "_id": "68e383799162a801991e58ec",
@@ -3470,8 +3202,7 @@
         "code": "splunkforloganalysis-aoc2025-x8fj2k4rqp",
         "title": "Splunk Basics - Did you SIEM?",
         "description": "Learn how to ingest and parse custom log data using Splunk.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5e8dd9a4a45e18443162feab-1762518888961",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5e8dd9a4a45e18443162feab-1762518888961"
       },
       {
         "_id": "68e3b10a550ee62e5e253249",
@@ -3481,8 +3212,7 @@
         "code": "phishing-aoc2025-h2tkye9fzU",
         "title": "Phishing - Merry Clickmas",
         "description": "Learn how to use the Social-Engineer Toolkit to send phishing emails.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6645aa8c024f7893371eb7ac-1761822143495",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6645aa8c024f7893371eb7ac-1761822143495"
       },
       {
         "_id": "68e5643f1bc4c1b61e19b29e",
@@ -3492,8 +3222,7 @@
         "code": "promptinjection-aoc2025-sxUMnCkvLO",
         "title": "Prompt Injection - Sched-yule conflict",
         "description": "Learn to identify and exploit weaknesses in autonomous AI agents.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/63c131e50a24c3005eb34678-1763639792321",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/63c131e50a24c3005eb34678-1763639792321"
       },
       {
         "_id": "68e68d9025f199e42ca6a802",
@@ -3503,8 +3232,7 @@
         "code": "linuxcli-aoc2025-o1fpqkvxti",
         "title": "Linux CLI - Shells Bells",
         "description": "Explore the Linux command-line interface and use it to unveil Christmas mysteries.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1761766884117",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1761766884117"
       },
       {
         "_id": "68e8b8b8f520768ecf8d5fb7",
@@ -3514,8 +3242,7 @@
         "code": "yara-aoc2025-q9w1e3y5u7",
         "title": "YARA Rules - YARA mean one!",
         "description": "Learn how YARA rules can be used to detect anomalies.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/674d9727a22822c1eb46cb31-1763551899077",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/674d9727a22822c1eb46cb31-1763551899077"
       },
       {
         "_id": "68ecdee82a3b48f9fa279bd3",
@@ -3525,8 +3252,7 @@
         "code": "registry-forensics-aoc2025-h6k9j2l5p8",
         "title": "Forensics - Registry Furensics",
         "description": "Learn what the Windows Registry is and how to investigate it.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6645aa8c024f7893371eb7ac-1763316546050",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6645aa8c024f7893371eb7ac-1763316546050"
       },
       {
         "_id": "68ede268569895415d37c829",
@@ -3536,8 +3262,7 @@
         "code": "webhackingusingcurl-aoc2025-w8q1a4s7d0",
         "title": "Exploitation with cURL - Hoperation Eggsploit",
         "description": "The evil Easter bunnies operate a web control panel that holds the wormhole open. Using cURL, identify the endpoints, send the required requests, and shut the wormhole once and for all.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f9c7574e201fe31dad228fc-1764173598881",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f9c7574e201fe31dad228fc-1764173598881"
       },
       {
         "_id": "68ef2f0b98897a675f654d56",
@@ -3547,8 +3272,7 @@
         "code": "ICS-modbus-aoc2025-g3m6n9b1v4",
         "title": "ICS/Modbus - Claus for Concern",
         "description": "Learn to identify and exploit weaknesses in ICS systems.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/63c131e50a24c3005eb34678-1764070538293",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/63c131e50a24c3005eb34678-1764070538293"
       },
       {
         "_id": "68ef4add50574d30b0bda2bc",
@@ -3556,10 +3280,9 @@
         "code": "race-conditions-aoc2025-d7f0g3h6j9",
         "title": "Race Conditions - Toy to The World",
         "description": "Learn how to exploit a race condition attack to oversell the limited-edition SleighToy.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1763479664712",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1763479664712",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "68ef91b8882bef04f84c63eb",
@@ -3569,8 +3292,7 @@
         "code": "networkservices-aoc2025-jnsoqbxgky",
         "title": "Network Discovery - Scan-ta Clause",
         "description": "Discover how to scan network ports and uncover what is hidden behind them.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1761778821176",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1761778821176"
       },
       {
         "_id": "68efa523d9b57c17d943c861",
@@ -3580,8 +3302,7 @@
         "code": "container-security-aoc2025-z0x3v6n9m2",
         "title": "Containers - DoorDasher's Demise",
         "description": "Continue your Advent of Cyber journey and learn about container security.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1762360425839",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1762360425839"
       },
       {
         "_id": "68f0c35301f68b0bc9225038",
@@ -3591,8 +3312,7 @@
         "code": "encoding-decoding-aoc2025-s1a4z7x0c3",
         "title": "CyberChef - Hoperation Save McSkidy",
         "description": "The story continues, and the elves mount a rescue and will try to breach the Quantum Fortress's defenses and free McSkidy.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/68baea2454c82afe90fd7020-1761822112541",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/68baea2454c82afe90fd7020-1761822112541"
       },
       {
         "_id": "68f129f40677e8262f0621a8",
@@ -3602,8 +3322,7 @@
         "code": "spottingphishing-aoc2025-r2g4f6s8l0",
         "title": "Phishing - Phishmas Greetings",
         "description": "Learn how to spot phishing emails from Malhare's Eggsploit Bunnies sent to TBFC users.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/68dac5d6d4d4f23175b3296f-1761321790052",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/68dac5d6d4d4f23175b3296f-1761321790052"
       },
       {
         "_id": "68f1ffccca2c4117fa622ea0",
@@ -3613,8 +3332,7 @@
         "code": "AIforcyber-aoc2025-y9wWQ1zRgB",
         "title": "AI in Security - old sAInt nick",
         "description": "Unleash the power of AI by exploring it's uses within cyber security.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1762182384720",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5de96d9ca744773ea7ef8c00-1762182384720"
       },
       {
         "_id": "68f206e9d269245f774bbe08",
@@ -3624,8 +3342,7 @@
         "code": "htapowershell-aoc2025-p2l5k8j1h4",
         "title": "Malware Analysis - Malhare.exe",
         "description": "Learn about malware analysis and forensics.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6093e17fa004d20049b6933e-1763893187327",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6093e17fa004d20049b6933e-1763893187327"
       },
       {
         "_id": "68f21ad60e827f054c79e3dd",
@@ -3635,8 +3352,7 @@
         "code": "detecting-c2-with-rita-aoc2025-m9n2b5v8c1",
         "title": "C2 Detection - Command & Carol",
         "description": "Explore how to analyze a large PCAP and extract valuable information.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/66c44fd9733427ea1181ad58-1761823947148",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66c44fd9733427ea1181ad58-1761823947148"
       },
       {
         "_id": "68f9aee7ea8ee3ad991a2549",
@@ -3646,8 +3362,7 @@
         "code": "cloudenum-aoc2025-y4u7i0o3p6",
         "title": "AWS Security - S3cret Santa",
         "description": "Learn the basics of AWS enumeration.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5ed5961c6276df568891c3ea-1761886566945",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5ed5961c6276df568891c3ea-1761886566945"
       },
       {
         "_id": "68fbc109aa5e7b54dfb72e2b",
@@ -3655,10 +3370,9 @@
         "code": "malware-sandbox-aoc2025-SD1zn4fZQt",
         "title": "Malware Analysis - Egg-xecutable",
         "description": "Discover some common tooling for malware analysis within a sandbox environment.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1762521735071",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5de96d9ca744773ea7ef8c00-1762521735071",
         "freeToUse": true,
-        "difficulty": "medium",
-        "tagDocsV2": []
+        "difficulty": "medium"
       },
       {
         "_id": "68ff1e6acc879024b0b5c8d5",
@@ -3668,8 +3382,7 @@
         "code": "webattackforensics-aoc2025-b4t7c1d5f8",
         "title": "Web Attack Forensics - Drone Alone",
         "description": "Explore web attack forensics using Splunk.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6186e45a4c3e9a0043efd100-1764342232871",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6186e45a4c3e9a0043efd100-1764342232871"
       },
       {
         "_id": "6901264d2aec7c3cbd2e4de4",
@@ -3679,8 +3392,7 @@
         "code": "cloudsecuritypitfalls",
         "title": "Cloud Security Pitfalls",
         "description": "Explore the risks companies face when migrating to the cloud, and learn how to address them in a SOC.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/678ecc92c80aa206339f0f23-1766592228556",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/678ecc92c80aa206339f0f23-1766592228556"
       },
       {
         "_id": "6908ad9ff889610353cbb10c",
@@ -3690,8 +3402,7 @@
         "code": "juicy",
         "title": "Juicy",
         "description": "A friendly golden retriever who answers your questions.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1763554721305",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1763554721305"
       },
       {
         "_id": "690ccc5ec3e1e7d1c9239f70",
@@ -3701,8 +3412,7 @@
         "code": "adventofcyberpreptrack",
         "title": "Advent of Cyber Prep Track",
         "description": "Get ready for the Advent of Cyber 2025 with the \"Advent of Cyber Prep Track\", a series of warm-up tasks aimed to get beginners ready for this year's event.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1763126908480",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1763126908480"
       },
       {
         "_id": "6910ebfda2ab0bcc10166e90",
@@ -3712,8 +3422,7 @@
         "code": "owasptopten2025three",
         "title": "OWASP Top 10 2025: Insecure Data Handling",
         "description": "Learn about A04, A05, and A08 as they related to insecure data handling.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773339828097-owasptopten2025one.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773339828097-owasptopten2025one.png"
       },
       {
         "_id": "691470d1489f094ee04af8a8",
@@ -3723,8 +3432,7 @@
         "code": "djangocve202564459",
         "title": "Django: CVE-2025-64459",
         "description": "Explore and learn about the Django CVE-2025-64459 vulnerability.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1763364665707",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1763364665707"
       },
       {
         "_id": "691db273e2abcc5610a1891e",
@@ -3734,8 +3442,7 @@
         "code": "bankgpt",
         "title": "BankGPT",
         "description": "A customer service assistant used by a banking system.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1763995733732",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1763995733732"
       },
       {
         "_id": "691db281f4efa7cd027176a6",
@@ -3745,8 +3452,7 @@
         "code": "healthgpt",
         "title": "HealthGPT",
         "description": "A safety-compliant AI assistant that has strict rules against revealing sensitive internal data.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1763995774132",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1763995774132"
       },
       {
         "_id": "6931423a01db5e52a77a7e1d",
@@ -3756,8 +3462,7 @@
         "code": "react2shellcve202555182",
         "title": "React2Shell: CVE-2025-55182",
         "description": "Explore the CVE-2025-55182 vulnerability in React server components.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1764954113748",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1764954113748"
       },
       {
         "_id": "69372770e663ab1fd4b38594",
@@ -3767,8 +3472,7 @@
         "code": "virtualisationbasics",
         "title": "Virtualisation Basics",
         "description": "Learn why virtualisation powers modern IT, improving efficiency and safely isolating environments.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400177898-Room_Image-2.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400177898-Room_Image-2.png"
       },
       {
         "_id": "6938e3a1c9be1bed60c1a854",
@@ -3778,8 +3482,7 @@
         "code": "operatingsystemsintroduction",
         "title": "Operating Systems: Introduction",
         "description": "Explore the basics of operating systems and the core features that power your computer.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400208698-Room_Image-5.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400208698-Room_Image-5.png"
       },
       {
         "_id": "693a90f1d8b79d22e73b9392",
@@ -3789,8 +3492,7 @@
         "code": "linuxclibasics",
         "title": "Linux CLI Basics",
         "description": "Get comfortable navigating through the Linux CLI.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400244147-linuxfundamentalspart1.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400244147-linuxfundamentalspart1.png"
       },
       {
         "_id": "693aab34e8fd11ac6170526f",
@@ -3800,8 +3502,7 @@
         "code": "datarepresentation",
         "title": "Data Representation",
         "description": "Learn about how computers represent numbers and colors.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400279781-Room_Image-10.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400279781-Room_Image-10.png"
       },
       {
         "_id": "693aab7ce31a9a95a2a181b2",
@@ -3811,8 +3512,7 @@
         "code": "dataencoding",
         "title": "Data Encoding",
         "description": "Learn how computer encodes characters, from ASCII to Unicode's UTF.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400285735-Room_Image-13.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400285735-Room_Image-13.png"
       },
       {
         "_id": "693aabcb70d3c563289b564f",
@@ -3822,8 +3522,7 @@
         "code": "javascriptsimpledemo",
         "title": "JavaScript: Simple Demo",
         "description": "Explore what a basic JavaScript program looks like.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400296115-Room_Image-12.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400296115-Room_Image-12.png"
       },
       {
         "_id": "693aabde56b620f222796be3",
@@ -3833,8 +3532,7 @@
         "code": "pythonsimpledemo",
         "title": "Python: Simple Demo",
         "description": "Explore what a basic Python program looks like.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400291430-Room_Image-11.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400291430-Room_Image-11.png"
       },
       {
         "_id": "693ad2f1f0aaec55a5ee7b17",
@@ -3844,8 +3542,7 @@
         "code": "llmsecurity",
         "title": "LLM Security",
         "description": "Understand LLMs as an attack surface and get an overview of LLM security threats.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775756919058",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775756919058"
       },
       {
         "_id": "693cee8c999d17cddc880176",
@@ -3855,8 +3552,7 @@
         "code": "windowsbasics",
         "title": "Windows Basics",
         "description": "Learn to navigate Windows, manage files, and use essential system tools.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400216298-Room_Image-8.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400216298-Room_Image-8.png"
       },
       {
         "_id": "69405b95811b663620ca4c0c",
@@ -3864,10 +3560,9 @@
         "code": "cloudcomputingfundamentals",
         "title": "Cloud Computing Fundamentals",
         "description": "Discover how cloud computing helps businesses move faster, do more, and scale with less effort.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400183488-Room_Image-4.png",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400183488-Room_Image-4.png",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "69412ddb5cef0a01ebe0d967",
@@ -3877,8 +3572,7 @@
         "code": "windowsclibasics",
         "title": "Windows CLI Basics",
         "description": "Explore what Windows CLI is, how to navigate, and interact with the system using Windows CLI.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400260703-Room_Image-7.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400260703-Room_Image-7.png"
       },
       {
         "_id": "6942c7ef0224651089cb8fdd",
@@ -3888,8 +3582,7 @@
         "code": "theciatriad",
         "title": "The CIA Triad",
         "description": "Understand the CIA Triad and how it shapes cyber security mindset.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400312904-Room_Image-15.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400312904-Room_Image-15.png"
       },
       {
         "_id": "6942c91edae025de74ebb679",
@@ -3899,8 +3592,17 @@
         "code": "databasesqlbasics",
         "title": "Database SQL Basics",
         "description": "Learn the basics of databases and SQL by writing simple queries to retrieve and manage data.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400301430-Room_Image-14.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400301430-Room_Image-14.png"
+      },
+      {
+        "_id": "694395ef32ed58521132862c",
+        "type": "challenge",
+        "freeToUse": false,
+        "difficulty": "medium",
+        "code": "recruitwebchallenge",
+        "title": "Recruit",
+        "description": "Infiltrate Recruit's new portal. Map the site, hunt for flaws, and gain unauthorised access ",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/691e303c8bb7e99b93a58132-1775572686374"
       },
       {
         "_id": "694535c370e0d8024611aee4",
@@ -3910,8 +3612,7 @@
         "code": "cryptographyconcepts",
         "title": "Cryptography Concepts",
         "description": "This room provides an understanding of cryptography in our everyday digital encounters.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400321470-Room_Image-17.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400321470-Room_Image-17.png"
       },
       {
         "_id": "6945606bd6cc93efea287e7b",
@@ -3921,8 +3622,7 @@
         "code": "clientserverbasics",
         "title": "Client-Server Basics",
         "description": "This room teaches the basics of the Client-Server model.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400170483-Room_Image-1.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400170483-Room_Image-1.png"
       },
       {
         "_id": "694a181822d3a2e1da963a1a",
@@ -3932,8 +3632,7 @@
         "code": "becomeahacker",
         "title": "Become a Hacker",
         "description": "Explore offensive security, the hacker mindset, and hack a web app to improve security!",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1779874288391",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1779874288391"
       },
       {
         "_id": "694a8120d5a629e7fd635203",
@@ -3943,8 +3642,7 @@
         "code": "becomeadefender",
         "title": "Become a Defender",
         "description": "Explore defensive security, cyber infrastructure, and how to protect systems from attacks.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1779874303188",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1779874303188"
       },
       {
         "_id": "694ba4fc205e2d3e05c291e3",
@@ -3954,8 +3652,7 @@
         "code": "n8ncve202568613",
         "title": "n8n: CVE-2025-68613",
         "description": "Learn how adversaries can exploit the CVE-2025-68613 vulnerability in n8n.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1766575072170",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1766575072170"
       },
       {
         "_id": "695d03d589354d71afd6f863",
@@ -3963,10 +3660,9 @@
         "code": "offensivesecurityintrokKx12",
         "title": "Offensive Security Intro",
         "description": "Hack your first website (legally in a safe environment) and experience an ethical hacker's job.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1767868972234",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5de96d9ca744773ea7ef8c00-1767868972234",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "69668301371925b330910fdc",
@@ -3976,8 +3672,7 @@
         "code": "insideacomputer",
         "title": "Inside a Computer System",
         "description": "This room covers the basic components of a computer system.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400154829-Room_Image.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400154829-Room_Image.png"
       },
       {
         "_id": "6967083fb94876121ab43d82",
@@ -3987,8 +3682,7 @@
         "code": "geoservercve202558360",
         "title": "GeoServer: CVE-2025-58360",
         "description": "Explore the GeoServer XXE vulnerability CVE-2025-58360 from exploit to defense.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1769445124107",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1769445124107"
       },
       {
         "_id": "6970f1edc98f34dac4e2aeeb",
@@ -3996,10 +3690,9 @@
         "code": "offensivesecurityintrokKx12l39",
         "title": "Offensive Security Intro",
         "description": "Hack your first website (legally in a safe environment) and experience an ethical hacker's job.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/2dcbc5890dd1acb0c8f69208e6bbb75faa64678860482160c5eb15346434f569.5de96d9ca744773ea7ef8c00-1767868972234",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/2dcbc5890dd1acb0c8f69208e6bbb75faa64678860482160c5eb15346434f569.5de96d9ca744773ea7ef8c00-1767868972234",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "69774a4023f89ca774b9fc76",
@@ -4009,8 +3702,7 @@
         "code": "defensivesecurityintroez",
         "title": "Defensive Security Intro",
         "description": "Introducing defensive security, where you will protect FakeBank from an ongoing attack.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5de96d9ca744773ea7ef8c00-1769425626237",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5de96d9ca744773ea7ef8c00-1769425626237"
       },
       {
         "_id": "6981d58d68f4050e3deea7a8",
@@ -4020,8 +3712,7 @@
         "code": "computertypes",
         "title": "Computer Types",
         "description": "Explore the different types of computers, from laptops to the tiny chips inside your coffee machine.",
-        "imageURL": "https://tryhackme-images.s3.eu-west-1.amazonaws.com/room-icons/1773400161307-Room_Image-3.png",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/1773400161307-Room_Image-3.png"
       },
       {
         "_id": "6989a6e05c1b0ffbd12c5df6",
@@ -4031,8 +3722,7 @@
         "code": "diveintopentesting",
         "title": "Dive Into Pentesting",
         "description": "Learn the basics of penetration testing, from methodology to responsible practice.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/645b19f5d5848d004ab9c9e2-1779773270969",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1779773270969"
       },
       {
         "_id": "6996b15dda757919a0fceb23",
@@ -4042,8 +3732,7 @@
         "code": "promptengineeringaisec",
         "title": "Prompt Engineering",
         "description": "Learn how LLMs process text and craft effective prompts for security and adversarial testing.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775820505806",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775820505806"
       },
       {
         "_id": "699c39ffe5ef675dd5ac5069",
@@ -4053,8 +3742,7 @@
         "code": "aimodelsdata",
         "title": "AI Models & Data",
         "description": "Explore how data is fundamental to AI security, and the models which power it.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775756838514",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775756838514"
       },
       {
         "_id": "69a02e6f2b5ed43988d9cd6a",
@@ -4062,10 +3750,9 @@
         "code": "walkinganapp",
         "title": "Walking An Application",
         "description": "Manually review a web application for security issues using only your browser's developer tools. ",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/30ab9d726db28f92bf6bab62492aaf704f168ed717cf55444a954958c6fd6cb6.svg",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/30ab9d726db28f92bf6bab62492aaf704f168ed717cf55444a954958c6fd6cb6.svg",
         "freeToUse": false,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       },
       {
         "_id": "69a551a5af9a49ea1cf56e44",
@@ -4073,10 +3760,9 @@
         "code": "defensivesecurityintroezn39",
         "title": "Defensive Security Intro",
         "description": "Introducing defensive security, where you will protect FakeBank from an ongoing attack.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/60eeba4c12d185eee073d97e9a219ff1e4088f3604c9a07605f4aa8a42df9d60.5de96d9ca744773ea7ef8c00-1769425626237",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/60eeba4c12d185eee073d97e9a219ff1e4088f3604c9a07605f4aa8a42df9d60.5de96d9ca744773ea7ef8c00-1769425626237",
         "freeToUse": true,
-        "difficulty": "info",
-        "tagDocsV2": []
+        "difficulty": "info"
       },
       {
         "_id": "69a576459c36c7158c55b6b1",
@@ -4086,8 +3772,7 @@
         "code": "aithreatmodelling",
         "title": "AI Threat Modelling",
         "description": "Assess and mitigate enterprise AI/ML risks via systematic, defender-focused auditing.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775757065770",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775757065770"
       },
       {
         "_id": "69a762a6d0cf8a134298d3b9",
@@ -4097,8 +3782,7 @@
         "code": "securingaisystems",
         "title": "Securing AI Systems",
         "description": "Map AI architecture, identify OWASP/ATLAS attack surfaces, and apply secure design to trust boundaries.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/69650d18bb3fe8c456972924-1775820714254",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/69650d18bb3fe8c456972924-1775820714254"
       },
       {
         "_id": "69abe5c8bc3647d68f78765b",
@@ -4108,8 +3792,7 @@
         "code": "csrfintroduction",
         "title": "CSRF Introduction",
         "description": "Understand CSRF vulnerability and practice exploiting insecure state-changing requests.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1775466711834",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1775466711834"
       },
       {
         "_id": "69ae6c930dd4fefb8f723f1b",
@@ -4119,8 +3802,7 @@
         "code": "aisystemreconnaissance",
         "title": "AI System Reconnaissance",
         "description": "Discover AI infrastructure by scanning ML services, frameworks, and extracting metadata from APIs.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/69650d18bb3fe8c456972924-1775820771840",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/69650d18bb3fe8c456972924-1775820771840"
       },
       {
         "_id": "69b15688c6bfdefd7cac134b",
@@ -4130,8 +3812,7 @@
         "code": "penetrationtestingframeworks",
         "title": "Penetration Testing Frameworks",
         "description": "Explore the landscape of penetration testing frameworks.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/5f04259cf9bf5b57aed2c476-1779119105504",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1779119105504"
       },
       {
         "_id": "69b3b6ed1ddb43f8f434b187",
@@ -4141,8 +3822,7 @@
         "code": "guidedpentestinfrastructure",
         "title": "Guided Pentest: Infrastructure",
         "description": "Understand the steps involved in a real-life pentest and follow them to compromise your target.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6989b1062386d3517f652edd-1778494472489",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6989b1062386d3517f652edd-1778494472489"
       },
       {
         "_id": "69b6834e11c60a5ea2d545e7",
@@ -4150,10 +3830,9 @@
         "code": "xssintroduction",
         "title": "XSS Introduction",
         "description": "Learn to detect and exploit XSS to control visitors’ browsers.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/691e303c8bb7e99b93a58132-1775464376816",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/691e303c8bb7e99b93a58132-1775464376816",
         "freeToUse": false,
-        "difficulty": "medium",
-        "tagDocsV2": []
+        "difficulty": "medium"
       },
       {
         "_id": "69bb77c5a0b90a8cdb4260f4",
@@ -4163,8 +3842,7 @@
         "code": "sqlinjectionintroduction",
         "title": "SQL Injection Introduction",
         "description": "Learn how to detect and exploit SQL Injection vulnerabilities.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6808d44047ac5684351c94da-1779110941603",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6808d44047ac5684351c94da-1779110941603"
       },
       {
         "_id": "69c2381f98005f8d89c1e7fe",
@@ -4174,8 +3852,7 @@
         "code": "guidedpentestweb",
         "title": "Guided Pentest: Web",
         "description": "Learn web app pentesting by chaining vulnerabilities from recon to full server compromise.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1779358981056",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1779358981056"
       },
       {
         "_id": "69d00b20ae468a4bbeba28c8",
@@ -4185,8 +3862,7 @@
         "code": "webserverattacks",
         "title": "Web Server Attacks - I",
         "description": "Enumerate and identify misconfigurations across Apache, Nginx, Node.js, and Python HTTP Server.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1777538452278",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1777538452278"
       },
       {
         "_id": "69d11794a4b37712cfb0bdc4",
@@ -4196,8 +3872,7 @@
         "code": "aithreatmodellingassessment",
         "title": "AI Threat Modelling Assessment",
         "description": "Put your AI threat modelling skills to the test using an interactive assessment application.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1775755617179",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1775755617179"
       },
       {
         "_id": "69d65e3c1f606a19e2c00d3b",
@@ -4207,8 +3882,7 @@
         "code": "aisecuritypathticketingevent",
         "title": "AI Security Path Ticketing Event",
         "description": "Learn all you need to know about how to engage with the AI Security Path launch event!",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/6228f0d4ca8e57005149c3e3-1776095593200",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6228f0d4ca8e57005149c3e3-1776095593200"
       },
       {
         "_id": "69e0aca951ee0f910abb4a2d",
@@ -4218,8 +3892,7 @@
         "code": "webserverattacks2",
         "title": "Web Server Attacks  - II",
         "description": "Attack IIS through fingerprinting, tilde enumeration, WebDAV shell upload, and learn automation.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1778159493675",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1778159493675"
       },
       {
         "_id": "69ea7065e887c835da690aca",
@@ -4229,8 +3902,7 @@
         "code": "modernwebstacks",
         "title": "Modern Web Stacks",
         "description": "Four web stacks, four CVEs: fingerprint MERN, Next.js, Django, and LAMP, then exploit each one.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/62a7685ca6e7ce005d3f3afe-1778596912702",
-        "tagDocsV2": []
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1778596912702"
       },
       {
         "_id": "69f9b8722dff1c053d60bbe2",
@@ -4238,13 +3910,12 @@
         "code": "contentdiscoveryx",
         "title": "Content Discovery",
         "description": "Discover hidden web content using manual techniques, OSINT, and Gobuster enumeration.",
-        "imageURL": "https://tryhackme-images.s3.amazonaws.com/room-icons/691e303c8bb7e99b93a58132-1778746486881",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/691e303c8bb7e99b93a58132-1778746486881",
         "freeToUse": true,
-        "difficulty": "easy",
-        "tagDocsV2": []
+        "difficulty": "easy"
       }
     ],
-    "totalDocs": 339,
+    "totalDocs": 340,
     "limit": 500,
     "page": 1,
     "totalPages": 1,
@@ -4254,5 +3925,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-07-05T20:39:25.085Z"
+  "_fetchedAt": "2026-07-10T18:00:07.210Z"
 }

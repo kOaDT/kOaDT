@@ -120,7 +120,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13299 | 1% | 692 days |
+| #13257 | 1% | 697 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -185,7 +185,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (339)</b></summary>
+<summary><b>TryHackMe Completed Rooms (340)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -428,7 +428,7 @@
 | 236 | [Attacking ECB Oracles](https://tryhackme.com/room/attackingecboracles) | hard |
 | 237 | [Next.js: CVE-2025-29927](https://tryhackme.com/room/nextjscve202529927) | easy |
 | 238 | [SOC Metrics and Objectives](https://tryhackme.com/room/socmetricsobjectives) | easy |
-| 239 | [AI/ML Security Threats](https://tryhackme.com/room/aimlsecuritythreats) | easy |
+| 239 | [The Building Blocks of AI](https://tryhackme.com/room/aimlsecuritythreats) | easy |
 | 240 | [CAPTCHApocalypse](https://tryhackme.com/room/captchapocalypse) | medium |
 | 241 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokK) | easy |
 | 242 | [Erlang/OTP SSH: CVE-2025-32433](https://tryhackme.com/room/erlangotpsshcve202532433) | easy |
@@ -498,37 +498,38 @@
 | 306 | [Windows CLI Basics](https://tryhackme.com/room/windowsclibasics) | easy |
 | 307 | [The CIA Triad](https://tryhackme.com/room/theciatriad) | easy |
 | 308 | [Database SQL Basics](https://tryhackme.com/room/databasesqlbasics) | easy |
-| 309 | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | easy |
-| 310 | [Client-Server Basics](https://tryhackme.com/room/clientserverbasics) | easy |
-| 311 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
-| 312 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
-| 313 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
-| 314 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
-| 315 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
-| 316 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
-| 317 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12l39) | easy |
-| 318 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroez) | info |
-| 319 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
-| 320 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
-| 321 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
-| 322 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
-| 323 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
-| 324 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
-| 325 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
-| 326 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
-| 327 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
-| 328 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
-| 329 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
-| 330 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
-| 331 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
-| 332 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
-| 333 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 334 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
-| 335 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 336 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
-| 337 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
-| 338 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
-| 339 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 309 | [Recruit](https://tryhackme.com/room/recruitwebchallenge) | medium |
+| 310 | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | easy |
+| 311 | [Client-Server Basics](https://tryhackme.com/room/clientserverbasics) | easy |
+| 312 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
+| 313 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
+| 314 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
+| 315 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
+| 316 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
+| 317 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
+| 318 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12l39) | easy |
+| 319 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroez) | info |
+| 320 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
+| 321 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
+| 322 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
+| 323 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
+| 324 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
+| 325 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
+| 326 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
+| 327 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
+| 328 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
+| 329 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
+| 330 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
+| 331 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
+| 332 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
+| 333 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
+| 334 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 335 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
+| 336 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 337 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 338 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
+| 339 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 340 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
 
 </details>
 <!-- THM_ROOMS_END -->

@@ -122,7 +122,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13548 | 1% | 721 days |
+| #13207 | 1% | 724 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -187,7 +187,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (334)</b></summary>
+<summary><b>TryHackMe Completed Rooms (341)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -524,8 +524,15 @@
 | 330 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
 | 331 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
 | 332 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
-| 333 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
-| 334 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 333 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
+| 334 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 335 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 336 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
+| 337 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
+| 338 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
+| 339 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
+| 340 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
+| 341 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
 
 </details>
 <!-- THM_ROOMS_END -->

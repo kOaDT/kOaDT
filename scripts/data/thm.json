@@ -15,19 +15,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 30186,
+    "totalPoints": 30558,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
-    "completedRoomsNumber": 334,
-    "streak": 721,
-    "rank": 13548,
+    "completedRoomsNumber": 341,
+    "streak": 724,
+    "rank": 13207,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "silver",
     "capabilityScore": {
-      "value": 68.5564889793891,
+      "value": 68.27023509307675,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -3836,6 +3836,16 @@
         "imageURL": "https://cdn-images.tryhackme.com/room-icons/62a7685ca6e7ce005d3f3afe-1778159493675"
       },
       {
+        "_id": "69e5c254787042b1a86b3b80",
+        "type": "walkthrough",
+        "code": "brokenauthentication",
+        "title": "Broken Authentication",
+        "description": "Learn how to defeat logins and other authentication mechanisms to allow you access to unpermitted areas.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1779264024237",
+        "freeToUse": false,
+        "difficulty": "easy"
+      },
+      {
         "_id": "69ea7065e887c835da690aca",
         "type": "walkthrough",
         "freeToUse": false,
@@ -3854,9 +3864,69 @@
         "imageURL": "https://cdn-images.tryhackme.com/room-icons/691e303c8bb7e99b93a58132-1778746486881",
         "freeToUse": true,
         "difficulty": "easy"
+      },
+      {
+        "_id": "6a563de9049ff06dc3ed0e0f",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "code": "hh-theconciergeknows-2d7eb4d9",
+        "title": "The Concierge Knows Too Much",
+        "description": "She knows your name, your room, your coffee order, none of which you told her. Word your next question carefully and she'll also hand over the instructions she was told to keep to herself.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5e9c5d0148cf664325c8a075-1785457752559"
+      },
+      {
+        "_id": "6a563e5295ff6e89a1a8c7e1",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "code": "hh-room404-804573bf",
+        "title": "Room 404",
+        "description": "He booked the quiet room. It's not on the floor plan, not in the brochure, not on any door. But port 8080 is wide open, and the rooms it never lists are the ones worth finding.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5e9c5d0148cf664325c8a075-1785513932052"
+      },
+      {
+        "_id": "6a563ec43e60c93a35443b2c",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "code": "hh-complimentary-05e0b604",
+        "title": "Complimentary",
+        "description": "Install the free app and it hands your phone a set of cloud keys, the same set it hands everyone. They're read-only, but read-only of every guest's contacts, location, and passwords, not just Lambo's. She gave consent. Technically.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5e9c5d0148cf664325c8a075-1785767743721"
+      },
+      {
+        "_id": "6a563f898d08aa27af09d276",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "code": "hh-packedlight-02e5330c",
+        "title": "Packed Light",
+        "description": "Tiny packets. Odd hours. Suspiciously regular. Someone's smuggling out the data equivalent of a hotel towel every night, folded neatly inside traffic that looks ordinary until you decode it.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f9c7574e201fe31dad228fc-1785686770292"
+      },
+      {
+        "_id": "6a5641ac1568d12a3e88015d",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "code": "hh-beachbar-d849f7f7",
+        "title": "Beach Bar",
+        "description": "At the Beach Bar, even shell access is complimentary. The jukebox takes requests. Any kind.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785328070219"
+      },
+      {
+        "_id": "6a56425a934818040174f155",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "easy",
+        "code": "hh-overheardatbreakfast-6f01793c",
+        "title": "Overheard at Breakfast",
+        "description": "Two strangers. One conversation. One profile they never meant to reveal.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251499374"
       }
     ],
-    "totalDocs": 334,
+    "totalDocs": 341,
     "limit": 500,
     "page": 1,
     "totalPages": 1,
@@ -3866,5 +3936,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-08-03T19:45:14.931Z"
+  "_fetchedAt": "2026-08-06T08:46:37.016Z"
 }

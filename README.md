@@ -122,7 +122,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #13207 | 1% | 724 days |
+| #13056 | 1% | 725 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -187,7 +187,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (341)</b></summary>
+<summary><b>TryHackMe Completed Rooms (343)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -533,6 +533,8 @@
 | 339 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
 | 340 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
 | 341 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
+| 342 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
+| 343 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
 
 </details>
 <!-- THM_ROOMS_END -->

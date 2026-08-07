@@ -15,19 +15,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 30558,
+    "totalPoints": 30754,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
-    "completedRoomsNumber": 341,
-    "streak": 724,
-    "rank": 13207,
+    "completedRoomsNumber": 343,
+    "streak": 725,
+    "rank": 13056,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "silver",
     "capabilityScore": {
-      "value": 68.27023509307675,
+      "value": 68.29183509307674,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -3924,9 +3924,29 @@
         "title": "Overheard at Breakfast",
         "description": "Two strangers. One conversation. One profile they never meant to reveal.",
         "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251499374"
+      },
+      {
+        "_id": "6a56425e257fa31a1e946e08",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "medium",
+        "code": "hh-donotdisturb-84a45644",
+        "title": "Do Not Disturb",
+        "description": "Sign's on the door. Room's active. You have access you were never given, and so does he.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251618019"
+      },
+      {
+        "_id": "6a564261ecfe47601b639618",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "medium",
+        "code": "hh-towelonthesunbed-61271709",
+        "title": "Towel on the Sunbed",
+        "description": "Ponzi set his towel down for one 24-hour reward claim. He came back to find the sunbed had been \"claimed\" three times over while he wasn't looking.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251667401"
       }
     ],
-    "totalDocs": 341,
+    "totalDocs": 343,
     "limit": 500,
     "page": 1,
     "totalPages": 1,
@@ -3936,5 +3956,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-08-06T08:46:37.016Z"
+  "_fetchedAt": "2026-08-07T18:50:17.023Z"
 }

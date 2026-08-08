@@ -15,19 +15,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 30754,
+    "totalPoints": 30987,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
-    "completedRoomsNumber": 343,
-    "streak": 725,
-    "rank": 13056,
+    "completedRoomsNumber": 346,
+    "streak": 726,
+    "rank": 12843,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "silver",
     "capabilityScore": {
-      "value": 68.29183509307674,
+      "value": 67.41499999999999,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -3666,6 +3666,16 @@
         "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1779773270969"
       },
       {
+        "_id": "698c910b7e50d67d78e6eb82",
+        "type": "walkthrough",
+        "freeToUse": false,
+        "difficulty": "easy",
+        "code": "apitesting",
+        "title": "API Pentesting",
+        "description": "Explore how to identify and exploit common API security vulnerabilities.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1779263884488"
+      },
+      {
         "_id": "6996b15dda757919a0fceb23",
         "type": "walkthrough",
         "freeToUse": true,
@@ -3944,9 +3954,29 @@
         "title": "Towel on the Sunbed",
         "description": "Ponzi set his towel down for one 24-hour reward claim. He came back to find the sunbed had been \"claimed\" three times over while he wasn't looking.",
         "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251667401"
+      },
+      {
+        "_id": "6a56429926f3faff26d1cf38",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "medium",
+        "code": "hh-cryptocabana-f81cac95",
+        "title": "CryptoCabana",
+        "description": "He never signed the transfer. The place he stashed his secret wasn't as sealed as promised.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785218019756"
+      },
+      {
+        "_id": "6a5642a07548a5f993037001",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "medium",
+        "code": "hh-thehollowshell-ddb582ac",
+        "title": "The Hollow Shell",
+        "description": "You find it on the beach: pretty, ordinary, the kind of thing nobody thinks to check. Slip something inside and hold it to your ear.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251823751"
       }
     ],
-    "totalDocs": 343,
+    "totalDocs": 346,
     "limit": 500,
     "page": 1,
     "totalPages": 1,
@@ -3956,5 +3986,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-08-07T18:50:17.023Z"
+  "_fetchedAt": "2026-08-08T17:21:20.530Z"
 }

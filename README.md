@@ -122,7 +122,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #12843 | 1% | 726 days |
+| #12704 | 1% | 728 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -187,7 +187,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (346)</b></summary>
+<summary><b>TryHackMe Completed Rooms (348)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -538,6 +538,8 @@
 | 344 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
 | 345 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
 | 346 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
+| 347 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
+| 348 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
 
 </details>
 <!-- THM_ROOMS_END -->

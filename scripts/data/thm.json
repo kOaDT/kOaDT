@@ -15,19 +15,19 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 30987,
+    "totalPoints": 31220,
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
-    "completedRoomsNumber": 346,
-    "streak": 726,
-    "rank": 12843,
+    "completedRoomsNumber": 348,
+    "streak": 728,
+    "rank": 12704,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
-    "leagueTier": "silver",
+    "leagueTier": "gold",
     "capabilityScore": {
-      "value": 67.41499999999999,
+      "value": 67.4434,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -3974,9 +3974,29 @@
         "title": "The Hollow Shell",
         "description": "You find it on the beach: pretty, ordinary, the kind of thing nobody thinks to check. Slip something inside and hold it to your ear.",
         "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251823751"
+      },
+      {
+        "_id": "6a5642a4950973d86f34054a",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "medium",
+        "code": "hh-infinitypool-5b3548af",
+        "title": "Infinity Pool",
+        "description": "No visible edge. You trace the network to the horizon and find three systems nobody told you about on the other side.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251854806"
+      },
+      {
+        "_id": "6a5642a9497f87cca4843be8",
+        "type": "challenge",
+        "freeToUse": true,
+        "difficulty": "medium",
+        "code": "hh-afterhours-b090d1f0",
+        "title": "After Hours",
+        "description": "Bar closed. Guests asleep. Something on the network just clocked in for a shift off the rotation.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5dbea226085ab6182a2ee0f7-1785251914578"
       }
     ],
-    "totalDocs": 346,
+    "totalDocs": 348,
     "limit": 500,
     "page": 1,
     "totalPages": 1,
@@ -3986,5 +4006,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-08-08T17:21:20.530Z"
+  "_fetchedAt": "2026-08-10T17:21:12.229Z"
 }

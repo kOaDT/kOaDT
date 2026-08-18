@@ -682,3 +682,11 @@
 
 </details>
 <!-- CERTIFICATES_END -->
+
+<br>
+
+<div align="center">
+
+<img src="https://koadt.github.io/oss-oopssec-store/badges/koadt.png" alt="OSS OopsSec Store badge">
+
+</div>

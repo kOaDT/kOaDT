@@ -19,15 +19,15 @@
     "displayedCertificateTypes": [],
     "badgesNumber": 49,
     "completedRoomsNumber": 350,
-    "streak": 735,
-    "rank": 12512,
+    "streak": 739,
+    "rank": 12581,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "gold",
     "capabilityScore": {
-      "value": 70.82379999999999,
+      "value": 70.5413725886619,
       "pov": "blue"
     },
     "dateSignUp": "2023-11-30T07:16:27.247Z"
@@ -4026,5 +4026,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-08-17T15:49:10.493Z"
+  "_fetchedAt": "2026-08-21T15:33:12.898Z"
 }

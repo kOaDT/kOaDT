@@ -15,17 +15,18 @@
 <br>
 
 
-<!-- CVE_REPORTED_START -->
+<!-- VULNERABILITIES_START -->
 <details>
-<summary><b>CVE Reported (1)</b></summary>
+<summary><b>Vulnerabilities Reported (2)</b></summary>
 <br>
 
-| CVE | Score | Date | Description |
-|:----|:------|:-----|:------------|
-| [CVE-2026-32255](https://github.com/kanbn/kan/security/advisories/GHSA-qrx8-9hc6-jvqg) | 8.6 | 2026-03-19 | Kan is an open-source project management tool. In versions 0.5.4 and below, the /api/download/attatchment endpoint has no authentication and no URL validation. The Attachment Download endpoint accepts a user-supplied URL query parameter and passes it directly to fetch() server-side, and returns the full response body. An unauthenticated attacker can use this to make HTTP requests from the server to internal services, cloud metadata endpoints, or private network resources. This issue has been fixed in version 0.5.5. To workaround this issue, block or restrict access to /api/download/attatchment at the reverse proxy level (nginx, Cloudflare, etc.). |
+| Advisory | CVE | Severity | Date | Summary |
+|:---------|:----|:---------|:-----|:--------|
+| [GHSA-g747-7v24-2w4v](https://github.com/usebruno/bruno/security/advisories/GHSA-g747-7v24-2w4v) | - | Medium | 2026-08-21 | OAuth2 state parameter is not validated on callback, allowing authorization code injection |
+| [GHSA-qrx8-9hc6-jvqg](https://github.com/kanbn/kan/security/advisories/GHSA-qrx8-9hc6-jvqg) | CVE-2026-32255 | High (8.6) | 2026-03-18 | Unauthenticated SSRF in attachment download endpoint |
 
 </details>
-<!-- CVE_REPORTED_END -->
+<!-- VULNERABILITIES_END -->
 
 <!-- POC_CVE_START -->
 <details>

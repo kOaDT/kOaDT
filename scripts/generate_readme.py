@@ -21,7 +21,7 @@ README_FILE = "README.md"
 SECTIONS = {
     "stats": ("<!-- THM_STATS_START -->", "<!-- THM_STATS_END -->"),
     "projects": ("<!-- PROJECTS_START -->", "<!-- PROJECTS_END -->"),
-    "cve_reported": ("<!-- CVE_REPORTED_START -->", "<!-- CVE_REPORTED_END -->"),
+    "vulnerabilities": ("<!-- VULNERABILITIES_START -->", "<!-- VULNERABILITIES_END -->"),
     "poc_cve": ("<!-- POC_CVE_START -->", "<!-- POC_CVE_END -->"),
     "oss": ("<!-- OSS_START -->", "<!-- OSS_END -->"),
     "publications": ("<!-- PUBLICATIONS_START -->", "<!-- PUBLICATIONS_END -->"),
@@ -68,6 +68,11 @@ def fetch_private_json(filename):
 
 def fmt(value):
     return str(value) if value else "-"
+
+
+def md_cell(text):
+    """Make free-form text safe to drop into a Markdown table cell."""
+    return " ".join((text or "").split()).replace("|", "\\|")
 
 
 def build_stats(profile):
@@ -129,7 +134,9 @@ def build_projects(data):
     return "\n".join(lines)
 
 
-def build_cve_reported(data):
+def build_vulnerabilities(data):
+    """Reported vulnerabilities, GHSA-first: the advisory is what gets filed, and
+    a CVE is an administrative consequence that is sometimes never assigned."""
     if not data:
         return ""
     items = data.get("items", [])
@@ -138,25 +145,27 @@ def build_cve_reported(data):
 
     lines = [
         "<details>",
-        f"<summary><b>CVE Reported ({len(items)})</b></summary>",
+        f"<summary><b>Vulnerabilities Reported ({len(items)})</b></summary>",
         "<br>",
         "",
-        "| CVE | Score | Date | Description |",
-        "|:----|:------|:-----|:------------|",
+        "| Advisory | CVE | Severity | Date | Summary |",
+        "|:---------|:----|:---------|:-----|:--------|",
     ]
     for item in items:
-        cve_id = item.get("cveId", "")
-        desc = item.get("description", "")
+        ghsa_id = item.get("ghsaId") or ""
+        url = item.get("advisoryUrl") or ""
+        advisory = f"[{ghsa_id}]({url})" if ghsa_id and url else (ghsa_id or "-")
+
         cvss = item.get("cvss")
-        published = item.get("published", "")
-        refs = item.get("references", [])
-        advisory = next((r["url"] for r in refs if "advisories" in r.get("url", "")), "")
-        if not advisory and refs:
-            advisory = refs[0].get("url", "")
-        cve_link = f"[{cve_id}]({advisory})" if advisory else cve_id
-        cvss_str = f"{cvss:.1f}" if isinstance(cvss, (int, float)) else str(cvss or "")
-        date_str = published[:10] if published else ""
-        lines.append(f"| {cve_link} | {cvss_str} | {date_str} | {desc} |")
+        severity = item.get("severity") or "-"
+        if isinstance(cvss, (int, float)):
+            severity = f"{severity} ({cvss:.1f})"
+
+        summary = md_cell(item.get("title") or item.get("description"))
+        lines.append(
+            f"| {advisory} | {fmt(item.get('cveId'))} | {severity} "
+            f"| {item.get('published', '')} | {summary} |"
+        )
     lines.append("")
     lines.append("</details>")
     return "\n".join(lines)
@@ -379,7 +388,7 @@ def main():
 
     print("Fetching portfolio data...")
     github_repos = fetch_private_json("github-repos.json")
-    cve_reported = fetch_private_json("cve-discoveries.json")
+    vulnerabilities = fetch_private_json("vulnerabilities.json")
     poc_cve = fetch_private_json("poc-cve-repos.json")
     oss_contributions = fetch_private_json("oss-contributions.json")
     publications = fetch_private_json("publications.json")
@@ -389,7 +398,7 @@ def main():
     snippets = {
         "stats": build_stats(profile),
         "projects": build_projects(github_repos) if github_repos is not None else None,
-        "cve_reported": build_cve_reported(cve_reported) if cve_reported is not None else None,
+        "vulnerabilities": build_vulnerabilities(vulnerabilities) if vulnerabilities is not None else None,
         "poc_cve": build_poc_cve(poc_cve) if poc_cve is not None else None,
         "oss": build_oss(oss_contributions) if oss_contributions is not None else None,
         "publications": build_publications(publications) if publications is not None else None,

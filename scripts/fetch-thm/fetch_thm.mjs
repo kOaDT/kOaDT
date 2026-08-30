@@ -25,10 +25,26 @@ const USERNAME = "kOaDT";
 const USER_MONGO_ID = "656836cbd2d9d3b0e689a7d1";
 const BASE = "https://tryhackme.com/api/v2";
 
+// The API caps `limit` at 200 (a bigger value is rejected with
+// "limit parameter is invalid"), so the paginated endpoints are walked page by
+// page and their `docs` arrays are merged.
+const PAGE_LIMIT = 200;
+const MAX_PAGES = 50; // safety net against a broken pagination loop
+
 const ENDPOINTS = {
-  profile: `${BASE}/public-profile?username=${USERNAME}`,
-  badges: `${BASE}/public-profile/badges?user=${USER_MONGO_ID}&limit=100`,
-  rooms: `${BASE}/public-profile/completed-rooms?user=${USER_MONGO_ID}&limit=500`,
+  profile: {
+    url: () => `${BASE}/public-profile?username=${USERNAME}`,
+  },
+  badges: {
+    paginated: true,
+    url: (page) =>
+      `${BASE}/public-profile/badges?user=${USER_MONGO_ID}&limit=${PAGE_LIMIT}&page=${page}`,
+  },
+  rooms: {
+    paginated: true,
+    url: (page) =>
+      `${BASE}/public-profile/completed-rooms?user=${USER_MONGO_ID}&limit=${PAGE_LIMIT}&page=${page}`,
+  },
 };
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -67,6 +83,42 @@ async function fetchEndpoint(page, name, url, { attempts = 5 } = {}) {
   throw new Error(`Failed to fetch ${name} (${url}) after ${attempts} attempts`);
 }
 
+/** Walk every page of a paginated endpoint and merge the `docs` arrays. */
+async function fetchAllPages(page, name, urlFor) {
+  let merged = null;
+
+  for (let n = 1; n <= MAX_PAGES; n++) {
+    const chunk = await fetchEndpoint(page, `${name} p${n}`, urlFor(n));
+    const docs = chunk.docs ?? [];
+
+    if (!merged) {
+      merged = { ...chunk, docs: [...docs] };
+    } else {
+      merged.docs.push(...docs);
+    }
+
+    const totalPages = chunk.totalPages ?? 1;
+    if (!chunk.hasNextPage || n >= totalPages || docs.length === 0) break;
+
+    if (n === MAX_PAGES) {
+      console.warn(`  [${name}] stopped at the ${MAX_PAGES}-page safety cap`);
+    }
+  }
+
+  // Report the merged result rather than the last page's window.
+  return {
+    ...merged,
+    limit: merged.docs.length,
+    page: 1,
+    totalPages: 1,
+    pagingCounter: 1,
+    hasPrevPage: false,
+    hasNextPage: false,
+    prevPage: null,
+    nextPage: null,
+  };
+}
+
 async function main() {
   console.log("Launching browser (residential IP needed to pass the challenge)...");
   const browser = await puppeteer.launch({
@@ -82,16 +134,18 @@ async function main() {
 
     // First navigation lets Chromium solve the Vercel challenge and get the cookie.
     console.log("Solving Vercel challenge...");
-    await page.goto(ENDPOINTS.profile, {
+    await page.goto(ENDPOINTS.profile.url(), {
       waitUntil: "domcontentloaded",
       timeout: 60000,
     });
     await sleep(6000);
 
     const data = {};
-    for (const [name, url] of Object.entries(ENDPOINTS)) {
+    for (const [name, endpoint] of Object.entries(ENDPOINTS)) {
       console.log(`Fetching ${name}...`);
-      data[name] = await fetchEndpoint(page, name, url);
+      data[name] = endpoint.paginated
+        ? await fetchAllPages(page, name, endpoint.url)
+        : await fetchEndpoint(page, name, endpoint.url());
     }
 
     data._fetchedAt = new Date().toISOString();

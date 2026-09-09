@@ -19,14 +19,14 @@
     "displayedCertificateTypes": [],
     "badgesNumber": 50,
     "completedRoomsNumber": 351,
-    "streak": 755,
-    "largestStreak": 755,
-    "rank": 12777,
+    "streak": 758,
+    "largestStreak": 758,
+    "rank": 12826,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
-    "leagueTier": "gold",
+    "leagueTier": "silver",
     "capabilityScore": {
       "value": 72.74,
       "pov": "blue"
@@ -266,7 +266,7 @@
       {
         "_id": "64ff079704e4d04278086827",
         "name": "intro-to-security-engineering",
-        "image": "https://assets.tryhackme.com/img/badges/introtosecurityengineering.png",
+        "image": "https://assets.tryhackme.com/img/badges/introtosecurityengineering.svg",
         "title": "Introduction to Security Engineering",
         "description": "Completed the Security Engineer Intro room!",
         "earnedAt": "2025-05-05T15:21:36.669Z",
@@ -778,6 +778,27 @@
           "Penetration testing",
           "Network penetration testing",
           "Red teaming"
+        ]
+      },
+      {
+        "_id": "5e4c7a9d21bd5359f72e2b76",
+        "title": "Hydra",
+        "code": "hydra",
+        "description": "Learn about and use Hydra, a fast network logon cracker, to bruteforce and obtain a website's credentials. ",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/69208399c3fe8b0416103c51e291e117.png",
+        "difficulty": "easy",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 45,
+        "povTags": [
+          "Red"
+        ],
+        "technologyTags": [
+          "Linux",
+          "Hydra",
+          "Network penetration testing",
+          "Red teaming",
+          "Penetration testing"
         ]
       },
       {
@@ -2146,28 +2167,6 @@
           "Penetration testing",
           "Network traffic analysis",
           "Packet analysis"
-        ]
-      },
-      {
-        "_id": "620130a70ce89a00424cf2eb",
-        "title": "Threat Intelligence Tools",
-        "code": "threatinteltools",
-        "description": "Explore different OSINT tools used to conduct security threat assessments and investigations.",
-        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575413195",
-        "difficulty": "easy",
-        "freeToUse": true,
-        "type": "walkthrough",
-        "timeToComplete": 60,
-        "povTags": [
-          "Blue"
-        ],
-        "technologyTags": [
-          "Web",
-          "URLScan.io",
-          "ThreatFox",
-          "Phishtool",
-          "Cisco Talos Intelligence",
-          "Threat modelling"
         ]
       },
       {
@@ -5079,6 +5078,28 @@
         ]
       },
       {
+        "_id": "620130a70ce89a00424cf2eb",
+        "title": "Threat Intelligence Tools",
+        "code": "threatinteltools",
+        "description": "Explore different OSINT tools used to conduct security threat assessments and investigations.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/66704dd0e54a1f39bff7b1a1-1735575413195",
+        "difficulty": "easy",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 60,
+        "povTags": [
+          "Blue"
+        ],
+        "technologyTags": [
+          "Web",
+          "URLScan.io",
+          "ThreatFox",
+          "Phishtool",
+          "Cisco Talos Intelligence",
+          "Threat modelling"
+        ]
+      },
+      {
         "_id": "6247df790e24e0004acb12fc",
         "title": "Spring4Shell: CVE-2022-22965",
         "code": "spring4shell",
@@ -7505,8 +7526,8 @@
         ]
       }
     ],
-    "totalDocs": 351,
-    "limit": 351,
+    "totalDocs": 352,
+    "limit": 352,
     "page": 1,
     "totalPages": 1,
     "nextPage": null,
@@ -7515,5 +7536,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-09-06T22:29:59.178Z"
+  "_fetchedAt": "2026-09-09T18:55:01.613Z"
 }

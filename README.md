@@ -124,7 +124,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #12849 | 1% | 760 days |
+| #12919 | 1% | 767 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -190,7 +190,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (352)</b></summary>
+<summary><b>TryHackMe Completed Rooms (353)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -503,50 +503,51 @@
 | 306 | [Recruit](https://tryhackme.com/room/recruitwebchallenge) | medium |
 | 307 | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | easy |
 | 308 | [Client-Server Basics](https://tryhackme.com/room/clientserverbasics) | easy |
-| 309 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
-| 310 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
-| 311 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
-| 312 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
-| 313 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
-| 314 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
-| 315 | [Support](https://tryhackme.com/room/support) | medium |
-| 316 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
-| 317 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
-| 318 | [API Pentesting](https://tryhackme.com/room/apitesting) | easy |
-| 319 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
-| 320 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
-| 321 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
-| 322 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
-| 323 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
-| 324 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
-| 325 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
-| 326 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
-| 327 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
-| 328 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
-| 329 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
-| 330 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
-| 331 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 332 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
-| 333 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 334 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
-| 335 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
-| 336 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
-| 337 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
-| 338 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
-| 339 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
-| 340 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
-| 341 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
-| 342 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
-| 343 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
-| 344 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
-| 345 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
-| 346 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
-| 347 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
-| 348 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
-| 349 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
-| 350 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
-| 351 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
-| 352 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
+| 309 | [Understanding Vulnerability Databases](https://tryhackme.com/room/understandingvulnerabilitydatabases) | easy |
+| 310 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
+| 311 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
+| 312 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
+| 313 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
+| 314 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
+| 315 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
+| 316 | [Support](https://tryhackme.com/room/support) | medium |
+| 317 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
+| 318 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
+| 319 | [API Pentesting](https://tryhackme.com/room/apitesting) | easy |
+| 320 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
+| 321 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
+| 322 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
+| 323 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
+| 324 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
+| 325 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
+| 326 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
+| 327 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
+| 328 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
+| 329 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
+| 330 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
+| 331 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
+| 332 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 333 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
+| 334 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 335 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 336 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
+| 337 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
+| 338 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 339 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 340 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
+| 341 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
+| 342 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
+| 343 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
+| 344 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
+| 345 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
+| 346 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
+| 347 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
+| 348 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
+| 349 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
+| 350 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
+| 351 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
+| 352 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
+| 353 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
 
 </details>
 <!-- THM_ROOMS_END -->

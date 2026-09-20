@@ -15,20 +15,20 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 31647,
+    "totalPoints": 31751,
     "displayedCertificateTypes": [],
     "badgesNumber": 50,
-    "completedRoomsNumber": 352,
-    "streak": 767,
-    "largestStreak": 767,
-    "rank": 12919,
+    "completedRoomsNumber": 353,
+    "streak": 769,
+    "largestStreak": 769,
+    "rank": 12839,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "bronze",
     "capabilityScore": {
-      "value": 70.46,
+      "value": 70.46534983046101,
       "pov": "blue"
     },
     "isPrivateProfile": false,
@@ -7105,6 +7105,24 @@
         ]
       },
       {
+        "_id": "69bbcfaeca986bc5db93e493",
+        "title": "Vulnerability Scanning Tools",
+        "code": "vulnerabilityscanningtools",
+        "description": "Learn about scanning tools such as Nmap, OpenVAS, and Nikto, and explore the world of pentesting.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/691e303c8bb7e99b93a58132-1774169676399",
+        "difficulty": "medium",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 60,
+        "povTags": [
+          "Red"
+        ],
+        "technologyTags": [
+          "Web",
+          "Web application security"
+        ]
+      },
+      {
         "_id": "69c2381f98005f8d89c1e7fe",
         "title": "Guided Pentest: Web",
         "code": "guidedpentestweb",
@@ -7546,8 +7564,8 @@
         ]
       }
     ],
-    "totalDocs": 353,
-    "limit": 353,
+    "totalDocs": 354,
+    "limit": 354,
     "page": 1,
     "totalPages": 1,
     "nextPage": null,
@@ -7556,5 +7574,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-09-18T18:34:38.117Z"
+  "_fetchedAt": "2026-09-20T20:24:02.016Z"
 }

@@ -124,7 +124,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #12919 | 1% | 767 days |
+| #12839 | 1% | 769 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -190,7 +190,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (353)</b></summary>
+<summary><b>TryHackMe Completed Rooms (354)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -526,28 +526,29 @@
 | 329 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
 | 330 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
 | 331 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
-| 332 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 333 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
-| 334 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 335 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
-| 336 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
-| 337 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
-| 338 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
-| 339 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
-| 340 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
-| 341 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
-| 342 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
-| 343 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
-| 344 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
-| 345 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
-| 346 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
-| 347 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
-| 348 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
-| 349 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
-| 350 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
-| 351 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
-| 352 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
-| 353 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
+| 332 | [Vulnerability Scanning Tools](https://tryhackme.com/room/vulnerabilityscanningtools) | medium |
+| 333 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 334 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
+| 335 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 336 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 337 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
+| 338 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
+| 339 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 340 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 341 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
+| 342 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
+| 343 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
+| 344 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
+| 345 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
+| 346 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
+| 347 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
+| 348 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
+| 349 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
+| 350 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
+| 351 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
+| 352 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
+| 353 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
+| 354 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
 
 </details>
 <!-- THM_ROOMS_END -->

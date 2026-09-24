@@ -15,20 +15,20 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 31767,
+    "totalPoints": 31895,
     "displayedCertificateTypes": [],
-    "badgesNumber": 50,
-    "completedRoomsNumber": 353,
-    "streak": 770,
-    "largestStreak": 770,
-    "rank": 12853,
+    "badgesNumber": 51,
+    "completedRoomsNumber": 355,
+    "streak": 773,
+    "largestStreak": 773,
+    "rank": 12744,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "silver",
     "capabilityScore": {
-      "value": 70.46534983046101,
+      "value": 71.668,
       "pov": "blue"
     },
     "isPrivateProfile": false,
@@ -513,10 +513,20 @@
         "earnedAt": "2026-09-01T07:01:49.829Z",
         "rarityTier": "epic",
         "rarityPercent": 0.2
+      },
+      {
+        "_id": "6a4d0c7f4ab183364ef9e58e",
+        "name": "noscoperce",
+        "image": "https://assets.tryhackme.com/img/badges/noscoperce.svg",
+        "title": "NoScopeRCE",
+        "description": "Completing the NoScopeRCE room",
+        "earnedAt": "2026-09-23T12:55:07.723Z",
+        "rarityTier": "epic",
+        "rarityPercent": 0.4
       }
     ],
-    "totalDocs": 50,
-    "limit": 50,
+    "totalDocs": 51,
+    "limit": 51,
     "page": 1,
     "totalPages": 1,
     "pagingCounter": 1,
@@ -7021,6 +7031,25 @@
         ]
       },
       {
+        "_id": "69af51b99feb96419171e7fc",
+        "title": "Basic Vulnerability Identification Techniques",
+        "code": "basicvulnerabilityidentificationtechniques",
+        "description": "Learn the basics of vulnerability identification techniques.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1779093691674",
+        "difficulty": "easy",
+        "freeToUse": false,
+        "type": "walkthrough",
+        "timeToComplete": 90,
+        "povTags": [
+          "Red"
+        ],
+        "technologyTags": [
+          "Web",
+          "Burp Suite",
+          "Vulnerability analysis"
+        ]
+      },
+      {
         "_id": "69b15688c6bfdefd7cac134b",
         "title": "Penetration Testing Frameworks",
         "code": "penetrationtestingframeworks",
@@ -7281,6 +7310,26 @@
           "OSINT",
           "Enumeration",
           "Brute force attacks"
+        ]
+      },
+      {
+        "_id": "6a29256e4324b449107b7ab4",
+        "title": "NoScope: Finding RCE",
+        "code": "noscoperce",
+        "description": "NoScope found an Alf.io RCE zero-day (CVE-2026-35482). Exploit it manually and watch AI solve it.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6989b1062386d3517f652edd-1782884000178",
+        "difficulty": "medium",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 60,
+        "povTags": [
+          "Red"
+        ],
+        "technologyTags": [
+          "Web",
+          "Python",
+          "Web application security",
+          "AI Pentesting"
         ]
       },
       {
@@ -7564,8 +7613,8 @@
         ]
       }
     ],
-    "totalDocs": 354,
-    "limit": 354,
+    "totalDocs": 356,
+    "limit": 356,
     "page": 1,
     "totalPages": 1,
     "nextPage": null,
@@ -7574,5 +7623,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-09-22T09:54:11.244Z"
+  "_fetchedAt": "2026-09-24T21:33:36.535Z"
 }

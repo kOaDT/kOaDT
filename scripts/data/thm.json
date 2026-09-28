@@ -15,20 +15,20 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 31895,
+    "totalPoints": 32023,
     "displayedCertificateTypes": [],
     "badgesNumber": 51,
-    "completedRoomsNumber": 355,
-    "streak": 773,
-    "largestStreak": 773,
-    "rank": 12744,
+    "completedRoomsNumber": 360,
+    "streak": 777,
+    "largestStreak": 777,
+    "rank": 12694,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
-    "leagueTier": "silver",
+    "leagueTier": "gold",
     "capabilityScore": {
-      "value": 71.668,
+      "value": 71.6994,
       "pov": "blue"
     },
     "isPrivateProfile": false,
@@ -5579,6 +5579,28 @@
         ]
       },
       {
+        "_id": "6837c211b0124c93ab6a83bb",
+        "title": "AD: BadSuccessor",
+        "code": "adbadsuccessor",
+        "description": "Use the BadSuccessor attack for privilege escalation in an Active Directory environment.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5f04259cf9bf5b57aed2c476-1748536583390",
+        "difficulty": "medium",
+        "freeToUse": false,
+        "type": "walkthrough",
+        "timeToComplete": 45,
+        "povTags": [
+          "Red",
+          "Purple"
+        ],
+        "technologyTags": [
+          "Windows",
+          "Active Directory",
+          "PowerShell",
+          "Privilege escalation",
+          "Active Directory pentesting"
+        ]
+      },
+      {
         "_id": "6840318859aa5985857018c3",
         "title": "Sequence",
         "code": "sequence",
@@ -6294,6 +6316,28 @@
         "freeToUse": true,
         "type": "walkthrough",
         "timeToComplete": 60
+      },
+      {
+        "_id": "6910eb9d8579d857d2b195f5",
+        "title": "OWASP Top 10 2025: IAAA Failures",
+        "code": "owasptopten2025one",
+        "description": "Learn about A01, A07, and A09 in how they related to failures in the applied IAAA model.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/owasptopten2025one-1785241451372.png",
+        "difficulty": "easy",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 30
+      },
+      {
+        "_id": "6910ebccbbf6510418138ebd",
+        "title": "OWASP Top 10 2025: Application Design Flaws",
+        "code": "owasptopten2025two",
+        "description": "Learn about A02, A03, A06, and A10 and how they related to design flaws in the application.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/owasptopten2025two-1785241451787.png",
+        "difficulty": "easy",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 30
       },
       {
         "_id": "6910ebfda2ab0bcc10166e90",
@@ -7313,6 +7357,42 @@
         ]
       },
       {
+        "_id": "6a0829b517341bf142cac0e9",
+        "title": "CVE-2026-46300: Fragnesia",
+        "code": "cve202646300",
+        "description": "Exploit Fragnesia, an LPE that surfaced due to dirtyfrag's patch.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1778924266488",
+        "difficulty": "easy",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 30,
+        "povTags": [
+          "Purple"
+        ],
+        "technologyTags": [
+          "Linux",
+          "Privilege escalation"
+        ]
+      },
+      {
+        "_id": "6a091dedfc6b97179e91edcd",
+        "title": "CVE-2026-42945: Nginx Rift",
+        "code": "cve202642945",
+        "description": "Exploit NGINX Rift, an unauthenticated heap overflow RCE in NGINX's rewrite module since 2008.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/645b19f5d5848d004ab9c9e2-1778983895413",
+        "difficulty": "easy",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 30,
+        "povTags": [
+          "Purple"
+        ],
+        "technologyTags": [
+          "Linux",
+          "Privilege escalation"
+        ]
+      },
+      {
         "_id": "6a29256e4324b449107b7ab4",
         "title": "NoScope: Finding RCE",
         "code": "noscoperce",
@@ -7613,8 +7693,8 @@
         ]
       }
     ],
-    "totalDocs": 356,
-    "limit": 356,
+    "totalDocs": 361,
+    "limit": 361,
     "page": 1,
     "totalPages": 1,
     "nextPage": null,
@@ -7623,5 +7703,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-09-24T21:33:36.535Z"
+  "_fetchedAt": "2026-09-28T14:59:57.123Z"
 }

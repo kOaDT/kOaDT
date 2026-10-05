@@ -15,20 +15,20 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 32023,
+    "totalPoints": 32247,
     "displayedCertificateTypes": [],
     "badgesNumber": 51,
-    "completedRoomsNumber": 360,
-    "streak": 777,
-    "largestStreak": 777,
-    "rank": 12694,
+    "completedRoomsNumber": 362,
+    "streak": 784,
+    "largestStreak": 784,
+    "rank": 12577,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "gold",
     "capabilityScore": {
-      "value": 71.6994,
+      "value": 72.7152,
       "pov": "blue"
     },
     "isPrivateProfile": false,
@@ -43,7 +43,7 @@
         "title": "Networking Nerd",
         "description": "Completing the 'Network Fundamentals' module",
         "rarityTier": "common",
-        "rarityPercent": 23.8
+        "rarityPercent": 14.6
       },
       {
         "_id": "5eb1f7bf5689ac81e1141bc2",
@@ -52,7 +52,7 @@
         "title": "7 Day Streak",
         "description": "Achieving a 7 day hacking streak",
         "rarityTier": "common",
-        "rarityPercent": 26.1
+        "rarityPercent": 20.1
       },
       {
         "_id": "5e6830ca7095e6fb1e9f0520",
@@ -61,7 +61,7 @@
         "title": "Webbed",
         "description": "Understands how the world wide web works",
         "rarityTier": "common",
-        "rarityPercent": 31.8
+        "rarityPercent": 19.5
       },
       {
         "_id": "609bbc16a2323e2d0e95e057",
@@ -70,7 +70,7 @@
         "title": "World Wide Web",
         "description": "Completing the 'How The Web Works' module",
         "rarityTier": "common",
-        "rarityPercent": 25.8
+        "rarityPercent": 16
       },
       {
         "_id": "5dcee81690735abace1e4208",
@@ -79,7 +79,7 @@
         "title": "cat linux.txt",
         "description": "Being competent in Linux",
         "rarityTier": "common",
-        "rarityPercent": 51.2
+        "rarityPercent": 21
       },
       {
         "_id": "5eb1f96f5689ac81e114b568",
@@ -88,7 +88,7 @@
         "title": "30 Day Streak",
         "description": "Hacking for 30 days solid",
         "rarityTier": "rare",
-        "rarityPercent": 9.3
+        "rarityPercent": 9.6
       },
       {
         "_id": "5f1b30268b57fa13a65e3508",
@@ -96,8 +96,8 @@
         "image": "https://assets.tryhackme.com/img/badges/owasptop10.png",
         "title": "OWASP Top 10",
         "description": "Understanding every OWASP vulnerability",
-        "rarityTier": "common",
-        "rarityPercent": 13
+        "rarityTier": "rare",
+        "rarityPercent": 8
       },
       {
         "_id": "5caa74b7ea5ebc64acc86527",
@@ -106,7 +106,7 @@
         "title": "Hash Cracker",
         "description": "Cracking all those hashes",
         "rarityTier": "rare",
-        "rarityPercent": 8.5
+        "rarityPercent": 4.2
       },
       {
         "_id": "5dcef93e90735abace1ee526",
@@ -114,8 +114,8 @@
         "image": "https://assets.tryhackme.com/img/badges/metasploit.png",
         "title": "Metasploitable",
         "description": "Contains the knowledge to use Metasploit",
-        "rarityTier": "common",
-        "rarityPercent": 12.2
+        "rarityTier": "rare",
+        "rarityPercent": 8.1
       },
       {
         "_id": "5de2514490735abaceb31f8a",
@@ -123,8 +123,8 @@
         "image": "https://assets.tryhackme.com/img/badges/blue.png",
         "title": "Blue",
         "description": "Hacking into Windows via EternalBlue",
-        "rarityTier": "common",
-        "rarityPercent": 12.8
+        "rarityTier": "rare",
+        "rarityPercent": 9.6
       },
       {
         "_id": "6710f453b3eec466f102ee2d",
@@ -133,7 +133,7 @@
         "title": "Cyber Ready",
         "description": "Understanding impact of training on teams",
         "rarityTier": "rare",
-        "rarityPercent": 4.7
+        "rarityPercent": 6.8
       },
       {
         "_id": "6710f453b3eec466f102edd4",
@@ -142,7 +142,7 @@
         "title": "Sword Apprentice",
         "description": "Completing the SQLMap room",
         "rarityTier": "rare",
-        "rarityPercent": 3.7
+        "rarityPercent": 5.8
       },
       {
         "_id": "6710f453b3eec466f102ed91",
@@ -151,7 +151,7 @@
         "title": "Shield Apprentice",
         "description": "Completing the FlareVM room",
         "rarityTier": "rare",
-        "rarityPercent": 3.1
+        "rarityPercent": 4.9
       },
       {
         "_id": "604269324e64fa3891421731",
@@ -160,7 +160,7 @@
         "title": "90 Day Streak",
         "description": "Hacking for 90 days in a row",
         "rarityTier": "rare",
-        "rarityPercent": 3
+        "rarityPercent": 4.6
       },
       {
         "_id": "5ec326789b67ae77da8f045c",
@@ -169,7 +169,7 @@
         "title": "Linux PrivEsc",
         "description": "Mastering Linux Privilege Escalation",
         "rarityTier": "rare",
-        "rarityPercent": 5
+        "rarityPercent": 2
       },
       {
         "_id": "61376c68437056aee26244af",
@@ -177,8 +177,8 @@
         "image": "https://assets.tryhackme.com/img/badges/introtooffensivesecurity.png",
         "title": "Pentesting Principles",
         "description": "Completing the 'Introduction to Pentesting' module",
-        "rarityTier": "common",
-        "rarityPercent": 18.2
+        "rarityTier": "rare",
+        "rarityPercent": 6.6
       },
       {
         "_id": "615adcd2437056aee264b254",
@@ -187,7 +187,7 @@
         "title": "Intro to Web Hacking",
         "description": "Completing the 'Introduction to Web Hacking' module",
         "rarityTier": "rare",
-        "rarityPercent": 8.9
+        "rarityPercent": 4.5
       },
       {
         "_id": "674b4bc33453316093c23938",
@@ -196,7 +196,7 @@
         "title": "Advent of Cyber 2024",
         "description": "Completing Advent of Cyber 2024!",
         "rarityTier": "rare",
-        "rarityPercent": 1.6
+        "rarityPercent": 1.2
       },
       {
         "_id": "5cab1e25ea5ebc64acc98c57",
@@ -205,7 +205,7 @@
         "title": "Burp'ed",
         "description": "Completing the Burp Suite module",
         "rarityTier": "rare",
-        "rarityPercent": 9.2
+        "rarityPercent": 4.4
       },
       {
         "_id": "604269574e64fa3891424db0",
@@ -214,7 +214,7 @@
         "title": "180 Day Streak",
         "description": "Hacking for 180 days in a row",
         "rarityTier": "rare",
-        "rarityPercent": 1.4
+        "rarityPercent": 2.7
       },
       {
         "_id": "673dac718ac33c9ca997e2e0",
@@ -222,8 +222,8 @@
         "image": "https://assets.tryhackme.com/img/badges/authentication.png",
         "title": "Authentication Striker",
         "description": "Used the Hammer to bypass authentication",
-        "rarityTier": "epic",
-        "rarityPercent": 0.8
+        "rarityTier": "rare",
+        "rarityPercent": 1.2
       },
       {
         "_id": "673dac718ac33c9ca997e348",
@@ -231,8 +231,8 @@
         "image": "https://assets.tryhackme.com/img/badges/injection.png",
         "title": "SQL Slayer",
         "description": "Conquered Advanced SQL Injection",
-        "rarityTier": "epic",
-        "rarityPercent": 0.9
+        "rarityTier": "rare",
+        "rarityPercent": 1.4
       },
       {
         "_id": "673dac718ac33c9ca997e3c4",
@@ -242,7 +242,7 @@
         "description": "Completed the File Path traversal room",
         "earnedAt": "2025-03-18T16:35:20.598Z",
         "rarityTier": "epic",
-        "rarityPercent": 0.6
+        "rarityPercent": 0.9
       },
       {
         "_id": "5cb0b82cea5ebc64acd45953",
@@ -252,7 +252,7 @@
         "description": "Completing the OhSINT room",
         "earnedAt": "2025-03-30T12:26:50.327Z",
         "rarityTier": "rare",
-        "rarityPercent": 7.3
+        "rarityPercent": 4.6
       },
       {
         "_id": "673dac718ac33c9ca997e425",
@@ -262,7 +262,7 @@
         "description": "Successfully exploited client-side vulnerabilities",
         "earnedAt": "2025-04-30T15:15:49.750Z",
         "rarityTier": "epic",
-        "rarityPercent": 0.4
+        "rarityPercent": 0.7
       },
       {
         "_id": "64ff079704e4d04278086827",
@@ -272,7 +272,7 @@
         "description": "Completed the Security Engineer Intro room!",
         "earnedAt": "2025-05-05T15:21:36.669Z",
         "rarityTier": "rare",
-        "rarityPercent": 5.5
+        "rarityPercent": 4.8
       },
       {
         "_id": "64ff079704e4d0427808688c",
@@ -282,7 +282,7 @@
         "description": "Completed the Risk Management room! ",
         "earnedAt": "2025-06-09T17:19:05.143Z",
         "rarityTier": "rare",
-        "rarityPercent": 1.8
+        "rarityPercent": 1.7
       },
       {
         "_id": "688c94222f6d4c3f0120a44f",
@@ -292,7 +292,7 @@
         "description": "Achieving a 3 day hacking streak",
         "earnedAt": "2025-08-01T12:52:11.955Z",
         "rarityTier": "common",
-        "rarityPercent": 15.4
+        "rarityPercent": 33
       },
       {
         "_id": "64ff079704e4d042780868e6",
@@ -321,8 +321,8 @@
         "title": "365 Day Streak",
         "description": "Hacking for 365 days in a row",
         "earnedAt": "2025-08-12T15:23:12.501Z",
-        "rarityTier": "epic",
-        "rarityPercent": 0.6
+        "rarityTier": "rare",
+        "rarityPercent": 1.1
       },
       {
         "_id": "65dd14d176ff45e75fbe18a8",
@@ -352,7 +352,7 @@
         "description": "Participating in Hack2Win 2025!",
         "earnedAt": "2025-09-11T14:24:55.602Z",
         "rarityTier": "rare",
-        "rarityPercent": 2.6
+        "rarityPercent": 3.3
       },
       {
         "_id": "65dd14d176ff45e75fbe1903",
@@ -361,8 +361,8 @@
         "title": "/opt/m0th3r",
         "description": "Finishing Mother’s Secret!",
         "earnedAt": "2025-09-11T15:29:50.297Z",
-        "rarityTier": "epic",
-        "rarityPercent": 0.7
+        "rarityTier": "rare",
+        "rarityPercent": 1
       },
       {
         "_id": "66a0e4526149ee4eb8ea172c",
@@ -372,7 +372,7 @@
         "description": "Finishing the Eviction challenge!",
         "earnedAt": "2025-10-20T15:14:37.844Z",
         "rarityTier": "rare",
-        "rarityPercent": 3.5
+        "rarityPercent": 4.7
       },
       {
         "_id": "6909e5b4c0995784e118dbb9",
@@ -382,7 +382,7 @@
         "description": "Explored emerging threats and SOC response",
         "earnedAt": "2025-11-05T16:38:23.455Z",
         "rarityTier": "rare",
-        "rarityPercent": 3.2
+        "rarityPercent": 6.9
       },
       {
         "_id": "6909e5ddc0995784e118dbba",
@@ -392,7 +392,7 @@
         "description": "Explored how a SOC team operates from inside",
         "earnedAt": "2025-11-17T16:28:15.799Z",
         "rarityTier": "rare",
-        "rarityPercent": 2.5
+        "rarityPercent": 5.7
       },
       {
         "_id": "689b0a0f12639e1031d12418",
@@ -402,7 +402,7 @@
         "description": "Closing your first alert",
         "earnedAt": "2025-11-17T16:35:39.795Z",
         "rarityTier": "rare",
-        "rarityPercent": 3.5
+        "rarityPercent": 6.9
       },
       {
         "_id": "689b2ebb12639e1031d12422",
@@ -412,7 +412,7 @@
         "description": "Completing your first scenario",
         "earnedAt": "2025-11-17T16:38:45.865Z",
         "rarityTier": "rare",
-        "rarityPercent": 2.8
+        "rarityPercent": 5.5
       },
       {
         "_id": "689b0a0f12639e1031d1241a",
@@ -422,7 +422,7 @@
         "description": "Achieving 100% true positive rate in a scenario",
         "earnedAt": "2025-11-17T16:38:45.974Z",
         "rarityTier": "rare",
-        "rarityPercent": 2.4
+        "rarityPercent": 4.5
       },
       {
         "_id": "64638b2e2a97f1193eeb0471",
@@ -431,8 +431,8 @@
         "title": "500 Day Streak",
         "description": "Hacking for 500 days in a row",
         "earnedAt": "2025-12-24T23:37:30.764Z",
-        "rarityTier": "rare",
-        "rarityPercent": 1
+        "rarityTier": "epic",
+        "rarityPercent": 0.7
       },
       {
         "_id": "6925f732fc85926c5b537072",
@@ -442,7 +442,7 @@
         "description": "Adept in creating custom offensive tooling",
         "earnedAt": "2026-01-13T16:00:38.245Z",
         "rarityTier": "epic",
-        "rarityPercent": 0.1
+        "rarityPercent": 0.2
       },
       {
         "_id": "696640ef5e072f24726d736d",
@@ -452,7 +452,7 @@
         "description": "Completing Advent of Cyber 2025!",
         "earnedAt": "2026-01-13T16:00:38.344Z",
         "rarityTier": "rare",
-        "rarityPercent": 1.8
+        "rarityPercent": 2.6
       },
       {
         "_id": "6925f732fc85926c5b537074",
@@ -462,7 +462,7 @@
         "description": "Completed the LLM Attacks Module",
         "earnedAt": "2026-01-28T15:44:48.498Z",
         "rarityTier": "epic",
-        "rarityPercent": 0.3
+        "rarityPercent": 0.6
       },
       {
         "_id": "69944f5e75f7afeae11ee33f",
@@ -472,7 +472,7 @@
         "description": "Completing 4 weekly missions in a row!",
         "earnedAt": "2026-03-06T15:45:00.482Z",
         "rarityTier": "rare",
-        "rarityPercent": 1.5
+        "rarityPercent": 4.7
       },
       {
         "_id": "6207c237437056aee2f545dd",
@@ -482,7 +482,7 @@
         "description": "Completing the cyber security awareness module",
         "earnedAt": "2026-03-29T10:28:27.911Z",
         "rarityTier": "rare",
-        "rarityPercent": 4.7
+        "rarityPercent": 3.1
       },
       {
         "_id": "6877c377c8540a1bc8df8bda",
@@ -491,8 +491,8 @@
         "title": "Adversarial Defence Ops",
         "description": "Trained to Defend, Built to Learn.",
         "earnedAt": "2026-04-23T12:50:50.007Z",
-        "rarityTier": "epic",
-        "rarityPercent": 0.6
+        "rarityTier": "rare",
+        "rarityPercent": 1.4
       },
       {
         "_id": "69f1c6caff2404f889c7f1d3",
@@ -502,7 +502,7 @@
         "description": "Taking part in the AI Odyssey event!",
         "earnedAt": "2026-05-19T15:22:50.603Z",
         "rarityTier": "epic",
-        "rarityPercent": 0.4
+        "rarityPercent": 0.8
       },
       {
         "_id": "64638bd62a97f1193eedf486",
@@ -512,7 +512,7 @@
         "description": "Hacking for 750 days in a row",
         "earnedAt": "2026-09-01T07:01:49.829Z",
         "rarityTier": "epic",
-        "rarityPercent": 0.2
+        "rarityPercent": 0.3
       },
       {
         "_id": "6a4d0c7f4ab183364ef9e58e",
@@ -521,8 +521,8 @@
         "title": "NoScopeRCE",
         "description": "Completing the NoScopeRCE room",
         "earnedAt": "2026-09-23T12:55:07.723Z",
-        "rarityTier": "epic",
-        "rarityPercent": 0.4
+        "rarityTier": "rare",
+        "rarityPercent": 1.4
       }
     ],
     "totalDocs": 51,
@@ -5746,6 +5746,30 @@
         ]
       },
       {
+        "_id": "689c9cdd3124287d64fd3e6a",
+        "title": "Introduction to Wordlists",
+        "code": "introductiontowordlists",
+        "description": "Learn to build targeted wordlists using OSINT and apply them in penetration testing.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6808d44047ac5684351c94da-1777417887997",
+        "difficulty": "easy",
+        "freeToUse": false,
+        "type": "walkthrough",
+        "timeToComplete": 60,
+        "povTags": [
+          "Red"
+        ],
+        "technologyTags": [
+          "Linux",
+          "Hydra",
+          "CeWL",
+          "Crunch",
+          "ffuf",
+          "Application penetration testing",
+          "OSINT",
+          "Web application security"
+        ]
+      },
+      {
         "_id": "68a8463f0f60016219118f89",
         "title": "Hack2Win: How you can grab extra tickets",
         "code": "hack2win",
@@ -7196,6 +7220,27 @@
         ]
       },
       {
+        "_id": "69c0b89da629a2cfa3c0b55e",
+        "title": "Password Cracking",
+        "code": "passwordcracking",
+        "description": "Learn how passwords are hashed, identify hash types, and crack them with Hashcat and John the Ripper.",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/6808d44047ac5684351c94da-1779195328261",
+        "difficulty": "easy",
+        "freeToUse": false,
+        "type": "walkthrough",
+        "timeToComplete": 60,
+        "povTags": [
+          "Red"
+        ],
+        "technologyTags": [
+          "Linux",
+          "John the Ripper",
+          "Hashcat",
+          "Hash-identifier",
+          "Password cracking"
+        ]
+      },
+      {
         "_id": "69c2381f98005f8d89c1e7fe",
         "title": "Guided Pentest: Web",
         "code": "guidedpentestweb",
@@ -7693,8 +7738,8 @@
         ]
       }
     ],
-    "totalDocs": 361,
-    "limit": 361,
+    "totalDocs": 363,
+    "limit": 363,
     "page": 1,
     "totalPages": 1,
     "nextPage": null,
@@ -7703,5 +7748,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-09-28T14:59:57.123Z"
+  "_fetchedAt": "2026-10-05T07:37:18.412Z"
 }

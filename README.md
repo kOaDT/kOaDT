@@ -35,9 +35,9 @@
 
 | CVE | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:----|:------------|---:|---:|----:|---:|
-| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 15 | 3 | 5913 | 1804 |
-| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 9 | 3 | 2839 | 1090 |
-| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | 1097 | 402 |
+| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 15 | 3 | 5924 | 1807 |
+| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 9 | 3 | 2841 | 1095 |
+| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | 1097 | 404 |
 
 </details>
 <!-- POC_CVE_END -->
@@ -49,11 +49,11 @@
 
 | Project | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:--------|:------------|---:|---:|----:|---:|
-| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | Security training for the apps you actually ship. Open your browser and start hacking. | 48 | 57 | 7585 | 56344 |
-| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 7 | 1 | 261537 | 2385 |
-| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 165 | 668 |
-| [**awesome-pentest-tools**](https://github.com/kOaDT/awesome-pentest-tools) | Open-source offensive security tools, plus a vendor-agnostic AI agent that runs authorized pentest engagements using only tools from this list. | 3 | 2 | 70 | 298 |
-| [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 91 | 276 |
+| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | Security training for the apps you actually ship. Open your browser and start hacking. | 49 | 57 | 7602 | 56399 |
+| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 7 | 1 | 261537 | 2396 |
+| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 167 | 668 |
+| [**awesome-pentest-tools**](https://github.com/kOaDT/awesome-pentest-tools) | Open-source offensive security tools, plus a vendor-agnostic AI agent that runs authorized pentest engagements using only tools from this list. | 3 | 2 | 70 | 300 |
+| [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 92 | 276 |
 
 </details>
 <!-- PROJECTS_END -->
@@ -65,28 +65,28 @@
 
 | Repository | Description | ⭐ | 🍴 |
 |:-----------|:------------|---:|---:|
-| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 5725 | 496 |
+| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 5728 | 496 |
 | [**ThePorgs/Exegol**](https://github.com/ThePorgs/Exegol) | Fully featured and community-driven hacking environment | 3102 | 289 |
 | [**OWASP/www-community**](https://github.com/OWASP/www-community) | OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. | 1410 | 851 |
 | [**OWASP/www-project-vulnerable-web-applications-directory**](https://github.com/OWASP/www-project-vulnerable-web-applications-directory) | The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available. | 94 | 52 |
 | [**OWASP/OCSD**](https://github.com/OWASP/OCSD) | OWASP Certified Secure-Software Developer | 42 | 16 |
-| [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 368805 | 45026 |
-| [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | 90525 | 9320 |
-| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 47335 | 2952 |
-| [**enaqx/awesome-pentest**](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources and tools | 27334 | 4971 |
-| [**qazbnm456/awesome-web-security**](https://github.com/qazbnm456/awesome-web-security) | 🐶 A curated list of Web Security materials and resources. | 13846 | 1823 |
-| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 7285 | 1364 |
-| [**satnaing/astro-paper**](https://github.com/satnaing/astro-paper) | A minimal, accessible and SEO-friendly Astro blog theme. | 5094 | 1110 |
+| [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 368873 | 45028 |
+| [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | 90537 | 9323 |
+| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 47342 | 2952 |
+| [**enaqx/awesome-pentest**](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources and tools | 27343 | 4972 |
+| [**qazbnm456/awesome-web-security**](https://github.com/qazbnm456/awesome-web-security) | 🐶 A curated list of Web Security materials and resources. | 13851 | 1823 |
+| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 7286 | 1365 |
+| [**satnaing/astro-paper**](https://github.com/satnaing/astro-paper) | A minimal, accessible and SEO-friendly Astro blog theme. | 5094 | 1111 |
 | [**husnainfareed/awesome-ethical-hacking-resources**](https://github.com/husnainfareed/awesome-ethical-hacking-resources) | 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing. | 3788 | 561 |
-| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 3555 | 3507 |
+| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 3564 | 3515 |
 | [**beelzebub-labs/beelzebub**](https://github.com/beelzebub-labs/beelzebub) | A secure low code deception runtime framework, leveraging AI for System Virtualization. | 2189 | 214 |
-| [**fabionoth/awesome-cyber-security**](https://github.com/fabionoth/awesome-cyber-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. | 1964 | 270 |
+| [**fabionoth/awesome-cyber-security**](https://github.com/fabionoth/awesome-cyber-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. | 1965 | 270 |
 | [**vavkamil/awesome-vulnerable-apps**](https://github.com/vavkamil/awesome-vulnerable-apps) | Awesome Vulnerable Applications | 1487 | 230 |
-| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1399 | 228 |
-| [**okhosting/awesome-cyber-security**](https://github.com/okhosting/awesome-cyber-security) | A curated list of cyber security resources and tools. | 764 | 127 |
+| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1400 | 228 |
+| [**okhosting/awesome-cyber-security**](https://github.com/okhosting/awesome-cyber-security) | A curated list of cyber security resources and tools. | 765 | 127 |
 | [**Grafikart/Grafikart.fr**](https://github.com/Grafikart/Grafikart.fr) | Dépôt pour la nouvelle version de Grafikart.fr | 699 | 191 |
 | [**noraj/rawsec-cybersecurity-inventory**](https://github.com/noraj/rawsec-cybersecurity-inventory) | An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity. | 345 | 75 |
-| [**onestlatech/onestlatech.github.io**](https://github.com/onestlatech/onestlatech.github.io) | ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites | 171 | 249 |
+| [**onestlatech/onestlatech.github.io**](https://github.com/onestlatech/onestlatech.github.io) | ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites | 171 | 247 |
 | [**secnotes/awesome-cybersecurity**](https://github.com/secnotes/awesome-cybersecurity) | A collection of awesome github repositories about security | 84 | 13 |
 
 </details>
@@ -126,7 +126,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #12694 | 1% | 777 days |
+| #12577 | 1% | 784 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -193,7 +193,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (361)</b></summary>
+<summary><b>TryHackMe Completed Rooms (363)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -454,111 +454,113 @@
 | 254 | [Systems as Attack Vectors](https://tryhackme.com/room/systemsattackvectors) | easy |
 | 255 | [SOC Role in Blue Team](https://tryhackme.com/room/socroleinblueteam) | easy |
 | 256 | [Web Security Essentials](https://tryhackme.com/room/websecurityessentials) | easy |
-| 257 | [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win) | info |
-| 258 | [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs) | easy |
-| 259 | [Input Manipulation & Prompt Injection](https://tryhackme.com/room/inputmanipulationpromptinjection) | easy |
-| 260 | [Data Integrity & Model Poisoning](https://tryhackme.com/room/modelpoisoning) | medium |
-| 261 | [LLM Output Handling and Privacy Risks](https://tryhackme.com/room/outputhandlingandprivacyrisks) | easy |
-| 262 | [IDOR - Santa’s Little IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9) | medium |
-| 263 | [Obfuscation - The Egg Shell File](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9) | medium |
-| 264 | [XSS - Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6) | easy |
-| 265 | [Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123) | easy |
-| 266 | [SOC Alert Triaging - Tinsel Triage](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2) | medium |
-| 267 | [Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp) | medium |
-| 268 | [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU) | easy |
-| 269 | [Prompt Injection - Sched-yule conflict](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO) | easy |
-| 270 | [Linux CLI - Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti) | easy |
-| 271 | [YARA Rules - YARA mean one!](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7) | medium |
-| 272 | [Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8) | medium |
-| 273 | [Exploitation with cURL - Hoperation Eggsploit](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0) | easy |
-| 274 | [ICS/Modbus - Claus for Concern](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4) | medium |
-| 275 | [Race Conditions - Toy to The World](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9) | easy |
-| 276 | [Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky) | easy |
-| 277 | [Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2) | medium |
-| 278 | [CyberChef - Hoperation Save McSkidy](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3) | medium |
-| 279 | [Phishing - Phishmas Greetings](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0) | medium |
-| 280 | [AI in Security - old sAInt nick](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB) | easy |
-| 281 | [Malware Analysis - Malhare.exe](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4) | easy |
-| 282 | [C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1) | medium |
-| 283 | [AWS Security - S3cret Santa](https://tryhackme.com/room/cloudenum-aoc2025-y4u7i0o3p6) | easy |
-| 284 | [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt) | medium |
-| 285 | [Web Attack Forensics - Drone Alone](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8) | medium |
-| 286 | [Cloud Security Pitfalls](https://tryhackme.com/room/cloudsecuritypitfalls) | easy |
-| 287 | [Juicy](https://tryhackme.com/room/juicy) | medium |
-| 288 | [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack) | easy |
-| 289 | [OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptopten2025one) | easy |
-| 290 | [OWASP Top 10 2025: Application Design Flaws](https://tryhackme.com/room/owasptopten2025two) | easy |
-| 291 | [OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025three) | easy |
-| 292 | [Django: CVE-2025-64459](https://tryhackme.com/room/djangocve202564459) | easy |
-| 293 | [BankGPT](https://tryhackme.com/room/bankgpt) | easy |
-| 294 | [HealthGPT](https://tryhackme.com/room/healthgpt) | easy |
-| 295 | [React2Shell: CVE-2025-55182](https://tryhackme.com/room/react2shellcve202555182) | easy |
-| 296 | [Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics) | easy |
-| 297 | [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction) | easy |
-| 298 | [Linux CLI Basics](https://tryhackme.com/room/linuxclibasics) | easy |
-| 299 | [Data Representation](https://tryhackme.com/room/datarepresentation) | easy |
-| 300 | [Data Encoding](https://tryhackme.com/room/dataencoding) | easy |
-| 301 | [JavaScript: Simple Demo](https://tryhackme.com/room/javascriptsimpledemo) | medium |
-| 302 | [Python: Simple Demo](https://tryhackme.com/room/pythonsimpledemo) | easy |
-| 303 | [LLM Security](https://tryhackme.com/room/llmsecurity) | medium |
-| 304 | [Windows Basics](https://tryhackme.com/room/windowsbasics) | easy |
-| 305 | [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals) | easy |
-| 306 | [Windows CLI Basics](https://tryhackme.com/room/windowsclibasics) | easy |
-| 307 | [The CIA Triad](https://tryhackme.com/room/theciatriad) | easy |
-| 308 | [Database SQL Basics](https://tryhackme.com/room/databasesqlbasics) | easy |
-| 309 | [Recruit](https://tryhackme.com/room/recruitwebchallenge) | medium |
-| 310 | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | easy |
-| 311 | [Client-Server Basics](https://tryhackme.com/room/clientserverbasics) | easy |
-| 312 | [Understanding Vulnerability Databases](https://tryhackme.com/room/understandingvulnerabilitydatabases) | easy |
-| 313 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
-| 314 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
-| 315 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
-| 316 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
-| 317 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
-| 318 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
-| 319 | [Support](https://tryhackme.com/room/support) | medium |
-| 320 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
-| 321 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
-| 322 | [API Pentesting](https://tryhackme.com/room/apitesting) | easy |
-| 323 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
-| 324 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
-| 325 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
-| 326 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
-| 327 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
-| 328 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
-| 329 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
-| 330 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
-| 331 | [Basic Vulnerability Identification Techniques](https://tryhackme.com/room/basicvulnerabilityidentificationtechniques) | easy |
-| 332 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
-| 333 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
-| 334 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
-| 335 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
-| 336 | [Vulnerability Scanning Tools](https://tryhackme.com/room/vulnerabilityscanningtools) | medium |
-| 337 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 338 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
-| 339 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 340 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
-| 341 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
-| 342 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
-| 343 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
-| 344 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
-| 345 | [CVE-2026-46300: Fragnesia](https://tryhackme.com/room/cve202646300) | easy |
-| 346 | [CVE-2026-42945: Nginx Rift](https://tryhackme.com/room/cve202642945) | easy |
-| 347 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
-| 348 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
-| 349 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
-| 350 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
-| 351 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
-| 352 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
-| 353 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
-| 354 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
-| 355 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
-| 356 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
-| 357 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
-| 358 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
-| 359 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
-| 360 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
-| 361 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
+| 257 | [Introduction to Wordlists](https://tryhackme.com/room/introductiontowordlists) | easy |
+| 258 | [Hack2Win: How you can grab extra tickets](https://tryhackme.com/room/hack2win) | info |
+| 259 | [Introduction to EDR](https://tryhackme.com/room/introductiontoedrs) | easy |
+| 260 | [Input Manipulation & Prompt Injection](https://tryhackme.com/room/inputmanipulationpromptinjection) | easy |
+| 261 | [Data Integrity & Model Poisoning](https://tryhackme.com/room/modelpoisoning) | medium |
+| 262 | [LLM Output Handling and Privacy Risks](https://tryhackme.com/room/outputhandlingandprivacyrisks) | easy |
+| 263 | [IDOR - Santa’s Little IDOR](https://tryhackme.com/room/idor-aoc2025-zl6MywQid9) | medium |
+| 264 | [Obfuscation - The Egg Shell File](https://tryhackme.com/room/obfuscation-aoc2025-e5r8t2y6u9) | medium |
+| 265 | [XSS - Merry XSSMas](https://tryhackme.com/room/xss-aoc2025-c5j8b1m4t6) | easy |
+| 266 | [Passwords - A Cracking Christmas](https://tryhackme.com/room/attacks-on-ecrypted-files-aoc2025-asdfghj123) | easy |
+| 267 | [SOC Alert Triaging - Tinsel Triage](https://tryhackme.com/room/azuresentinel-aoc2025-a7d3h9k0p2) | medium |
+| 268 | [Splunk Basics - Did you SIEM?](https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp) | medium |
+| 269 | [Phishing - Merry Clickmas](https://tryhackme.com/room/phishing-aoc2025-h2tkye9fzU) | easy |
+| 270 | [Prompt Injection - Sched-yule conflict](https://tryhackme.com/room/promptinjection-aoc2025-sxUMnCkvLO) | easy |
+| 271 | [Linux CLI - Shells Bells](https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti) | easy |
+| 272 | [YARA Rules - YARA mean one!](https://tryhackme.com/room/yara-aoc2025-q9w1e3y5u7) | medium |
+| 273 | [Forensics - Registry Furensics](https://tryhackme.com/room/registry-forensics-aoc2025-h6k9j2l5p8) | medium |
+| 274 | [Exploitation with cURL - Hoperation Eggsploit](https://tryhackme.com/room/webhackingusingcurl-aoc2025-w8q1a4s7d0) | easy |
+| 275 | [ICS/Modbus - Claus for Concern](https://tryhackme.com/room/ICS-modbus-aoc2025-g3m6n9b1v4) | medium |
+| 276 | [Race Conditions - Toy to The World](https://tryhackme.com/room/race-conditions-aoc2025-d7f0g3h6j9) | easy |
+| 277 | [Network Discovery - Scan-ta Clause](https://tryhackme.com/room/networkservices-aoc2025-jnsoqbxgky) | easy |
+| 278 | [Containers - DoorDasher's Demise](https://tryhackme.com/room/container-security-aoc2025-z0x3v6n9m2) | medium |
+| 279 | [CyberChef - Hoperation Save McSkidy](https://tryhackme.com/room/encoding-decoding-aoc2025-s1a4z7x0c3) | medium |
+| 280 | [Phishing - Phishmas Greetings](https://tryhackme.com/room/spottingphishing-aoc2025-r2g4f6s8l0) | medium |
+| 281 | [AI in Security - old sAInt nick](https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB) | easy |
+| 282 | [Malware Analysis - Malhare.exe](https://tryhackme.com/room/htapowershell-aoc2025-p2l5k8j1h4) | easy |
+| 283 | [C2 Detection - Command & Carol](https://tryhackme.com/room/detecting-c2-with-rita-aoc2025-m9n2b5v8c1) | medium |
+| 284 | [AWS Security - S3cret Santa](https://tryhackme.com/room/cloudenum-aoc2025-y4u7i0o3p6) | easy |
+| 285 | [Malware Analysis - Egg-xecutable](https://tryhackme.com/room/malware-sandbox-aoc2025-SD1zn4fZQt) | medium |
+| 286 | [Web Attack Forensics - Drone Alone](https://tryhackme.com/room/webattackforensics-aoc2025-b4t7c1d5f8) | medium |
+| 287 | [Cloud Security Pitfalls](https://tryhackme.com/room/cloudsecuritypitfalls) | easy |
+| 288 | [Juicy](https://tryhackme.com/room/juicy) | medium |
+| 289 | [Advent of Cyber Prep Track](https://tryhackme.com/room/adventofcyberpreptrack) | easy |
+| 290 | [OWASP Top 10 2025: IAAA Failures](https://tryhackme.com/room/owasptopten2025one) | easy |
+| 291 | [OWASP Top 10 2025: Application Design Flaws](https://tryhackme.com/room/owasptopten2025two) | easy |
+| 292 | [OWASP Top 10 2025: Insecure Data Handling](https://tryhackme.com/room/owasptopten2025three) | easy |
+| 293 | [Django: CVE-2025-64459](https://tryhackme.com/room/djangocve202564459) | easy |
+| 294 | [BankGPT](https://tryhackme.com/room/bankgpt) | easy |
+| 295 | [HealthGPT](https://tryhackme.com/room/healthgpt) | easy |
+| 296 | [React2Shell: CVE-2025-55182](https://tryhackme.com/room/react2shellcve202555182) | easy |
+| 297 | [Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics) | easy |
+| 298 | [Operating Systems: Introduction](https://tryhackme.com/room/operatingsystemsintroduction) | easy |
+| 299 | [Linux CLI Basics](https://tryhackme.com/room/linuxclibasics) | easy |
+| 300 | [Data Representation](https://tryhackme.com/room/datarepresentation) | easy |
+| 301 | [Data Encoding](https://tryhackme.com/room/dataencoding) | easy |
+| 302 | [JavaScript: Simple Demo](https://tryhackme.com/room/javascriptsimpledemo) | medium |
+| 303 | [Python: Simple Demo](https://tryhackme.com/room/pythonsimpledemo) | easy |
+| 304 | [LLM Security](https://tryhackme.com/room/llmsecurity) | medium |
+| 305 | [Windows Basics](https://tryhackme.com/room/windowsbasics) | easy |
+| 306 | [Cloud Computing Fundamentals](https://tryhackme.com/room/cloudcomputingfundamentals) | easy |
+| 307 | [Windows CLI Basics](https://tryhackme.com/room/windowsclibasics) | easy |
+| 308 | [The CIA Triad](https://tryhackme.com/room/theciatriad) | easy |
+| 309 | [Database SQL Basics](https://tryhackme.com/room/databasesqlbasics) | easy |
+| 310 | [Recruit](https://tryhackme.com/room/recruitwebchallenge) | medium |
+| 311 | [Cryptography Concepts](https://tryhackme.com/room/cryptographyconcepts) | easy |
+| 312 | [Client-Server Basics](https://tryhackme.com/room/clientserverbasics) | easy |
+| 313 | [Understanding Vulnerability Databases](https://tryhackme.com/room/understandingvulnerabilitydatabases) | easy |
+| 314 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
+| 315 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
+| 316 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
+| 317 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
+| 318 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
+| 319 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
+| 320 | [Support](https://tryhackme.com/room/support) | medium |
+| 321 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
+| 322 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
+| 323 | [API Pentesting](https://tryhackme.com/room/apitesting) | easy |
+| 324 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
+| 325 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
+| 326 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
+| 327 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
+| 328 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
+| 329 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
+| 330 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
+| 331 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
+| 332 | [Basic Vulnerability Identification Techniques](https://tryhackme.com/room/basicvulnerabilityidentificationtechniques) | easy |
+| 333 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
+| 334 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
+| 335 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
+| 336 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
+| 337 | [Vulnerability Scanning Tools](https://tryhackme.com/room/vulnerabilityscanningtools) | medium |
+| 338 | [Password Cracking](https://tryhackme.com/room/passwordcracking) | easy |
+| 339 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 340 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
+| 341 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 342 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 343 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
+| 344 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
+| 345 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 346 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 347 | [CVE-2026-46300: Fragnesia](https://tryhackme.com/room/cve202646300) | easy |
+| 348 | [CVE-2026-42945: Nginx Rift](https://tryhackme.com/room/cve202642945) | easy |
+| 349 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
+| 350 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
+| 351 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
+| 352 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
+| 353 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
+| 354 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
+| 355 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
+| 356 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
+| 357 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
+| 358 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
+| 359 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
+| 360 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
+| 361 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
+| 362 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
+| 363 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
 
 </details>
 <!-- THM_ROOMS_END -->

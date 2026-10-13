@@ -126,7 +126,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #12581 | 1% | 790 days |
+| #12524 | 1% | 792 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -193,7 +193,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (364)</b></summary>
+<summary><b>TryHackMe Completed Rooms (365)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -535,33 +535,34 @@
 | 335 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
 | 336 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
 | 337 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
-| 338 | [Vulnerability Scanning Tools](https://tryhackme.com/room/vulnerabilityscanningtools) | medium |
-| 339 | [Password Cracking](https://tryhackme.com/room/passwordcracking) | easy |
-| 340 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 341 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
-| 342 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 343 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
-| 344 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
-| 345 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
-| 346 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
-| 347 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
-| 348 | [CVE-2026-46300: Fragnesia](https://tryhackme.com/room/cve202646300) | easy |
-| 349 | [CVE-2026-42945: Nginx Rift](https://tryhackme.com/room/cve202642945) | easy |
-| 350 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
-| 351 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
-| 352 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
-| 353 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
-| 354 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
-| 355 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
-| 356 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
-| 357 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
-| 358 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
-| 359 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
-| 360 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
-| 361 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
-| 362 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
-| 363 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
-| 364 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
+| 338 | [Metasploit: The Basics](https://tryhackme.com/room/metasploitthebasics) | medium |
+| 339 | [Vulnerability Scanning Tools](https://tryhackme.com/room/vulnerabilityscanningtools) | medium |
+| 340 | [Password Cracking](https://tryhackme.com/room/passwordcracking) | easy |
+| 341 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 342 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
+| 343 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 344 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 345 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
+| 346 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
+| 347 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 348 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 349 | [CVE-2026-46300: Fragnesia](https://tryhackme.com/room/cve202646300) | easy |
+| 350 | [CVE-2026-42945: Nginx Rift](https://tryhackme.com/room/cve202642945) | easy |
+| 351 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
+| 352 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
+| 353 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
+| 354 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
+| 355 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
+| 356 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
+| 357 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
+| 358 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
+| 359 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
+| 360 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
+| 361 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
+| 362 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
+| 363 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
+| 364 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
+| 365 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
 
 </details>
 <!-- THM_ROOMS_END -->

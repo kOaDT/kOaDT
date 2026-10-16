@@ -126,7 +126,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #12524 | 1% | 792 days |
+| #12543 | 1% | 795 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -193,7 +193,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (365)</b></summary>
+<summary><b>TryHackMe Completed Rooms (366)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -548,21 +548,22 @@
 | 348 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
 | 349 | [CVE-2026-46300: Fragnesia](https://tryhackme.com/room/cve202646300) | easy |
 | 350 | [CVE-2026-42945: Nginx Rift](https://tryhackme.com/room/cve202642945) | easy |
-| 351 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
-| 352 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
-| 353 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
-| 354 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
-| 355 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
-| 356 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
-| 357 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
-| 358 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
-| 359 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
-| 360 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
-| 361 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
-| 362 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
-| 363 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
-| 364 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
-| 365 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
+| 351 | [AI Security Threats](https://tryhackme.com/room/aisecuritythreats) | easy |
+| 352 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
+| 353 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
+| 354 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
+| 355 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
+| 356 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
+| 357 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
+| 358 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
+| 359 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
+| 360 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
+| 361 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
+| 362 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
+| 363 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
+| 364 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
+| 365 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
+| 366 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
 
 </details>
 <!-- THM_ROOMS_END -->

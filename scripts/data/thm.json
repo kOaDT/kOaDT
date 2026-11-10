@@ -15,20 +15,20 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 32565,
+    "totalPoints": 32613,
     "displayedCertificateTypes": [],
     "badgesNumber": 51,
-    "completedRoomsNumber": 366,
-    "streak": 814,
-    "largestStreak": 814,
-    "rank": 12667,
+    "completedRoomsNumber": 367,
+    "streak": 820,
+    "largestStreak": 820,
+    "rank": 12705,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "gold",
     "capabilityScore": {
-      "value": 71.50879563824756,
+      "value": 63.82,
       "pov": "blue"
     },
     "isPrivateProfile": false,
@@ -5634,7 +5634,10 @@
         "difficulty": "medium",
         "freeToUse": true,
         "type": "challenge",
-        "timeToComplete": 60
+        "timeToComplete": 60,
+        "technologyTags": [
+          "AI"
+        ]
       },
       {
         "_id": "68515928d4c468f7db6cc15e",
@@ -6415,7 +6418,10 @@
         "difficulty": "easy",
         "freeToUse": false,
         "type": "challenge",
-        "timeToComplete": 60
+        "timeToComplete": 60,
+        "technologyTags": [
+          "AI"
+        ]
       },
       {
         "_id": "6931423a01db5e52a77a7e1d",
@@ -7516,6 +7522,17 @@
         ]
       },
       {
+        "_id": "6a4e02f22301ceff550b9e60",
+        "title": "Defensive Security Intro",
+        "code": "defensivesecurityintroexp",
+        "description": "Get a taster for how cyber defenders stop a hacker in this interactive scenario",
+        "imageURL": "https://cdn-images.tryhackme.com/room-icons/5de96d9ca744773ea7ef8c00-1784059295216",
+        "difficulty": "easy",
+        "freeToUse": true,
+        "type": "walkthrough",
+        "timeToComplete": 10
+      },
+      {
         "_id": "6a563de9049ff06dc3ed0e0f",
         "title": "The Concierge Knows Too Much",
         "code": "hh-theconciergeknows-2d7eb4d9",
@@ -7796,8 +7813,8 @@
         ]
       }
     ],
-    "totalDocs": 366,
-    "limit": 366,
+    "totalDocs": 367,
+    "limit": 367,
     "page": 1,
     "totalPages": 1,
     "nextPage": null,
@@ -7806,5 +7823,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-11-04T20:08:49.477Z"
+  "_fetchedAt": "2026-11-10T19:53:52.260Z"
 }

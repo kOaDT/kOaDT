@@ -15,20 +15,20 @@
     "redditUsername": "",
     "discordUsername": "",
     "calendlyUrl": "",
-    "totalPoints": 32637,
+    "totalPoints": 32669,
     "displayedCertificateTypes": [],
     "badgesNumber": 51,
     "completedRoomsNumber": 367,
-    "streak": 823,
-    "largestStreak": 823,
-    "rank": 12721,
+    "streak": 827,
+    "largestStreak": 827,
+    "rank": 12744,
     "topPercentage": 1,
     "isInTopTenPercent": true,
     "badgeImageURL": "https://tryhackme-badges.s3.amazonaws.com/kOaDT.png",
     "userRole": "professional",
     "leagueTier": "gold",
     "capabilityScore": {
-      "value": 63.82,
+      "value": 70.25136961667528,
       "pov": "blue"
     },
     "isPrivateProfile": false,
@@ -7823,5 +7823,5 @@
     "hasPrevPage": false,
     "hasNextPage": false
   },
-  "_fetchedAt": "2026-11-13T19:21:45.090Z"
+  "_fetchedAt": "2026-11-17T18:51:59.197Z"
 }

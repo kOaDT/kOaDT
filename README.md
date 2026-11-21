@@ -35,9 +35,9 @@
 
 | CVE | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:----|:------------|---:|---:|----:|---:|
-| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 17 | 3 | 6163 | 2057 |
-| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 9 | 3 | 3166 | 1452 |
-| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | 1158 | 576 |
+| [**CVE-2025-55182**](https://github.com/kOaDT/poc-cve-2025-55182) | This repository contains a POC of CVE-2025-55182, a critical (CVSS score 10.0) pre-authentication remote code execution vulnerability affecting React Server Components, also known as React2Shell. | 18 | 3 | 6163 | 2058 |
+| [**CVE-2025-29927**](https://github.com/kOaDT/poc-cve-2025-29927) | This repository contains a POC and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware. | 10 | 3 | 3172 | 1454 |
+| [**CVE-2026-32255**](https://github.com/kOaDT/poc-cve-2026-32255) | This repository contains a proof of concept (POC) for CVE-2026-32255, a high-severity Server-Side Request Forgery (SSRF) vulnerability in Kan, an open-source project management tool. | 2 | - | 1159 | 577 |
 
 </details>
 <!-- POC_CVE_END -->
@@ -49,10 +49,10 @@
 
 | Project | Description | ⭐ | 🍴 | 👁️ | 📥 |
 |:--------|:------------|---:|---:|----:|---:|
-| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | Security training for the apps you actually ship. Open your browser and start hacking. | 59 | 58 | 8910 | 59852 |
-| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 7 | 1 | 261537 | 2721 |
-| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 180 | 867 |
-| [**awesome-pentest-tools**](https://github.com/kOaDT/awesome-pentest-tools) | Open-source offensive security tools, plus a vendor-agnostic AI agent that runs authorized pentest engagements using only tools from this list. | 3 | 3 | 101 | 367 |
+| [**oss-oopssec-store**](https://github.com/kOaDT/oss-oopssec-store) | Security training for the apps you actually ship. Open your browser and start hacking. | 59 | 58 | 8932 | 59988 |
+| [**cyber-bot**](https://github.com/kOaDT/cyber-bot) | Threat intelligence platform: RSS aggregation, NVD CVE tracking, ENISA EUVD, databreaches, ... | 7 | 1 | 261537 | 2722 |
+| [**hate-crimes-map**](https://github.com/kOaDT/hate-crimes-map) | This project aims to visualize hate crime data to bring visibility to crimes that are often invisible or normalized by society. | 3 | - | 180 | 869 |
+| [**awesome-pentest-tools**](https://github.com/kOaDT/awesome-pentest-tools) | Open-source offensive security tools, plus a vendor-agnostic AI agent that runs authorized pentest engagements using only tools from this list. | 3 | 3 | 103 | 369 |
 | [**crack-hash**](https://github.com/kOaDT/crack-hash) | A fast, multi-threaded hash cracking tool written in Rust. This tool performs dictionary attacks against hashed passwords. | 2 | - | 131 | 576 |
 
 </details>
@@ -65,25 +65,25 @@
 
 | Repository | Description | ⭐ | 🍴 |
 |:-----------|:------------|---:|---:|
-| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 6056 | 548 |
-| [**ThePorgs/Exegol**](https://github.com/ThePorgs/Exegol) | Fully featured and community-driven hacking environment | 3130 | 288 |
-| [**OWASP/www-community**](https://github.com/OWASP/www-community) | OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. | 1426 | 882 |
+| [**kanbn/kan**](https://github.com/kanbn/kan) | The open source Trello alternative. | 6060 | 549 |
+| [**ThePorgs/Exegol**](https://github.com/ThePorgs/Exegol) | Fully featured and community-driven hacking environment | 3130 | 289 |
+| [**OWASP/www-community**](https://github.com/OWASP/www-community) | OWASP Community Pages are a place where OWASP can accept community contributions for security-related content. | 1426 | 883 |
 | [**OWASP/www-project-vulnerable-web-applications-directory**](https://github.com/OWASP/www-project-vulnerable-web-applications-directory) | The OWASP Vulnerable Web Applications Directory Project (VWAD) is a comprehensive and well maintained registry of all known vulnerable web applications currently available. | 95 | 57 |
 | [**OWASP/OCSD**](https://github.com/OWASP/OCSD) | OWASP Certified Secure-Software Developer | 45 | 18 |
-| [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 372396 | 46520 |
-| [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | 91167 | 9514 |
-| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 48469 | 3124 |
-| [**enaqx/awesome-pentest**](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources and tools | 27797 | 5023 |
-| [**qazbnm456/awesome-web-security**](https://github.com/qazbnm456/awesome-web-security) | 🐶 A curated list of Web Security materials and resources. | 14075 | 1853 |
-| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 7362 | 1371 |
+| [**nilbuild/developer-roadmap**](https://github.com/nilbuild/developer-roadmap) | Interactive roadmaps, guides and other educational content to help developers grow in their careers. | 372461 | 45450 |
+| [**mermaid-js/mermaid**](https://github.com/mermaid-js/mermaid) | Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown | 91183 | 9510 |
+| [**usebruno/bruno**](https://github.com/usebruno/bruno) | Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) | 48489 | 3128 |
+| [**enaqx/awesome-pentest**](https://github.com/enaqx/awesome-pentest) | A collection of awesome penetration testing resources and tools | 27808 | 5024 |
+| [**qazbnm456/awesome-web-security**](https://github.com/qazbnm456/awesome-web-security) | 🐶 A curated list of Web Security materials and resources. | 14081 | 1853 |
+| [**infoslack/awesome-web-hacking**](https://github.com/infoslack/awesome-web-hacking) | A list of web application security | 7365 | 1372 |
 | [**satnaing/astro-paper**](https://github.com/satnaing/astro-paper) | A minimal, accessible and SEO-friendly Astro blog theme. | 5220 | 1131 |
-| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 3889 | 3950 |
-| [**husnainfareed/awesome-ethical-hacking-resources**](https://github.com/husnainfareed/awesome-ethical-hacking-resources) | 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing. | 3835 | 560 |
-| [**beelzebub-labs/beelzebub**](https://github.com/beelzebub-labs/beelzebub) | A secure low code deception runtime framework, leveraging AI for System Virtualization. | 2253 | 222 |
+| [**lingdojo/kana-dojo**](https://github.com/lingdojo/kana-dojo) | Aesthetic, minimalist platform for learning Japanese inspired by Duolingo and Monkeytype, built with Next.js and sponsored by Vercel. Beginner-friendly with plenty of good first issues - all contributions are welcome! | 3886 | 3960 |
+| [**husnainfareed/awesome-ethical-hacking-resources**](https://github.com/husnainfareed/awesome-ethical-hacking-resources) | 😎 🔗 Awesome list about all kinds of resources for learning Ethical Hacking and Penetration Testing. | 3837 | 560 |
+| [**beelzebub-labs/beelzebub**](https://github.com/beelzebub-labs/beelzebub) | A secure low code deception runtime framework, leveraging AI for System Virtualization. | 2254 | 223 |
 | [**fabionoth/awesome-cyber-security**](https://github.com/fabionoth/awesome-cyber-security) | A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. | 1986 | 276 |
 | [**vavkamil/awesome-vulnerable-apps**](https://github.com/vavkamil/awesome-vulnerable-apps) | Awesome Vulnerable Applications | 1511 | 234 |
-| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1432 | 235 |
-| [**okhosting/awesome-cyber-security**](https://github.com/okhosting/awesome-cyber-security) | A curated list of cyber security resources and tools. | 801 | 147 |
+| [**kaiiyer/awesome-vulnerable**](https://github.com/kaiiyer/awesome-vulnerable) | A curated list of VULNERABLE APPS and SYSTEMS which can be used as PENETRATION TESTING PRACTICE LAB. | 1433 | 235 |
+| [**okhosting/awesome-cyber-security**](https://github.com/okhosting/awesome-cyber-security) | A curated list of cyber security resources and tools. | 801 | 148 |
 | [**Grafikart/Grafikart.fr**](https://github.com/Grafikart/Grafikart.fr) | Dépôt pour la nouvelle version de Grafikart.fr | 702 | 192 |
 | [**noraj/rawsec-cybersecurity-inventory**](https://github.com/noraj/rawsec-cybersecurity-inventory) | An inventory of tools and resources about CyberSecurity that  aims to help people to find everything related to CyberSecurity. | 351 | 75 |
 | [**onestlatech/onestlatech.github.io**](https://github.com/onestlatech/onestlatech.github.io) | ✊ Manifeste des travailleuses et travailleurs du numérique pour une autre réforme des retraites | 172 | 257 |
@@ -126,7 +126,7 @@
 
 | Global Rank | Top | Streak |
 |-------------|-----|--------|
-| #12744 | 1% | 827 days |
+| #12775 | 1% | 830 days |
 
 </details>
 <!-- THM_STATS_END -->
@@ -193,7 +193,7 @@
 
 <!-- THM_ROOMS_START -->
 <details>
-<summary><b>TryHackMe Completed Rooms (367)</b></summary>
+<summary><b>TryHackMe Completed Rooms (368)</b></summary>
 <br>
 
 | # | Room | Difficulty |
@@ -514,57 +514,58 @@
 | 314 | [Become a Hacker](https://tryhackme.com/room/becomeahacker) | easy |
 | 315 | [Become a Defender](https://tryhackme.com/room/becomeadefender) | easy |
 | 316 | [n8n: CVE-2025-68613](https://tryhackme.com/room/n8ncve202568613) | easy |
-| 317 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
-| 318 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
-| 319 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
-| 320 | [Support](https://tryhackme.com/room/support) | medium |
-| 321 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
-| 322 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
-| 323 | [API Pentesting](https://tryhackme.com/room/apitesting) | easy |
-| 324 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
-| 325 | [Checkmate](https://tryhackme.com/room/checkmate) | easy |
-| 326 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
-| 327 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
-| 328 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
-| 329 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
-| 330 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
-| 331 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
-| 332 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
-| 333 | [Basic Vulnerability Identification Techniques](https://tryhackme.com/room/basicvulnerabilityidentificationtechniques) | easy |
-| 334 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
-| 335 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
-| 336 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
-| 337 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
-| 338 | [Metasploit: The Basics](https://tryhackme.com/room/metasploitthebasics) | medium |
-| 339 | [Vulnerability Scanning Tools](https://tryhackme.com/room/vulnerabilityscanningtools) | medium |
-| 340 | [Password Cracking](https://tryhackme.com/room/passwordcracking) | easy |
-| 341 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
-| 342 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
-| 343 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
-| 344 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
-| 345 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
-| 346 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
-| 347 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
-| 348 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
-| 349 | [CVE-2026-46300: Fragnesia](https://tryhackme.com/room/cve202646300) | easy |
-| 350 | [CVE-2026-42945: Nginx Rift](https://tryhackme.com/room/cve202642945) | easy |
-| 351 | [AI Security Threats](https://tryhackme.com/room/aisecuritythreats) | easy |
-| 352 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
-| 353 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroexp) | easy |
-| 354 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
-| 355 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
-| 356 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
-| 357 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
-| 358 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
-| 359 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
-| 360 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
-| 361 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
-| 362 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
-| 363 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
-| 364 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
-| 365 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
-| 366 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
-| 367 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
+| 317 | [Caido: The Basics](https://tryhackme.com/room/caidobasics) | easy |
+| 318 | [Offensive Security Intro](https://tryhackme.com/room/offensivesecurityintrokKx12) | easy |
+| 319 | [Inside a Computer System](https://tryhackme.com/room/insideacomputer) | easy |
+| 320 | [GeoServer: CVE-2025-58360](https://tryhackme.com/room/geoservercve202558360) | medium |
+| 321 | [Support](https://tryhackme.com/room/support) | medium |
+| 322 | [Computer Types](https://tryhackme.com/room/computertypes) | easy |
+| 323 | [Dive Into Pentesting](https://tryhackme.com/room/diveintopentesting) | easy |
+| 324 | [API Pentesting](https://tryhackme.com/room/apitesting) | easy |
+| 325 | [Prompt Engineering](https://tryhackme.com/room/promptengineeringaisec) | easy |
+| 326 | [Checkmate](https://tryhackme.com/room/checkmate) | easy |
+| 327 | [AI Models & Data](https://tryhackme.com/room/aimodelsdata) | medium |
+| 328 | [Walking An Application](https://tryhackme.com/room/walkinganapp) | easy |
+| 329 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroezn39) | info |
+| 330 | [AI Threat Modelling](https://tryhackme.com/room/aithreatmodelling) | medium |
+| 331 | [Securing AI Systems](https://tryhackme.com/room/securingaisystems) | medium |
+| 332 | [CSRF Introduction](https://tryhackme.com/room/csrfintroduction) | easy |
+| 333 | [AI System Reconnaissance](https://tryhackme.com/room/aisystemreconnaissance) | medium |
+| 334 | [Basic Vulnerability Identification Techniques](https://tryhackme.com/room/basicvulnerabilityidentificationtechniques) | easy |
+| 335 | [Penetration Testing Frameworks](https://tryhackme.com/room/penetrationtestingframeworks) | easy |
+| 336 | [Guided Pentest: Infrastructure](https://tryhackme.com/room/guidedpentestinfrastructure) | easy |
+| 337 | [XSS Introduction](https://tryhackme.com/room/xssintroduction) | medium |
+| 338 | [SQL Injection Introduction](https://tryhackme.com/room/sqlinjectionintroduction) | easy |
+| 339 | [Metasploit: The Basics](https://tryhackme.com/room/metasploitthebasics) | medium |
+| 340 | [Vulnerability Scanning Tools](https://tryhackme.com/room/vulnerabilityscanningtools) | medium |
+| 341 | [Password Cracking](https://tryhackme.com/room/passwordcracking) | easy |
+| 342 | [Guided Pentest: Web](https://tryhackme.com/room/guidedpentestweb) | easy |
+| 343 | [Web Server Attacks - I](https://tryhackme.com/room/webserverattacks) | medium |
+| 344 | [AI Threat Modelling Assessment](https://tryhackme.com/room/aithreatmodellingassessment) | easy |
+| 345 | [AI Security Path Ticketing Event](https://tryhackme.com/room/aisecuritypathticketingevent) | info |
+| 346 | [Web Server Attacks  - II](https://tryhackme.com/room/webserverattacks2) | medium |
+| 347 | [Broken Authentication](https://tryhackme.com/room/brokenauthentication) | easy |
+| 348 | [Modern Web Stacks](https://tryhackme.com/room/modernwebstacks) | easy |
+| 349 | [Content Discovery](https://tryhackme.com/room/contentdiscoveryx) | easy |
+| 350 | [CVE-2026-46300: Fragnesia](https://tryhackme.com/room/cve202646300) | easy |
+| 351 | [CVE-2026-42945: Nginx Rift](https://tryhackme.com/room/cve202642945) | easy |
+| 352 | [AI Security Threats](https://tryhackme.com/room/aisecuritythreats) | easy |
+| 353 | [NoScope: Finding RCE](https://tryhackme.com/room/noscoperce) | medium |
+| 354 | [Defensive Security Intro](https://tryhackme.com/room/defensivesecurityintroexp) | easy |
+| 355 | [The Concierge Knows Too Much](https://tryhackme.com/room/hh-theconciergeknows-2d7eb4d9) | easy |
+| 356 | [Room 404](https://tryhackme.com/room/hh-room404-804573bf) | easy |
+| 357 | [Complimentary](https://tryhackme.com/room/hh-complimentary-05e0b604) | easy |
+| 358 | [Packed Light](https://tryhackme.com/room/hh-packedlight-02e5330c) | easy |
+| 359 | [Beach Bar](https://tryhackme.com/room/hh-beachbar-d849f7f7) | easy |
+| 360 | [Overheard at Breakfast](https://tryhackme.com/room/hh-overheardatbreakfast-6f01793c) | easy |
+| 361 | [Do Not Disturb](https://tryhackme.com/room/hh-donotdisturb-84a45644) | medium |
+| 362 | [Towel on the Sunbed](https://tryhackme.com/room/hh-towelonthesunbed-61271709) | medium |
+| 363 | [CryptoCabana](https://tryhackme.com/room/hh-cryptocabana-f81cac95) | medium |
+| 364 | [The Hollow Shell](https://tryhackme.com/room/hh-thehollowshell-ddb582ac) | medium |
+| 365 | [Infinity Pool](https://tryhackme.com/room/hh-infinitypool-5b3548af) | medium |
+| 366 | [After Hours](https://tryhackme.com/room/hh-afterhours-b090d1f0) | medium |
+| 367 | [The Guestbook](https://tryhackme.com/room/hh-theguestbook-0130ffaf) | medium |
+| 368 | [Management Wants a Word](https://tryhackme.com/room/hh-managementwantsaword-6bf3cc41) | hard |
 
 </details>
 <!-- THM_ROOMS_END -->
